@@ -1,0 +1,782 @@
+[
+  {
+    "shot_id": "shot_0001",
+    "caption": "a man in a black shirt standing in the dark"
+  },
+  {
+    "shot_id": "shot_0002",
+    "caption": "a man in a black shirt is dancing"
+  },
+  {
+    "shot_id": "shot_0003",
+    "caption": "a man in a black shirt standing in front of a green light"
+  },
+  {
+    "shot_id": "shot_0004",
+    "caption": "a metal pot with a spoon in it"
+  },
+  {
+    "shot_id": "shot_0005",
+    "caption": "a man in a black shirt standing next to a woman"
+  },
+  {
+    "shot_id": "shot_0006",
+    "caption": "a man in a dark room with candles"
+  },
+  {
+    "shot_id": "shot_0007",
+    "caption": "a man sitting at a table with a knife"
+  },
+  {
+    "shot_id": "shot_0008",
+    "caption": "a man holding a white glove in his hand"
+  },
+  {
+    "shot_id": "shot_0009",
+    "caption": "a man in a white shirt and a man in a black shirt"
+  },
+  {
+    "shot_id": "shot_0010",
+    "caption": "the walking dead - the walking dead - the walking dead - the walking dead - the walking dead - the walking dead - the walking dead"
+  },
+  {
+    "shot_id": "shot_0011",
+    "caption": "a man is fixing a camera on a man"
+  },
+  {
+    "shot_id": "shot_0012",
+    "caption": "a man in glasses and a suit is talking to another man"
+  },
+  {
+    "shot_id": "shot_0013",
+    "caption": "a person holding a gun in their hand"
+  },
+  {
+    "shot_id": "shot_0014",
+    "caption": "a man holding a gun in his hand"
+  },
+  {
+    "shot_id": "shot_0015",
+    "caption": "a man holding a glass of wine"
+  },
+  {
+    "shot_id": "shot_0016",
+    "caption": "a man in a white shirt holding a gun"
+  },
+  {
+    "shot_id": "shot_0017",
+    "caption": "a man in a suit is talking to another man"
+  },
+  {
+    "shot_id": "shot_0018",
+    "caption": "a person typing on a keyboard"
+  },
+  {
+    "shot_id": "shot_0019",
+    "caption": "a man in glasses is looking at something"
+  },
+  {
+    "shot_id": "shot_0020",
+    "caption": "a computer screen with a green screen"
+  },
+  {
+    "shot_id": "shot_0021",
+    "caption": "a man in glasses is looking at something"
+  },
+  {
+    "shot_id": "shot_0022",
+    "caption": "a person typing on a computer keyboard"
+  },
+  {
+    "shot_id": "shot_0023",
+    "caption": "a man with glasses and a white shirt"
+  },
+  {
+    "shot_id": "shot_0024",
+    "caption": "a computer screen with a code on it"
+  },
+  {
+    "shot_id": "shot_0025",
+    "caption": "a laptop computer sitting on top of a table"
+  },
+  {
+    "shot_id": "shot_0026",
+    "caption": "a man in a cave with a flashlight"
+  },
+  {
+    "shot_id": "shot_0027",
+    "caption": "a robot is standing on the floor"
+  },
+  {
+    "shot_id": "shot_0028",
+    "caption": "a metal object is being worked on"
+  },
+  {
+    "shot_id": "shot_0029",
+    "caption": "a white tiger is in the middle of a scene"
+  },
+  {
+    "shot_id": "shot_0030",
+    "caption": "need for speed - need for speed - the game"
+  },
+  {
+    "shot_id": "shot_0031",
+    "caption": "a car is parked in a garage with lights on"
+  },
+  {
+    "shot_id": "shot_0032",
+    "caption": "a man with glasses and a white face"
+  },
+  {
+    "shot_id": "shot_0033",
+    "caption": "a car is parked in a garage with a robot"
+  },
+  {
+    "shot_id": "shot_0034",
+    "caption": "iron man - official trailer"
+  },
+  {
+    "shot_id": "shot_0035",
+    "caption": "a man in a suit standing in a garage"
+  },
+  {
+    "shot_id": "shot_0036",
+    "caption": "a man is standing on the floor in a room"
+  },
+  {
+    "shot_id": "shot_0037",
+    "caption": "a woman in a black dress is standing on a black tile"
+  },
+  {
+    "shot_id": "shot_0038",
+    "caption": "transformers transformers the movie"
+  },
+  {
+    "shot_id": "shot_0039",
+    "caption": "transformers transformers the last movie trailer"
+  },
+  {
+    "shot_id": "shot_0040",
+    "caption": "a man in a suit is standing next to a door"
+  },
+  {
+    "shot_id": "shot_0041",
+    "caption": "a close up of a red car with a black and white stripe"
+  },
+  {
+    "shot_id": "shot_0042",
+    "caption": "a close up of a yellow and black robot"
+  },
+  {
+    "shot_id": "shot_0043",
+    "caption": "a man in a suit standing next to a robot"
+  },
+  {
+    "shot_id": "shot_0044",
+    "caption": "a robot that is standing in the middle of a room"
+  },
+  {
+    "shot_id": "shot_0045",
+    "caption": "a close up of a car ' s front wheel"
+  },
+  {
+    "shot_id": "shot_0046",
+    "caption": "iron man - official trailer"
+  },
+  {
+    "shot_id": "shot_0047",
+    "caption": "a white light shining in the center of a circle"
+  },
+  {
+    "shot_id": "shot_0048",
+    "caption": "a white circle with a light shining in it"
+  },
+  {
+    "shot_id": "shot_0049",
+    "caption": "iron man - official trailer"
+  },
+  {
+    "shot_id": "shot_0050",
+    "caption": "a woman in a white dress is standing in a room"
+  },
+  {
+    "shot_id": "shot_0051",
+    "caption": "transformers transformers the last movie trailer"
+  },
+  {
+    "shot_id": "shot_0052",
+    "caption": "iron man trailer"
+  },
+  {
+    "shot_id": "shot_0053",
+    "caption": "iron man - official trailer"
+  },
+  {
+    "shot_id": "shot_0054",
+    "caption": "iron man trailer"
+  },
+  {
+    "shot_id": "shot_0055",
+    "caption": "a robot standing in front of a boat"
+  },
+  {
+    "shot_id": "shot_0056",
+    "caption": "a woman in a car with headphones on"
+  },
+  {
+    "shot_id": "shot_0057",
+    "caption": "a cockpit with a screen showing the cockpit and the cockpit screen"
+  },
+  {
+    "shot_id": "shot_0058",
+    "caption": "the avengers movie trailer"
+  },
+  {
+    "shot_id": "shot_0059",
+    "caption": "a man in a blue jacket"
+  },
+  {
+    "shot_id": "shot_0060",
+    "caption": "loki in thor ' s costume"
+  },
+  {
+    "shot_id": "shot_0061",
+    "caption": "a firework is in the air"
+  },
+  {
+    "shot_id": "shot_0062",
+    "caption": "iron man in avengers"
+  },
+  {
+    "shot_id": "shot_0063",
+    "caption": "a man standing in front of a truck"
+  },
+  {
+    "shot_id": "shot_0064",
+    "caption": "a man in a black shirt is walking through a tunnel"
+  },
+  {
+    "shot_id": "shot_0065",
+    "caption": "a room with a large statue in it"
+  },
+  {
+    "shot_id": "shot_0066",
+    "caption": "a person holding a cell phone in their hand"
+  },
+  {
+    "shot_id": "shot_0067",
+    "caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - iron - iron - iron - man - iron -"
+  },
+  {
+    "shot_id": "shot_0068",
+    "caption": "a man is standing on a ledge"
+  },
+  {
+    "shot_id": "shot_0069",
+    "caption": "a man in a suit is standing in the fog"
+  },
+  {
+    "shot_id": "shot_0070",
+    "caption": "a man in a suit and tie standing in front of a giant monster"
+  },
+  {
+    "shot_id": "shot_0071",
+    "caption": "a man in a black jacket and a woman in a black jacket"
+  },
+  {
+    "shot_id": "shot_0072",
+    "caption": "a room with a large mirror and a large mirror"
+  },
+  {
+    "shot_id": "shot_0073",
+    "caption": "a man in a car talking to another man"
+  },
+  {
+    "shot_id": "shot_0074",
+    "caption": "a man is standing on a balcony with a glass door"
+  },
+  {
+    "shot_id": "shot_0075",
+    "caption": "a view from the top of a skyscraper"
+  },
+  {
+    "shot_id": "shot_0076",
+    "caption": "a man in a suit standing in front of a window"
+  },
+  {
+    "shot_id": "shot_0077",
+    "caption": "a man in a trench coat holding a gun"
+  },
+  {
+    "shot_id": "shot_0078",
+    "caption": "a car is driving down a street in the rain"
+  },
+  {
+    "shot_id": "shot_0079",
+    "caption": "a large propeller"
+  },
+  {
+    "shot_id": "shot_0080",
+    "caption": "a man is standing on top of a building"
+  },
+  {
+    "shot_id": "shot_0081",
+    "caption": "a man is walking down a street with a skateboard"
+  },
+  {
+    "shot_id": "shot_0082",
+    "caption": "a large building with a lot of debris on it"
+  },
+  {
+    "shot_id": "shot_0083",
+    "caption": "a man in a suit is flying through the air"
+  },
+  {
+    "shot_id": "shot_0084",
+    "caption": "a man in a suit is flying through the air"
+  },
+  {
+    "shot_id": "shot_0085",
+    "caption": "a video of a man on a skateboard"
+  },
+  {
+    "shot_id": "shot_0086",
+    "caption": "a large building"
+  },
+  {
+    "shot_id": "shot_0087",
+    "caption": "the avengers movie scene"
+  },
+  {
+    "shot_id": "shot_0088",
+    "caption": "a man is playing a game on a laptop"
+  },
+  {
+    "shot_id": "shot_0089",
+    "caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man"
+  },
+  {
+    "shot_id": "shot_0090",
+    "caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man"
+  },
+  {
+    "shot_id": "shot_0091",
+    "caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man"
+  },
+  {
+    "shot_id": "shot_0092",
+    "caption": "the avengers movie scene"
+  },
+  {
+    "shot_id": "shot_0093",
+    "caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man"
+  },
+  {
+    "shot_id": "shot_0094",
+    "caption": "a man in a black shirt is standing on a bike"
+  },
+  {
+    "shot_id": "shot_0095",
+    "caption": "a scene from the avengers movie"
+  },
+  {
+    "shot_id": "shot_0096",
+    "caption": "a man in a room with a camera"
+  },
+  {
+    "shot_id": "shot_0097",
+    "caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - iron - man"
+  },
+  {
+    "shot_id": "shot_0098",
+    "caption": "a motorcycle is parked in a garage"
+  },
+  {
+    "shot_id": "shot_0099",
+    "caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man"
+  },
+  {
+    "shot_id": "shot_0100",
+    "caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - iron - man -"
+  },
+  {
+    "shot_id": "shot_0101",
+    "caption": "the avengers trailer is here"
+  },
+  {
+    "shot_id": "shot_0102",
+    "caption": "a man with a beard and a beard in a space suit"
+  },
+  {
+    "shot_id": "shot_0103",
+    "caption": "a man is jumping in the air in a building"
+  },
+  {
+    "shot_id": "shot_0104",
+    "caption": "a man is sitting on a table with a laptop"
+  },
+  {
+    "shot_id": "shot_0105",
+    "caption": "a man standing on a boat in the water"
+  },
+  {
+    "shot_id": "shot_0106",
+    "caption": "a man holding a gun in his hand"
+  },
+  {
+    "shot_id": "shot_0107",
+    "caption": "a man is holding a light in his hand"
+  },
+  {
+    "shot_id": "shot_0108",
+    "caption": "a man is reaching his hand up to the ground"
+  },
+  {
+    "shot_id": "shot_0109",
+    "caption": "a man is standing in the rain with his head down"
+  },
+  {
+    "shot_id": "shot_0110",
+    "caption": "the avengers movie trailer"
+  },
+  {
+    "shot_id": "shot_0111",
+    "caption": "iron man - official trailer"
+  },
+  {
+    "shot_id": "shot_0112",
+    "caption": "a man in a black jacket is standing in front of a mirror"
+  },
+  {
+    "shot_id": "shot_0113",
+    "caption": "the avengers movie scene"
+  },
+  {
+    "shot_id": "shot_0114",
+    "caption": "a man in a black jacket is holding his hands up"
+  },
+  {
+    "shot_id": "shot_0115",
+    "caption": "the avengers movie scene"
+  },
+  {
+    "shot_id": "shot_0116",
+    "caption": "a man in a black jacket is holding his hands up"
+  },
+  {
+    "shot_id": "shot_0117",
+    "caption": "the avengers movie scene"
+  },
+  {
+    "shot_id": "shot_0118",
+    "caption": "a man in a black jacket is holding his hands up"
+  },
+  {
+    "shot_id": "shot_0119",
+    "caption": "the avengers movie scene"
+  },
+  {
+    "shot_id": "shot_0120",
+    "caption": "harry and hermik in harry ' s house"
+  },
+  {
+    "shot_id": "shot_0121",
+    "caption": "a man holding a knife in his hand"
+  },
+  {
+    "shot_id": "shot_0122",
+    "caption": "the avengers movie scene"
+  },
+  {
+    "shot_id": "shot_0123",
+    "caption": "a man holding a gun in front of a window"
+  },
+  {
+    "shot_id": "shot_0124",
+    "caption": "a man in a black coat is walking through a tunnel"
+  },
+  {
+    "shot_id": "shot_0125",
+    "caption": "a man in a helmet and a fire"
+  },
+  {
+    "shot_id": "shot_0126",
+    "caption": "a man in a black jacket is walking down a tunnel"
+  },
+  {
+    "shot_id": "shot_0127",
+    "caption": "a man in a black jacket holding a pink ball"
+  },
+  {
+    "shot_id": "shot_0128",
+    "caption": "a man standing in front of a building"
+  },
+  {
+    "shot_id": "shot_0129",
+    "caption": "a robot standing in front of a building"
+  },
+  {
+    "shot_id": "shot_0130",
+    "caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man"
+  },
+  {
+    "shot_id": "shot_0131",
+    "caption": "a group of people sitting around a table"
+  },
+  {
+    "shot_id": "shot_0132",
+    "caption": "a drawing of a person with a hat on"
+  },
+  {
+    "shot_id": "shot_0133",
+    "caption": "a man and woman are talking to each other people"
+  },
+  {
+    "shot_id": "shot_0134",
+    "caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - man"
+  },
+  {
+    "shot_id": "shot_0135",
+    "caption": "a man in a green shirt is looking at the camera"
+  },
+  {
+    "shot_id": "shot_0136",
+    "caption": "iron man - official trailer"
+  },
+  {
+    "shot_id": "shot_0137",
+    "caption": "a man in a green shirt standing on a balcony"
+  },
+  {
+    "shot_id": "shot_0138",
+    "caption": "iron man - official trailer"
+  },
+  {
+    "shot_id": "shot_0139",
+    "caption": "a robot in a scene with a man in the background"
+  },
+  {
+    "shot_id": "shot_0140",
+    "caption": "a man is standing on a stage with a microphone"
+  },
+  {
+    "shot_id": "shot_0141",
+    "caption": "a fire is burning in the air"
+  },
+  {
+    "shot_id": "shot_0142",
+    "caption": "a man in a black shirt and a man in a white shirt"
+  },
+  {
+    "shot_id": "shot_0143",
+    "caption": "a man standing in front of a computer"
+  },
+  {
+    "shot_id": "shot_0144",
+    "caption": "a man in a dark room with two monitors"
+  },
+  {
+    "shot_id": "shot_0145",
+    "caption": "a man is typing on a laptop in a room"
+  },
+  {
+    "shot_id": "shot_0146",
+    "caption": "a computer screen with a blueprinted image of a plane"
+  },
+  {
+    "shot_id": "shot_0147",
+    "caption": "a man in a black shirt and sunglasses standing on a street"
+  },
+  {
+    "shot_id": "shot_0148",
+    "caption": "a man in a red robe kneeling on the ground"
+  },
+  {
+    "shot_id": "shot_0149",
+    "caption": "the avengers movie trailer"
+  },
+  {
+    "shot_id": "shot_0150",
+    "caption": "a plane flying in the sky"
+  },
+  {
+    "shot_id": "shot_0151",
+    "caption": "iron man - official trailer"
+  },
+  {
+    "shot_id": "shot_0152",
+    "caption": "the last of the zombies in the dark knight"
+  },
+  {
+    "shot_id": "shot_0153",
+    "caption": "a man in a black suit is holding a gun"
+  },
+  {
+    "shot_id": "shot_0154",
+    "caption": "a man sitting at a desk with a laptop"
+  },
+  {
+    "shot_id": "shot_0155",
+    "caption": "a man in a suit and tie standing in a room"
+  },
+  {
+    "shot_id": "shot_0156",
+    "caption": "a person is walking down a hallway"
+  },
+  {
+    "shot_id": "shot_0157",
+    "caption": "a man in a suit and tie standing in an office"
+  },
+  {
+    "shot_id": "shot_0158",
+    "caption": "a helicopter is parked in a parking with a man standing next to it"
+  },
+  {
+    "shot_id": "shot_0159",
+    "caption": "a man in a parachute suit is flying through the air"
+  },
+  {
+    "shot_id": "shot_0160",
+    "caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - iron - man -"
+  },
+  {
+    "shot_id": "shot_0161",
+    "caption": "captain america the first avenge"
+  },
+  {
+    "shot_id": "shot_0162",
+    "caption": "iron man and captain america"
+  },
+  {
+    "shot_id": "shot_0163",
+    "caption": "a helicopter flying through the air"
+  },
+  {
+    "shot_id": "shot_0164",
+    "caption": "a man in a black jacket is sitting in a car"
+  },
+  {
+    "shot_id": "shot_0165",
+    "caption": "a man sitting in the back seat of a car"
+  },
+  {
+    "shot_id": "shot_0166",
+    "caption": "a person is holding a book in their hand"
+  },
+  {
+    "shot_id": "shot_0167",
+    "caption": "a man is in the air with a parachute"
+  },
+  {
+    "shot_id": "shot_0168",
+    "caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - man"
+  },
+  {
+    "shot_id": "shot_0169",
+    "caption": "iron man and spider - man in the city"
+  },
+  {
+    "shot_id": "shot_0170",
+    "caption": "a group of people walking down a street"
+  },
+  {
+    "shot_id": "shot_0171",
+    "caption": "iron man - official trailer"
+  },
+  {
+    "shot_id": "shot_0172",
+    "caption": "iron man - official trailer"
+  },
+  {
+    "shot_id": "shot_0173",
+    "caption": "a video of a man in a suit and tie"
+  },
+  {
+    "shot_id": "shot_0174",
+    "caption": "a man walking through a forest with a dog"
+  },
+  {
+    "shot_id": "shot_0175",
+    "caption": "a man in a suit and a woman in a dress"
+  },
+  {
+    "shot_id": "shot_0176",
+    "caption": "a large group of people standing in a field"
+  },
+  {
+    "shot_id": "shot_0177",
+    "caption": "a man holding a snake in his hand"
+  },
+  {
+    "shot_id": "shot_0178",
+    "caption": "iron man - trailer - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - iron - man - iron - man -"
+  },
+  {
+    "shot_id": "shot_0179",
+    "caption": "the amazing spider in the amazing spider movie"
+  },
+  {
+    "shot_id": "shot_0180",
+    "caption": "a man in a brown shirt holding a gun"
+  },
+  {
+    "shot_id": "shot_0181",
+    "caption": "iron man - official trailer"
+  },
+  {
+    "shot_id": "shot_0182",
+    "caption": "a man in a red jacket pointing at something"
+  },
+  {
+    "shot_id": "shot_0183",
+    "caption": "iron man - official trailer"
+  },
+  {
+    "shot_id": "shot_0184",
+    "caption": "avengers the avengers movie"
+  },
+  {
+    "shot_id": "shot_0185",
+    "caption": "thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor"
+  },
+  {
+    "shot_id": "shot_0186",
+    "caption": "a large bird is sitting on the ground"
+  },
+  {
+    "shot_id": "shot_0187",
+    "caption": "a man standing in front of a large city"
+  },
+  {
+    "shot_id": "shot_0188",
+    "caption": "a man in a suit holding a gun"
+  },
+  {
+    "shot_id": "shot_0189",
+    "caption": "iron man - official trailer"
+  },
+  {
+    "shot_id": "shot_0190",
+    "caption": "iron man - official trailer"
+  },
+  {
+    "shot_id": "shot_0191",
+    "caption": "a man in a suit and tie is standing on a stage"
+  },
+  {
+    "shot_id": "shot_0192",
+    "caption": "a close up of a car ' s tail"
+  },
+  {
+    "shot_id": "shot_0193",
+    "caption": "a man in a suit standing in front of a crowd"
+  },
+  {
+    "shot_id": "shot_0194",
+    "caption": "robert downey - the last of the mohich"
+  },
+  {
+    "shot_id": "shot_0195",
+    "caption": "a black background with a white and red flower"
+  }
+]

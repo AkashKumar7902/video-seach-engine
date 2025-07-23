@@ -1,0 +1,1514 @@
+[
+    {
+        "segment_id": "segment_0001",
+        "segment_index": 1,
+        "start_time": 0.0,
+        "end_time": 38.872,
+        "duration_sec": 38.872,
+        "speakers": [],
+        "full_transcript": "",
+        "consolidated_visual_captions": [
+            "a man in a black shirt standing in the dark",
+            "a man in a black shirt is dancing",
+            "a man in a black shirt standing in front of a green light",
+            "a metal pot with a spoon in it",
+            "a man in a black shirt standing next to a woman",
+            "a man in a dark room with candles",
+            "a man sitting at a table with a knife",
+            "a man holding a white glove in his hand"
+        ],
+        "consolidated_audio_events": [
+            "Clang",
+            "Ding",
+            "Explosion",
+            "Mechanisms",
+            "Music",
+            "Theme music",
+            "Water"
+        ],
+        "shot_count": 8,
+        "shot_ids": [
+            "shot_0001",
+            "shot_0002",
+            "shot_0003",
+            "shot_0004",
+            "shot_0005",
+            "shot_0006",
+            "shot_0007",
+            "shot_0008"
+        ],
+        "title": "Mysterious Man, Green Light, and Ominous Sounds",
+        "summary": "The video segment shows a man in a black shirt in various dark settings, including a room with candles.  Accompanying audio includes metallic clangs, an explosion, and thematic music, creating a suspenseful atmosphere.  Other visuals include a metal pot, a knife, and a white glove, adding to the mystery.",
+        "keywords": [
+            "man in black shirt",
+            "dark room",
+            "green light",
+            "ominous sounds",
+            "metal pot",
+            "white glove",
+            "suspenseful atmosphere"
+        ]
+    },
+    {
+        "segment_id": "segment_0002",
+        "segment_index": 2,
+        "start_time": 38.914,
+        "end_time": 47.673,
+        "duration_sec": 8.759,
+        "speakers": [
+            "Unknown Speaker"
+        ],
+        "full_transcript": "Hey! Hey! Hey!",
+        "consolidated_visual_captions": [
+            "a man in a white shirt and a man in a black shirt"
+        ],
+        "consolidated_audio_events": [
+            "Music"
+        ],
+        "shot_count": 1,
+        "shot_ids": [
+            "shot_0009"
+        ],
+        "title": "Energetic Greeting Between Two Men",
+        "summary": "The video segment shows two men, one in a white shirt and the other in a black shirt, interacting.  The audio features upbeat music and the repeated vocalization \"Hey! Hey! Hey!\" suggesting an enthusiastic greeting or call for attention. The scene appears informal and possibly friendly.",
+        "keywords": [
+            "greeting",
+            "two men",
+            "energetic",
+            "music",
+            "white shirt",
+            "black shirt",
+            "vocalization"
+        ]
+    },
+    {
+        "segment_id": "segment_0003",
+        "segment_index": 3,
+        "start_time": 47.714,
+        "end_time": 66.483,
+        "duration_sec": 18.769,
+        "speakers": [],
+        "full_transcript": "",
+        "consolidated_visual_captions": [
+            "the walking dead - the walking dead - the walking dead - the walking dead - the walking dead - the walking dead - the walking dead",
+            "a man is fixing a camera on a man",
+            "a man in glasses and a suit is talking to another man",
+            "a person holding a gun in their hand",
+            "a man holding a gun in his hand",
+            "a man holding a glass of wine"
+        ],
+        "consolidated_audio_events": [
+            "Breaking",
+            "Door",
+            "Music",
+            "Slam",
+            "Speech"
+        ],
+        "shot_count": 6,
+        "shot_ids": [
+            "shot_0010",
+            "shot_0011",
+            "shot_0012",
+            "shot_0013",
+            "shot_0014",
+            "shot_0015"
+        ],
+        "title": "Suspenseful Scene: Armed Men and a Broken Camera",
+        "summary": "The video segment shows multiple instances of the undead, interspersed with scenes of men handling firearms and a camera malfunction.  Background audio includes sounds of breaking objects, a door, music, a slamming sound, and indistinct speech, contributing to a tense atmosphere. The visuals suggest a narrative involving danger and potential conflict.",
+        "keywords": [
+            "the walking dead",
+            "gun",
+            "camera",
+            "breaking",
+            "speech",
+            "man",
+            "suspense"
+        ]
+    },
+    {
+        "segment_id": "segment_0004",
+        "segment_index": 4,
+        "start_time": 66.525,
+        "end_time": 70.028,
+        "duration_sec": 3.503,
+        "speakers": [
+            "yusuf"
+        ],
+        "full_transcript": "Let me finish this. Now, tell me, tell me, function 11. Tell me when you see progress bar.",
+        "consolidated_visual_captions": [
+            "a man in a white shirt holding a gun"
+        ],
+        "consolidated_audio_events": [
+            "Music",
+            "Speech"
+        ],
+        "shot_count": 1,
+        "shot_ids": [
+            "shot_0016"
+        ],
+        "title": "Man with Gun Demands Function 11 Progress",
+        "summary": "A video segment shows a man in a white shirt holding a gun, while music and speech play in the background.  The man urgently demands information, specifically regarding 'function 11' and the appearance of a progress bar.  His tone and actions suggest a tense or potentially dangerous situation.",
+        "keywords": [
+            "gun",
+            "progress bar",
+            "function 11",
+            "demand",
+            "threat",
+            "man",
+            "white shirt"
+        ]
+    },
+    {
+        "segment_id": "segment_0005",
+        "segment_index": 5,
+        "start_time": 70.112,
+        "end_time": 84.876,
+        "duration_sec": 14.764,
+        "speakers": [],
+        "full_transcript": "",
+        "consolidated_visual_captions": [
+            "a man in a suit is talking to another man",
+            "a person typing on a keyboard",
+            "a man in glasses is looking at something",
+            "a computer screen with a green screen"
+        ],
+        "consolidated_audio_events": [
+            "Music",
+            "Speech"
+        ],
+        "shot_count": 5,
+        "shot_ids": [
+            "shot_0017",
+            "shot_0018",
+            "shot_0019",
+            "shot_0020",
+            "shot_0021"
+        ],
+        "title": "Business Meeting: Discussion and Keyboard Use",
+        "summary": "The video segment shows a business meeting where individuals are engaged in discussion and keyboard use.  Audio includes background music and speech.  A green screen is visible on a computer screen.",
+        "keywords": [
+            "business meeting",
+            "discussion",
+            "keyboard typing",
+            "green screen",
+            "speech",
+            "background music",
+            "suit"
+        ]
+    },
+    {
+        "segment_id": "segment_0006",
+        "segment_index": 6,
+        "start_time": 84.918,
+        "end_time": 85.669,
+        "duration_sec": 0.751,
+        "speakers": [
+            "yusuf"
+        ],
+        "full_transcript": "It should be up right now. Talk to me. Tell him when you see it. I have press control. I. I. Go ahead. Enter. I can enter. Come over here and button me up.",
+        "consolidated_visual_captions": [
+            "a person typing on a computer keyboard"
+        ],
+        "consolidated_audio_events": [
+            "Music",
+            "Speech"
+        ],
+        "shot_count": 1,
+        "shot_ids": [
+            "shot_0022"
+        ],
+        "title": "Troubleshooting Computer Issue: Urgent Resolution",
+        "summary": "The video segment shows a person actively troubleshooting a computer problem, evidenced by keyboard typing and instructions like \"press control\" and \"enter.\"  Background music and speech suggest a collaborative, possibly urgent, context as the speaker guides someone through the process, indicating a real-time problem-solving scenario.",
+        "keywords": [
+            "computer troubleshooting",
+            "keyboard",
+            "technical issue",
+            "urgent",
+            "collaboration",
+            "problem solving",
+            "real-time"
+        ]
+    },
+    {
+        "segment_id": "segment_0007",
+        "segment_index": 7,
+        "start_time": 85.711,
+        "end_time": 119.161,
+        "duration_sec": 33.45,
+        "speakers": [],
+        "full_transcript": "",
+        "consolidated_visual_captions": [
+            "a man with glasses and a white shirt",
+            "a computer screen with a code on it",
+            "a laptop computer sitting on top of a table",
+            "a man in a cave with a flashlight",
+            "a robot is standing on the floor",
+            "a metal object is being worked on",
+            "a white tiger is in the middle of a scene"
+        ],
+        "consolidated_audio_events": [
+            "Boom",
+            "Breaking",
+            "Fusillade",
+            "Music",
+            "Single-lens reflex camera",
+            "Speech"
+        ],
+        "shot_count": 7,
+        "shot_ids": [
+            "shot_0023",
+            "shot_0024",
+            "shot_0025",
+            "shot_0026",
+            "shot_0027",
+            "shot_0028",
+            "shot_0029"
+        ],
+        "title": "Man Codes, Robot in Cave, Tiger Roams",
+        "summary": "The video segment shows a man programming on his laptop, interspersed with scenes of a robot in a cave and a white tiger.  Sounds of construction, gunfire, and music accompany these diverse visuals. The audio suggests a dynamic and possibly action-packed context.",
+        "keywords": [
+            "programming",
+            "robot",
+            "cave",
+            "white tiger",
+            "gunfire",
+            "construction",
+            "music"
+        ]
+    },
+    {
+        "segment_id": "segment_0008",
+        "segment_index": 8,
+        "start_time": 119.202,
+        "end_time": 129.046,
+        "duration_sec": 9.844,
+        "speakers": [
+            "tony stark"
+        ],
+        "full_transcript": "Jarvis, you there? That's your service. The gauge heads up display. Check. Porto preferences from home interface. We'll do so. All right, what do you say? I have indeed been uploaded, sir. We're online and ready. We start the virtual walk-around. Importing preferences and calibrating virtual environment. Check on control surfaces. As you wish.",
+        "consolidated_visual_captions": [
+            "need for speed - need for speed - the game"
+        ],
+        "consolidated_audio_events": [
+            "Music",
+            "Speech",
+            "Squeal"
+        ],
+        "shot_count": 1,
+        "shot_ids": [
+            "shot_0030"
+        ],
+        "title": "Stark Prepares for Virtual Test Drive in Need for Speed",
+        "summary": "Tony Stark interacts with his Jarvis AI, preparing for a virtual test drive of a vehicle within the game Need for Speed.  The segment shows on-screen HUD elements and includes background music and speech, suggesting an interactive simulation experience.",
+        "keywords": [
+            "Tony Stark",
+            "Jarvis",
+            "Need for Speed",
+            "Virtual Test Drive",
+            "HUD",
+            "Virtual Reality",
+            "Vehicle Simulation"
+        ]
+    },
+    {
+        "segment_id": "segment_0009",
+        "segment_index": 9,
+        "start_time": 129.087,
+        "end_time": 234.734,
+        "duration_sec": 105.647,
+        "speakers": [],
+        "full_transcript": "",
+        "consolidated_visual_captions": [
+            "a car is parked in a garage with lights on",
+            "a man with glasses and a white face",
+            "a car is parked in a garage with a robot",
+            "iron man - official trailer",
+            "a man in a suit standing in a garage",
+            "a man is standing on the floor in a room",
+            "a woman in a black dress is standing on a black tile",
+            "transformers transformers the movie",
+            "transformers transformers the last movie trailer",
+            "a man in a suit is standing next to a door",
+            "a close up of a red car with a black and white stripe",
+            "a close up of a yellow and black robot",
+            "a man in a suit standing next to a robot",
+            "a robot that is standing in the middle of a room",
+            "a close up of a car ' s front wheel",
+            "a white light shining in the center of a circle",
+            "a white circle with a light shining in it",
+            "a woman in a white dress is standing in a room",
+            "iron man trailer"
+        ],
+        "consolidated_audio_events": [
+            "Mechanisms",
+            "Music",
+            "Ratchet, pawl",
+            "Speech",
+            "Tools",
+            "Vehicle"
+        ],
+        "shot_count": 22,
+        "shot_ids": [
+            "shot_0031",
+            "shot_0032",
+            "shot_0033",
+            "shot_0034",
+            "shot_0035",
+            "shot_0036",
+            "shot_0037",
+            "shot_0038",
+            "shot_0039",
+            "shot_0040",
+            "shot_0041",
+            "shot_0042",
+            "shot_0043",
+            "shot_0044",
+            "shot_0045",
+            "shot_0046",
+            "shot_0047",
+            "shot_0048",
+            "shot_0049",
+            "shot_0050",
+            "shot_0051",
+            "shot_0052"
+        ],
+        "title": "Robot and Car Garage Scene: Cinematic Trailer",
+        "summary": "The video segment shows a series of quick cuts: a man in a suit interacting with a robot in a garage, close-ups of a car and robot, and shots suggesting a cinematic trailer.  Background audio includes mechanical sounds, music, and possibly speech, creating a suspenseful or action-oriented atmosphere.",
+        "keywords": [
+            "robot",
+            "car",
+            "garage",
+            "trailer",
+            "cinematic",
+            "mechanical sounds",
+            "suit"
+        ]
+    },
+    {
+        "segment_id": "segment_0010",
+        "segment_index": 10,
+        "start_time": 234.776,
+        "end_time": 237.612,
+        "duration_sec": 2.836,
+        "speakers": [
+            "unknown"
+        ],
+        "full_transcript": "That's the coolest thing I've ever seen. Not bad, huh? Let's do it.",
+        "consolidated_visual_captions": [
+            "iron man - official trailer"
+        ],
+        "consolidated_audio_events": [
+            "Music"
+        ],
+        "shot_count": 1,
+        "shot_ids": [
+            "shot_0053"
+        ],
+        "title": "Iron Man Trailer Reaction: Excitement and Approval",
+        "summary": "The video segment shows a reaction to the Iron Man official trailer. The speakers express strong approval, using phrases like \"coolest thing I've ever seen\" and \"Not bad, huh?\" The background features trailer footage and music, creating an atmosphere of excitement and anticipation.",
+        "keywords": [
+            "Iron Man",
+            "trailer reaction",
+            "positive feedback",
+            "excitement",
+            "movie trailer",
+            "superhero",
+            "cool"
+        ]
+    },
+    {
+        "segment_id": "segment_0011",
+        "segment_index": 11,
+        "start_time": 237.654,
+        "end_time": 253.003,
+        "duration_sec": 15.349,
+        "speakers": [],
+        "full_transcript": "",
+        "consolidated_visual_captions": [
+            "iron man trailer",
+            "a robot standing in front of a boat"
+        ],
+        "consolidated_audio_events": [
+            "Keys jangling",
+            "Music",
+            "Speech"
+        ],
+        "shot_count": 2,
+        "shot_ids": [
+            "shot_0054",
+            "shot_0055"
+        ],
+        "title": "Iron Man Trailer: Robot by the Boat",
+        "summary": "A video segment shows a robot standing near a boat, accompanied by background music, speech, and the sound of jangling keys.  The visuals strongly suggest a scene from an Iron Man trailer. The audio elements add to the overall atmosphere of the scene.",
+        "keywords": [
+            "Iron Man",
+            "robot",
+            "boat",
+            "trailer",
+            "jangling keys",
+            "music",
+            "speech"
+        ]
+    },
+    {
+        "segment_id": "segment_0012",
+        "segment_index": 12,
+        "start_time": 253.086,
+        "end_time": 256.59,
+        "duration_sec": 3.504,
+        "speakers": [
+            "tony stark"
+        ],
+        "full_transcript": "It's your room and off. You miss me?",
+        "consolidated_visual_captions": [
+            "a woman in a car with headphones on"
+        ],
+        "consolidated_audio_events": [
+            "Music",
+            "Speech"
+        ],
+        "shot_count": 1,
+        "shot_ids": [
+            "shot_0056"
+        ],
+        "title": "Stark's Question Amidst Driving Scene",
+        "summary": "The video segment shows a woman in a car wearing headphones, accompanied by music and speech. Tony Stark's voiceover asks a seemingly personal question, \"It's your room and off. You miss me?\", creating a juxtaposition between the visual scene of someone seemingly isolated and the intimate question posed.",
+        "keywords": [
+            "Tony Stark",
+            "woman",
+            "car",
+            "headphones",
+            "music",
+            "intimate question",
+            "driving scene"
+        ]
+    },
+    {
+        "segment_id": "segment_0013",
+        "segment_index": 13,
+        "start_time": 256.631,
+        "end_time": 290.957,
+        "duration_sec": 34.326,
+        "speakers": [],
+        "full_transcript": "",
+        "consolidated_visual_captions": [
+            "a cockpit with a screen showing the cockpit and the cockpit screen",
+            "the avengers movie trailer",
+            "a man in a blue jacket",
+            "loki in thor ' s costume",
+            "a firework is in the air",
+            "iron man in avengers",
+            "a man standing in front of a truck",
+            "a man in a black shirt is walking through a tunnel",
+            "a room with a large statue in it",
+            "a person holding a cell phone in their hand",
+            "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - iron - iron - iron - man - iron -",
+            "a man is standing on a ledge",
+            "a man in a suit is standing in the fog",
+            "a man in a suit and tie standing in front of a giant monster",
+            "a man in a black jacket and a woman in a black jacket",
+            "a room with a large mirror and a large mirror",
+            "a man in a car talking to another man",
+            "a man is standing on a balcony with a glass door",
+            "a view from the top of a skyscraper"
+        ],
+        "consolidated_audio_events": [
+            "Breaking",
+            "Car",
+            "Cat",
+            "Cattle, bovinae",
+            "Door",
+            "Gasp",
+            "Grunt",
+            "Meow",
+            "Music",
+            "Shatter",
+            "Singing",
+            "Slam",
+            "Sound effect",
+            "Speech",
+            "Television",
+            "Vehicle"
+        ],
+        "shot_count": 19,
+        "shot_ids": [
+            "shot_0057",
+            "shot_0058",
+            "shot_0059",
+            "shot_0060",
+            "shot_0061",
+            "shot_0062",
+            "shot_0063",
+            "shot_0064",
+            "shot_0065",
+            "shot_0066",
+            "shot_0067",
+            "shot_0068",
+            "shot_0069",
+            "shot_0070",
+            "shot_0071",
+            "shot_0072",
+            "shot_0073",
+            "shot_0074",
+            "shot_0075"
+        ],
+        "title": "Surreal Montage: City, Superhero, and Mysterious Scenes",
+        "summary": "The video segment is a rapid montage of diverse scenes, including superhero imagery (Iron Man, Loki), urban environments, and ambiguous situations.  Background audio includes a mix of environmental sounds (vehicles, breaking glass), animal sounds (cat, cattle), and music, suggesting a fast-paced, perhaps action-oriented sequence.",
+        "keywords": [
+            "superheroes",
+            "cityscape",
+            "montage",
+            "action sequence",
+            "ambiguous scenes",
+            "sound effects",
+            "varied audio"
+        ]
+    },
+    {
+        "segment_id": "segment_0014",
+        "segment_index": 14,
+        "start_time": 290.999,
+        "end_time": 292.083,
+        "duration_sec": 1.084,
+        "speakers": [
+            "unknown"
+        ],
+        "full_transcript": "You will all fall before me. Deploy! Yahoy!",
+        "consolidated_visual_captions": [
+            "a man in a suit standing in front of a window"
+        ],
+        "consolidated_audio_events": [],
+        "shot_count": 1,
+        "shot_ids": [
+            "shot_0076"
+        ],
+        "title": "Man in Suit Issues Dramatic Command",
+        "summary": "A video segment shows a man in a suit standing before a window, delivering a commanding statement, \"You will all fall before me. Deploy! Yahoy!\"  The scene is visually stark and the audio is limited to the man's speech, creating a dramatic effect.  No other sounds or visual elements are present.",
+        "keywords": [
+            "man in suit",
+            "dramatic command",
+            "villain",
+            "deployment order",
+            "window setting",
+            "threatening tone",
+            "yahoy"
+        ]
+    },
+    {
+        "segment_id": "segment_0015",
+        "segment_index": 15,
+        "start_time": 292.125,
+        "end_time": 348.014,
+        "duration_sec": 55.889,
+        "speakers": [],
+        "full_transcript": "",
+        "consolidated_visual_captions": [
+            "a man in a trench coat holding a gun",
+            "a car is driving down a street in the rain",
+            "a large propeller",
+            "a man is standing on top of a building",
+            "a man is walking down a street with a skateboard",
+            "a large building with a lot of debris on it",
+            "a man in a suit is flying through the air",
+            "a video of a man on a skateboard",
+            "a large building",
+            "the avengers movie scene",
+            "a man is playing a game on a laptop",
+            "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man",
+            "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man",
+            "a man in a black shirt is standing on a bike",
+            "a scene from the avengers movie",
+            "a man in a room with a camera",
+            "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - iron - man",
+            "a motorcycle is parked in a garage"
+        ],
+        "consolidated_audio_events": [
+            "Bang",
+            "Breaking",
+            "Burst, pop",
+            "Ding",
+            "Explosion",
+            "Mechanisms",
+            "Music",
+            "Ratchet, pawl",
+            "Shatter",
+            "Sound effect",
+            "Speech",
+            "Telephone bell ringing"
+        ],
+        "shot_count": 23,
+        "shot_ids": [
+            "shot_0077",
+            "shot_0078",
+            "shot_0079",
+            "shot_0080",
+            "shot_0081",
+            "shot_0082",
+            "shot_0083",
+            "shot_0084",
+            "shot_0085",
+            "shot_0086",
+            "shot_0087",
+            "shot_0088",
+            "shot_0089",
+            "shot_0090",
+            "shot_0091",
+            "shot_0092",
+            "shot_0093",
+            "shot_0094",
+            "shot_0095",
+            "shot_0096",
+            "shot_0097",
+            "shot_0098",
+            "shot_0099"
+        ],
+        "title": "Action-Packed City Chase and Superhero Flashback",
+        "summary": "The video segment depicts a fast-paced urban chase scene, featuring a man with a gun, a car speeding through rain, and a building with significant damage.  Interspersed are shots suggesting a superhero theme, including what appears to be an Avengers movie clip and repeated mentions of 'Iron Man'.  Background sounds consist of explosions, breaking glass, and other action-related audio effects.",
+        "keywords": [
+            "car chase",
+            "gun",
+            "superhero",
+            "Avengers",
+            "Iron Man",
+            "explosion",
+            "city destruction"
+        ]
+    },
+    {
+        "segment_id": "segment_0016",
+        "segment_index": 16,
+        "start_time": 348.056,
+        "end_time": 354.729,
+        "duration_sec": 6.673,
+        "speakers": [
+            "unknown"
+        ],
+        "full_transcript": "Come on. Nice go to you. I'm the best. Sir, this post is clear of the structure.",
+        "consolidated_visual_captions": [
+            "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - iron - man -"
+        ],
+        "consolidated_audio_events": [
+            "Music",
+            "Speech"
+        ],
+        "shot_count": 1,
+        "shot_ids": [
+            "shot_0100"
+        ],
+        "title": "Iron Man Monologue: Bragging and Structural Clarity",
+        "summary": "The video segment shows a repeated sequence of \"Iron Man\" visuals while background music and speech are present.  A speaker boasts, \"I'm the best,\" and then comments on the structural clarity of something. The visual emphasis on Iron Man may relate to the speaker's self-proclaimed superiority.",
+        "keywords": [
+            "Iron Man",
+            "Bragging",
+            "Superiority",
+            "Structural Clarity",
+            "Music",
+            "Speech",
+            "Visual Repetition"
+        ]
+    },
+    {
+        "segment_id": "segment_0017",
+        "segment_index": 17,
+        "start_time": 354.771,
+        "end_time": 396.563,
+        "duration_sec": 41.792,
+        "speakers": [],
+        "full_transcript": "",
+        "consolidated_visual_captions": [
+            "the avengers trailer is here",
+            "a man with a beard and a beard in a space suit",
+            "a man is jumping in the air in a building",
+            "a man is sitting on a table with a laptop",
+            "a man standing on a boat in the water",
+            "a man holding a gun in his hand",
+            "a man is holding a light in his hand",
+            "a man is reaching his hand up to the ground",
+            "a man is standing in the rain with his head down",
+            "the avengers movie trailer",
+            "iron man - official trailer",
+            "a man in a black jacket is standing in front of a mirror",
+            "the avengers movie scene",
+            "a man in a black jacket is holding his hands up"
+        ],
+        "consolidated_audio_events": [
+            "Breaking",
+            "Chink, clink",
+            "Gasp",
+            "Grunt",
+            "Male speech, man speaking",
+            "Music",
+            "Smash, crash",
+            "Speech",
+            "Theme music"
+        ],
+        "shot_count": 14,
+        "shot_ids": [
+            "shot_0101",
+            "shot_0102",
+            "shot_0103",
+            "shot_0104",
+            "shot_0105",
+            "shot_0106",
+            "shot_0107",
+            "shot_0108",
+            "shot_0109",
+            "shot_0110",
+            "shot_0111",
+            "shot_0112",
+            "shot_0113",
+            "shot_0114"
+        ],
+        "title": "Action Movie Trailer: Intense Scenes and Sounds",
+        "summary": "The video segment appears to be a trailer for an action movie, possibly a superhero film given the reference to \"The Avengers.\"  Visuals show a variety of intense action scenes featuring a man in different settings, including space and a city.  Audio includes sounds of impact, speech, and dramatic theme music.",
+        "keywords": [
+            "action movie",
+            "trailer",
+            "intense scenes",
+            "superhero",
+            "gun",
+            "sounds",
+            "avengers"
+        ]
+    },
+    {
+        "segment_id": "segment_0018",
+        "segment_index": 18,
+        "start_time": 396.605,
+        "end_time": 398.231,
+        "duration_sec": 1.626,
+        "speakers": [
+            "tony stark"
+        ],
+        "full_transcript": "In five four bang You should be gone by now. You should already been gone. I am just beyond terrified here comes three four shut up five four three",
+        "consolidated_visual_captions": [
+            "the avengers movie scene"
+        ],
+        "consolidated_audio_events": [
+            "Male speech, man speaking",
+            "Speech"
+        ],
+        "shot_count": 1,
+        "shot_ids": [
+            "shot_0115"
+        ],
+        "title": "Stark's Terrified Countdown During Avengers Scene",
+        "summary": "The video segment shows a scene from the Avengers movie featuring Tony Stark.  Stark is speaking a terrified countdown, \"In five four bang...five four three\", indicating a sense of urgency and danger.  The audio consists primarily of male speech, reinforcing the tense atmosphere of the scene.",
+        "keywords": [
+            "Tony Stark",
+            "Avengers",
+            "Countdown",
+            "Terrified",
+            "Action Scene",
+            "Male Speech",
+            "Danger"
+        ]
+    },
+    {
+        "segment_id": "segment_0019",
+        "segment_index": 19,
+        "start_time": 398.273,
+        "end_time": 427.636,
+        "duration_sec": 29.363,
+        "speakers": [],
+        "full_transcript": "",
+        "consolidated_visual_captions": [
+            "a man in a black jacket is holding his hands up",
+            "the avengers movie scene",
+            "harry and hermik in harry ' s house",
+            "a man holding a knife in his hand",
+            "a man holding a gun in front of a window",
+            "a man in a black coat is walking through a tunnel",
+            "a man in a helmet and a fire",
+            "a man in a black jacket is walking down a tunnel",
+            "a man in a black jacket holding a pink ball"
+        ],
+        "consolidated_audio_events": [
+            "Bang",
+            "Breaking",
+            "Male speech, man speaking",
+            "Music",
+            "Shatter",
+            "Sigh",
+            "Smash, crash",
+            "Speech"
+        ],
+        "shot_count": 12,
+        "shot_ids": [
+            "shot_0116",
+            "shot_0117",
+            "shot_0118",
+            "shot_0119",
+            "shot_0120",
+            "shot_0121",
+            "shot_0122",
+            "shot_0123",
+            "shot_0124",
+            "shot_0125",
+            "shot_0126",
+            "shot_0127"
+        ],
+        "title": "Action-Packed Montage: Suspense and Violence",
+        "summary": "The video segment is a rapid montage of intense scenes, including a man in various situations, from holding a weapon to walking through a tunnel.  Accompanying sounds include bangs, crashes, and speech, creating a suspenseful and potentially violent atmosphere.  The inclusion of a pink ball suggests a possible shift in tone or a surreal element.",
+        "keywords": [
+            "action montage",
+            "gun violence",
+            "suspense",
+            "man in black jacket",
+            "breaking sounds",
+            "tunnel",
+            "pink ball"
+        ]
+    },
+    {
+        "segment_id": "segment_0020",
+        "segment_index": 20,
+        "start_time": 427.677,
+        "end_time": 433.099,
+        "duration_sec": 5.422,
+        "speakers": [
+            "yusuf"
+        ],
+        "full_transcript": "Where's the rest? Ah, better late than ever. Not this time. Not this time. Who's going to be back? Hello, by the way. Oh, hello, sir.",
+        "consolidated_visual_captions": [
+            "a man standing in front of a building"
+        ],
+        "consolidated_audio_events": [
+            "Clang",
+            "Music",
+            "Speech"
+        ],
+        "shot_count": 1,
+        "shot_ids": [
+            "shot_0128"
+        ],
+        "title": "Man Waits, Impatient Dialogue with Background Noise",
+        "summary": "A video segment shows a man standing in front of a building, while exhibiting impatience and engaging in dialogue.  Background audio includes clang, music, and speech, adding to the scene's dynamic atmosphere. The man's words express anticipation and a greeting, suggesting a meeting or arrival.",
+        "keywords": [
+            "waiting",
+            "impatience",
+            "dialogue",
+            "background noise",
+            "building",
+            "man",
+            "arrival"
+        ]
+    },
+    {
+        "segment_id": "segment_0021",
+        "segment_index": 21,
+        "start_time": 433.141,
+        "end_time": 462.879,
+        "duration_sec": 29.738,
+        "speakers": [],
+        "full_transcript": "",
+        "consolidated_visual_captions": [
+            "a robot standing in front of a building",
+            "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man",
+            "a group of people sitting around a table",
+            "a drawing of a person with a hat on",
+            "a man and woman are talking to each other people",
+            "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - man",
+            "a man in a green shirt is looking at the camera",
+            "iron man - official trailer",
+            "a man in a green shirt standing on a balcony"
+        ],
+        "consolidated_audio_events": [
+            "Music",
+            "Scary music",
+            "Shatter",
+            "Speech"
+        ],
+        "shot_count": 9,
+        "shot_ids": [
+            "shot_0129",
+            "shot_0130",
+            "shot_0131",
+            "shot_0132",
+            "shot_0133",
+            "shot_0134",
+            "shot_0135",
+            "shot_0136",
+            "shot_0137"
+        ],
+        "title": "Robot, Iron Man, and City Interactions",
+        "summary": "The video segment shows a diverse range of visuals, including a robot near a building, repeated instances of Iron Man imagery, people in conversation, and a man in a green shirt in different settings.  The audio includes music, potentially scary music, a shattering sound, and speech, creating a dynamic and possibly suspenseful atmosphere.",
+        "keywords": [
+            "robot",
+            "Iron Man",
+            "city building",
+            "conversation",
+            "scary music",
+            "shattering sound",
+            "man in green shirt"
+        ]
+    },
+    {
+        "segment_id": "segment_0022",
+        "segment_index": 22,
+        "start_time": 462.921,
+        "end_time": 464.756,
+        "duration_sec": 1.835,
+        "speakers": [
+            "tony stark"
+        ],
+        "full_transcript": "Who's timing? Oh, yeah. That's awesome. Give me a suit, okay? Oh, I'm sorry. They're only coded to me.",
+        "consolidated_visual_captions": [
+            "iron man - official trailer"
+        ],
+        "consolidated_audio_events": [
+            "Music",
+            "Speech"
+        ],
+        "shot_count": 1,
+        "shot_ids": [
+            "shot_0138"
+        ],
+        "title": "Iron Man Suit Request and Limitations",
+        "summary": "The video segment shows a scene from the Iron Man trailer where Tony Stark requests an Iron Man suit.  His request is met with a response indicating the suits are coded only to him, highlighting the exclusive and personalized nature of the technology. The scene is underscored by background music and dialogue.",
+        "keywords": [
+            "Iron Man",
+            "Tony Stark",
+            "suit",
+            "technology",
+            "coded",
+            "trailer",
+            "limitations"
+        ]
+    },
+    {
+        "segment_id": "segment_0023",
+        "segment_index": 23,
+        "start_time": 464.798,
+        "end_time": 502.085,
+        "duration_sec": 37.287,
+        "speakers": [],
+        "full_transcript": "",
+        "consolidated_visual_captions": [
+            "a robot in a scene with a man in the background",
+            "a man is standing on a stage with a microphone",
+            "a fire is burning in the air",
+            "a man in a black shirt and a man in a white shirt",
+            "a man standing in front of a computer",
+            "a man in a dark room with two monitors",
+            "a man is typing on a laptop in a room",
+            "a computer screen with a blueprinted image of a plane"
+        ],
+        "consolidated_audio_events": [
+            "Beep, bleep",
+            "Boom",
+            "Chink, clink",
+            "Music",
+            "Smash, crash",
+            "Speech",
+            "Whoosh, swoosh, swish"
+        ],
+        "shot_count": 8,
+        "shot_ids": [
+            "shot_0139",
+            "shot_0140",
+            "shot_0141",
+            "shot_0142",
+            "shot_0143",
+            "shot_0144",
+            "shot_0145",
+            "shot_0146"
+        ],
+        "title": "Robot, Fire, and Men in a Tech Setting",
+        "summary": "The video segment shows a robot alongside a man, possibly in a technological or industrial setting.  Accompanying visuals include a man giving a speech, a fire effect, men in different shirts, and computer-related activities.  The audio includes various sound effects such as beeps, crashes, music, and speech.",
+        "keywords": [
+            "robot",
+            "fire",
+            "man",
+            "computer",
+            "speech",
+            "sound effects",
+            "technology"
+        ]
+    },
+    {
+        "segment_id": "segment_0024",
+        "segment_index": 24,
+        "start_time": 502.21,
+        "end_time": 509.509,
+        "duration_sec": 7.299,
+        "speakers": [
+            "yusuf"
+        ],
+        "full_transcript": "Sentry mode. Okay, Jarvis, you know, I want it all. Make sure you copy who it HQ. You got no backup here. I'm calling Veronica.",
+        "consolidated_visual_captions": [
+            "a man in a black shirt and sunglasses standing on a street"
+        ],
+        "consolidated_audio_events": [
+            "Breaking",
+            "Music"
+        ],
+        "shot_count": 1,
+        "shot_ids": [
+            "shot_0147"
+        ],
+        "title": "Man activates Sentry Mode while on the street",
+        "summary": "A video segment shows a man wearing a black shirt and sunglasses, standing on a street while speaking into a device. He is activating a 'Sentry Mode' and requests a full data backup, mentioning contacting someone named Veronica. The background features breaking sounds and music.",
+        "keywords": [
+            "Sentry Mode",
+            "street",
+            "man",
+            "backup",
+            "Veronica",
+            "Jarvis",
+            "HQ"
+        ]
+    },
+    {
+        "segment_id": "segment_0025",
+        "segment_index": 25,
+        "start_time": 509.551,
+        "end_time": 545.795,
+        "duration_sec": 36.244,
+        "speakers": [],
+        "full_transcript": "",
+        "consolidated_visual_captions": [
+            "a man in a red robe kneeling on the ground",
+            "the avengers movie trailer",
+            "a plane flying in the sky",
+            "iron man - official trailer",
+            "the last of the zombies in the dark knight",
+            "a man in a black suit is holding a gun",
+            "a man sitting at a desk with a laptop"
+        ],
+        "consolidated_audio_events": [
+            "Bang",
+            "Boom",
+            "Breaking",
+            "Chink, clink",
+            "Music",
+            "Shatter",
+            "Smash, crash",
+            "Speech",
+            "Television"
+        ],
+        "shot_count": 7,
+        "shot_ids": [
+            "shot_0148",
+            "shot_0149",
+            "shot_0150",
+            "shot_0151",
+            "shot_0152",
+            "shot_0153",
+            "shot_0154"
+        ],
+        "title": "Action Movie Montage with Sound Effects",
+        "summary": "The video segment is a montage of action movie scenes, including a man in a red robe, a plane, and a man in a black suit with a gun.  The audio track contains various sound effects like explosions, breaking glass, and music, suggesting a fast-paced, intense sequence.  The presence of movie trailers further supports this analysis.",
+        "keywords": [
+            "action movie",
+            "sound effects",
+            "gun",
+            "plane",
+            "explosion",
+            "montage",
+            "trailer"
+        ]
+    },
+    {
+        "segment_id": "segment_0026",
+        "segment_index": 26,
+        "start_time": 545.837,
+        "end_time": 557.39,
+        "duration_sec": 11.553,
+        "speakers": [
+            "yusuf"
+        ],
+        "full_transcript": "All right, everybody, stand down! Good evening, boss. We're in position.",
+        "consolidated_visual_captions": [
+            "a man in a suit and tie standing in a room"
+        ],
+        "consolidated_audio_events": [
+            "Keys jangling",
+            "Music",
+            "Speech"
+        ],
+        "shot_count": 1,
+        "shot_ids": [
+            "shot_0155"
+        ],
+        "title": "Man in Suit Announces Readiness, Operation Commences",
+        "summary": "A man in a suit and tie, shown standing in a room, addresses someone called 'boss', reporting that his team is ready.  The audio includes speech, keys jangling, and background music, adding to the scene's tense atmosphere.",
+        "keywords": [
+            "man in suit",
+            "operation",
+            "readiness",
+            "team",
+            "position",
+            "background music",
+            "keys jangling"
+        ]
+    },
+    {
+        "segment_id": "segment_0027",
+        "segment_index": 27,
+        "start_time": 557.432,
+        "end_time": 591.007,
+        "duration_sec": 33.575,
+        "speakers": [],
+        "full_transcript": "",
+        "consolidated_visual_captions": [
+            "a person is walking down a hallway",
+            "a man in a suit and tie standing in an office",
+            "a helicopter is parked in a parking with a man standing next to it",
+            "a man in a parachute suit is flying through the air",
+            "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - iron - man -",
+            "captain america the first avenge",
+            "iron man and captain america",
+            "a helicopter flying through the air",
+            "a man in a black jacket is sitting in a car"
+        ],
+        "consolidated_audio_events": [
+            "Bang",
+            "Car",
+            "Music",
+            "Speech",
+            "Theme music",
+            "Vehicle",
+            "Whoosh, swoosh, swish"
+        ],
+        "shot_count": 9,
+        "shot_ids": [
+            "shot_0156",
+            "shot_0157",
+            "shot_0158",
+            "shot_0159",
+            "shot_0160",
+            "shot_0161",
+            "shot_0162",
+            "shot_0163",
+            "shot_0164"
+        ],
+        "title": "Action Hero's Journey: City Escape and Flight",
+        "summary": "The video segment depicts a dynamic sequence of action scenes.  Visuals shift between a person walking through a hallway, a man in a suit, a helicopter on the ground and in flight, a skydiver, and a man in a car.  Accompanying audio includes various sound effects like bangs, car noises, music, speech, and whooshing sounds.",
+        "keywords": [
+            "action",
+            "helicopter",
+            "skydiving",
+            "city escape",
+            "suit",
+            "car",
+            "whoosh"
+        ]
+    },
+    {
+        "segment_id": "segment_0028",
+        "segment_index": 28,
+        "start_time": 591.049,
+        "end_time": 593.134,
+        "duration_sec": 2.085,
+        "speakers": [
+            "yusuf"
+        ],
+        "full_transcript": "to people at the airport, didn't you guys wear it? Definitely weird. If you even cared, you'd actually be here.",
+        "consolidated_visual_captions": [
+            "a man sitting in the back seat of a car"
+        ],
+        "consolidated_audio_events": [
+            "Music",
+            "Television"
+        ],
+        "shot_count": 1,
+        "shot_ids": [
+            "shot_0165"
+        ],
+        "title": "Airport encounter and subsequent car ride",
+        "summary": "The video segment shows Yusuf, sitting in the back of a car, expressing his disbelief towards someone's absence.  His statement implies a prior encounter at an airport, suggesting a missed meeting or a broken promise. Background music and television audio accompany the scene.",
+        "keywords": [
+            "airport",
+            "car ride",
+            "disbelief",
+            "missed meeting",
+            "absence",
+            "Yusuf",
+            "conversation"
+        ]
+    },
+    {
+        "segment_id": "segment_0029",
+        "segment_index": 29,
+        "start_time": 593.176,
+        "end_time": 622.163,
+        "duration_sec": 28.987,
+        "speakers": [],
+        "full_transcript": "",
+        "consolidated_visual_captions": [
+            "a person is holding a book in their hand",
+            "a man is in the air with a parachute",
+            "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - man",
+            "iron man and spider - man in the city",
+            "a group of people walking down a street"
+        ],
+        "consolidated_audio_events": [
+            "Boom",
+            "Breaking",
+            "Music",
+            "Smash, crash",
+            "Speech"
+        ],
+        "shot_count": 5,
+        "shot_ids": [
+            "shot_0166",
+            "shot_0167",
+            "shot_0168",
+            "shot_0169",
+            "shot_0170"
+        ],
+        "title": "Action-Packed Superhero Montage with City Scenes",
+        "summary": "The video segment shows a rapid montage of action scenes.  Visuals include a person reading, a parachutist, various superhero imagery (Iron Man, Spider-Man), and city street scenes.  The audio features a mix of impactful sounds like booms, crashes, and music alongside possible speech.",
+        "keywords": [
+            "superhero",
+            "action",
+            "city",
+            "parachute",
+            "boom",
+            "crash",
+            "music"
+        ]
+    },
+    {
+        "segment_id": "segment_0030",
+        "segment_index": 30,
+        "start_time": 622.205,
+        "end_time": 629.254,
+        "duration_sec": 7.049,
+        "speakers": [
+            "tony stark"
+        ],
+        "full_transcript": "I did listen, kid. Where'd that come from? It's Nanotech, you like it?",
+        "consolidated_visual_captions": [
+            "iron man - official trailer"
+        ],
+        "consolidated_audio_events": [
+            "Music",
+            "Shatter",
+            "Speech"
+        ],
+        "shot_count": 1,
+        "shot_ids": [
+            "shot_0171"
+        ],
+        "title": "Iron Man Reveals Nanotech in Trailer Segment",
+        "summary": "The segment shows Iron Man showcasing his new nanotechnology.  Tony Stark's dialogue confirms the technology's presence, while background audio of music and a shattering sound adds to the dramatic effect of the reveal.  The visuals focus on Iron Man, emphasizing the new suit and capabilities.",
+        "keywords": [
+            "Iron Man",
+            "Nanotechnology",
+            "Trailer Reveal",
+            "Tony Stark",
+            "New Suit",
+            "Visual Effects",
+            "Background Audio"
+        ]
+    },
+    {
+        "segment_id": "segment_0031",
+        "segment_index": 31,
+        "start_time": 629.295,
+        "end_time": 668.751,
+        "duration_sec": 39.456,
+        "speakers": [],
+        "full_transcript": "",
+        "consolidated_visual_captions": [
+            "iron man - official trailer",
+            "a video of a man in a suit and tie",
+            "a man walking through a forest with a dog"
+        ],
+        "consolidated_audio_events": [
+            "Boom",
+            "Music",
+            "Smash, crash"
+        ],
+        "shot_count": 3,
+        "shot_ids": [
+            "shot_0172",
+            "shot_0173",
+            "shot_0174"
+        ],
+        "title": "Iron Man Trailer: Action and Nature Scenes",
+        "summary": "The video segment shows a montage of scenes including a trailer for Iron Man, a man in formal wear, and a man with a dog walking through a forest.  The audio features a mix of music and sound effects suggesting action and impact, such as booms and crashes.",
+        "keywords": [
+            "Iron Man",
+            "trailer",
+            "action scenes",
+            "forest",
+            "dog",
+            "boom",
+            "crash"
+        ]
+    },
+    {
+        "segment_id": "segment_0032",
+        "segment_index": 32,
+        "start_time": 668.793,
+        "end_time": 678.136,
+        "duration_sec": 9.343,
+        "speakers": [
+            "Unknown Speaker"
+        ],
+        "full_transcript": "Oh.",
+        "consolidated_visual_captions": [
+            "a man in a suit and a woman in a dress"
+        ],
+        "consolidated_audio_events": [
+            "Music",
+            "Shatter"
+        ],
+        "shot_count": 1,
+        "shot_ids": [
+            "shot_0175"
+        ],
+        "title": "Astonishment and possible accident witnessed",
+        "summary": "A short video segment shows a man in a suit and a woman in a dress.  The only dialogue is a single, short utterance of 'Oh', suggesting surprise or shock.  Background audio includes music and the sound of shattering, hinting at a possible accident or unexpected event.",
+        "keywords": [
+            "Astonishment",
+            "Accident",
+            "Man in suit",
+            "Woman in dress",
+            "Shattering sound",
+            "Music",
+            "Brief utterance"
+        ]
+    },
+    {
+        "segment_id": "segment_0033",
+        "segment_index": 33,
+        "start_time": 678.177,
+        "end_time": 703.286,
+        "duration_sec": 25.109,
+        "speakers": [],
+        "full_transcript": "",
+        "consolidated_visual_captions": [
+            "a large group of people standing in a field",
+            "a man holding a snake in his hand",
+            "iron man - trailer - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - iron - man - iron - man -",
+            "the amazing spider in the amazing spider movie",
+            "a man in a brown shirt holding a gun",
+            "iron man - official trailer"
+        ],
+        "consolidated_audio_events": [
+            "Music",
+            "Scary music",
+            "Shatter",
+            "Speech"
+        ],
+        "shot_count": 6,
+        "shot_ids": [
+            "shot_0176",
+            "shot_0177",
+            "shot_0178",
+            "shot_0179",
+            "shot_0180",
+            "shot_0181"
+        ],
+        "title": "Crowd, Snake Handler, and Action Movie Scenes",
+        "summary": "The video segment shows a montage of visually diverse scenes. These include a large group of people in a field, a man handling a snake, and several action movie scenes featuring Iron Man and Spider-Man. The audio consists of background music, punctuated by moments of scary music and a shattering sound, with some indistinguishable speech.",
+        "keywords": [
+            "Crowd",
+            "Snake Handler",
+            "Iron Man",
+            "Spider-Man",
+            "Action Movie",
+            "Scary Music",
+            "Shattering Sound"
+        ]
+    },
+    {
+        "segment_id": "segment_0034",
+        "segment_index": 34,
+        "start_time": 703.328,
+        "end_time": 709.208,
+        "duration_sec": 5.88,
+        "speakers": [
+            "Unknown Speaker"
+        ],
+        "full_transcript": "Oh!",
+        "consolidated_visual_captions": [
+            "a man in a red jacket pointing at something"
+        ],
+        "consolidated_audio_events": [
+            "Animal",
+            "Music",
+            "Rumble"
+        ],
+        "shot_count": 1,
+        "shot_ids": [
+            "shot_0182"
+        ],
+        "title": "Man in Red Jacket Points at Animal",
+        "summary": "A video segment shows a man wearing a red jacket pointing towards something while background animal sounds and music are present. The only audible speech is a single, short exclamation, \"Oh!\"",
+        "keywords": [
+            "pointing",
+            "red jacket",
+            "animal sounds",
+            "music",
+            "exclamation",
+            "man",
+            "unknown subject"
+        ]
+    },
+    {
+        "segment_id": "segment_0035",
+        "segment_index": 35,
+        "start_time": 709.25,
+        "end_time": 778.277,
+        "duration_sec": 69.027,
+        "speakers": [],
+        "full_transcript": "",
+        "consolidated_visual_captions": [
+            "iron man - official trailer",
+            "avengers the avengers movie",
+            "thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor",
+            "a large bird is sitting on the ground",
+            "a man standing in front of a large city",
+            "a man in a suit holding a gun",
+            "a man in a suit and tie is standing on a stage",
+            "a close up of a car ' s tail",
+            "a man in a suit standing in front of a crowd",
+            "robert downey - the last of the mohich",
+            "a black background with a white and red flower"
+        ],
+        "consolidated_audio_events": [
+            "Burst, pop",
+            "Door",
+            "Eruption",
+            "Explosion",
+            "Glass",
+            "Music",
+            "Shatter",
+            "Speech",
+            "Television",
+            "Theme music"
+        ],
+        "shot_count": 13,
+        "shot_ids": [
+            "shot_0183",
+            "shot_0184",
+            "shot_0185",
+            "shot_0186",
+            "shot_0187",
+            "shot_0188",
+            "shot_0189",
+            "shot_0190",
+            "shot_0191",
+            "shot_0192",
+            "shot_0193",
+            "shot_0194",
+            "shot_0195"
+        ],
+        "title": "Action Movie Trailer: City Showdown and Explosions",
+        "summary": "The video segment shows a montage of action scenes, including a man in a suit, possibly a superhero, facing a large city.  Explosions and other impactful sounds, like shattering glass, accompany quick cuts between scenes. The visuals also include a large bird, a car, and various other seemingly unrelated imagery, hinting at a dynamic, possibly complex narrative.",
+        "keywords": [
+            "action movie",
+            "city scene",
+            "superhero",
+            "explosions",
+            "gunfire",
+            "trailer",
+            "montage"
+        ]
+    }
+]

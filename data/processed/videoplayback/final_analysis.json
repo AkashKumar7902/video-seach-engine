@@ -1,0 +1,4067 @@
+[
+  {
+    "shot_id": "shot_0001",
+    "shot_index": 1,
+    "time_start_sec": 0.0,
+    "time_end_sec": 6.381,
+    "frame_start": 0,
+    "frame_end": 153,
+    "visual_caption": "a man in a black shirt standing in the dark",
+    "audio_events": [
+      {
+        "event": "Clang",
+        "score": 0.618
+      },
+      {
+        "event": "Ding",
+        "score": 0.541
+      },
+      {
+        "event": "Music",
+        "score": 0.228
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0002",
+    "shot_index": 2,
+    "time_start_sec": 6.423,
+    "time_end_sec": 13.472,
+    "frame_start": 154,
+    "frame_end": 323,
+    "visual_caption": "a man in a black shirt is dancing",
+    "audio_events": [
+      {
+        "event": "Clang",
+        "score": 0.716
+      },
+      {
+        "event": "Ding",
+        "score": 0.649
+      },
+      {
+        "event": "Music",
+        "score": 0.418
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0003",
+    "shot_index": 3,
+    "time_start_sec": 13.513,
+    "time_end_sec": 16.058,
+    "frame_start": 324,
+    "frame_end": 385,
+    "visual_caption": "a man in a black shirt standing in front of a green light",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.391
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0004",
+    "shot_index": 4,
+    "time_start_sec": 16.099,
+    "time_end_sec": 18.644,
+    "frame_start": 386,
+    "frame_end": 447,
+    "visual_caption": "a metal pot with a spoon in it",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.594
+      },
+      {
+        "event": "Water",
+        "score": 0.149
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0005",
+    "shot_index": 5,
+    "time_start_sec": 18.685,
+    "time_end_sec": 20.395,
+    "frame_start": 448,
+    "frame_end": 489,
+    "visual_caption": "a man in a black shirt standing next to a woman",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.538
+      },
+      {
+        "event": "Explosion",
+        "score": 0.108
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0006",
+    "shot_index": 6,
+    "time_start_sec": 20.437,
+    "time_end_sec": 24.775,
+    "frame_start": 490,
+    "frame_end": 594,
+    "visual_caption": "a man in a dark room with candles",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.599
+      },
+      {
+        "event": "Theme music",
+        "score": 0.173
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0007",
+    "shot_index": 7,
+    "time_start_sec": 24.816,
+    "time_end_sec": 27.319,
+    "frame_start": 595,
+    "frame_end": 655,
+    "visual_caption": "a man sitting at a table with a knife",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.372
+      },
+      {
+        "event": "Clang",
+        "score": 0.133
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0008",
+    "shot_index": 8,
+    "time_start_sec": 27.361,
+    "time_end_sec": 38.872,
+    "frame_start": 656,
+    "frame_end": 932,
+    "visual_caption": "a man holding a white glove in his hand",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.446
+      },
+      {
+        "event": "Mechanisms",
+        "score": 0.37
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0009",
+    "shot_index": 9,
+    "time_start_sec": 38.914,
+    "time_end_sec": 47.673,
+    "frame_start": 933,
+    "frame_end": 1143,
+    "visual_caption": "a man in a white shirt and a man in a black shirt",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.658
+      }
+    ],
+    "transcript_segments": [
+      {
+        "start": 25.985,
+        "end": 53.812,
+        "text": " Hey! Hey! Hey!",
+        "speaker": null
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0010",
+    "shot_index": 10,
+    "time_start_sec": 47.714,
+    "time_end_sec": 54.179,
+    "frame_start": 1144,
+    "frame_end": 1299,
+    "visual_caption": "the walking dead - the walking dead - the walking dead - the walking dead - the walking dead - the walking dead - the walking dead",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.543
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0011",
+    "shot_index": 11,
+    "time_start_sec": 54.221,
+    "time_end_sec": 57.432,
+    "frame_start": 1300,
+    "frame_end": 1377,
+    "visual_caption": "a man is fixing a camera on a man",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.535
+      },
+      {
+        "event": "Door",
+        "score": 0.314
+      },
+      {
+        "event": "Slam",
+        "score": 0.152
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0012",
+    "shot_index": 12,
+    "time_start_sec": 57.474,
+    "time_end_sec": 60.56,
+    "frame_start": 1378,
+    "frame_end": 1452,
+    "visual_caption": "a man in glasses and a suit is talking to another man",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.518
+      },
+      {
+        "event": "Music",
+        "score": 0.508
+      },
+      {
+        "event": "Breaking",
+        "score": 0.183
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0013",
+    "shot_index": 13,
+    "time_start_sec": 60.602,
+    "time_end_sec": 61.77,
+    "frame_start": 1453,
+    "frame_end": 1481,
+    "visual_caption": "a person holding a gun in their hand",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.493
+      },
+      {
+        "event": "Music",
+        "score": 0.414
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0014",
+    "shot_index": 14,
+    "time_start_sec": 61.812,
+    "time_end_sec": 64.314,
+    "frame_start": 1482,
+    "frame_end": 1542,
+    "visual_caption": "a man holding a gun in his hand",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.565
+      },
+      {
+        "event": "Music",
+        "score": 0.332
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0015",
+    "shot_index": 15,
+    "time_start_sec": 64.356,
+    "time_end_sec": 66.483,
+    "frame_start": 1543,
+    "frame_end": 1594,
+    "visual_caption": "a man holding a glass of wine",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.49
+      },
+      {
+        "event": "Music",
+        "score": 0.37
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0016",
+    "shot_index": 16,
+    "time_start_sec": 66.525,
+    "time_end_sec": 70.028,
+    "frame_start": 1595,
+    "frame_end": 1679,
+    "visual_caption": "a man in a white shirt holding a gun",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.511
+      },
+      {
+        "event": "Music",
+        "score": 0.472
+      }
+    ],
+    "transcript_segments": [
+      {
+        "start": 56.917,
+        "end": 80.592,
+        "text": " Let me finish this. Now, tell me, tell me, function 11. Tell me when you see progress bar.",
+        "speaker": "SPEAKER_02"
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0017",
+    "shot_index": 17,
+    "time_start_sec": 70.112,
+    "time_end_sec": 77.578,
+    "frame_start": 1681,
+    "frame_end": 1860,
+    "visual_caption": "a man in a suit is talking to another man",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.574
+      },
+      {
+        "event": "Music",
+        "score": 0.569
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0018",
+    "shot_index": 18,
+    "time_start_sec": 77.619,
+    "time_end_sec": 79.037,
+    "frame_start": 1861,
+    "frame_end": 1895,
+    "visual_caption": "a person typing on a keyboard",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.507
+      },
+      {
+        "event": "Speech",
+        "score": 0.504
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0019",
+    "shot_index": 19,
+    "time_start_sec": 79.079,
+    "time_end_sec": 80.706,
+    "frame_start": 1896,
+    "frame_end": 1935,
+    "visual_caption": "a man in glasses is looking at something",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.577
+      },
+      {
+        "event": "Music",
+        "score": 0.52
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0020",
+    "shot_index": 20,
+    "time_start_sec": 80.747,
+    "time_end_sec": 83.417,
+    "frame_start": 1936,
+    "frame_end": 2000,
+    "visual_caption": "a computer screen with a green screen",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.569
+      },
+      {
+        "event": "Music",
+        "score": 0.296
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0021",
+    "shot_index": 21,
+    "time_start_sec": 83.458,
+    "time_end_sec": 84.876,
+    "frame_start": 2001,
+    "frame_end": 2035,
+    "visual_caption": "a man in glasses is looking at something",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.594
+      },
+      {
+        "event": "Music",
+        "score": 0.298
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0022",
+    "shot_index": 22,
+    "time_start_sec": 84.918,
+    "time_end_sec": 85.669,
+    "frame_start": 2036,
+    "frame_end": 2054,
+    "visual_caption": "a person typing on a computer keyboard",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.477
+      },
+      {
+        "event": "Music",
+        "score": 0.212
+      }
+    ],
+    "transcript_segments": [
+      {
+        "start": 81.098,
+        "end": 88.895,
+        "text": " It should be up right now. Talk to me. Tell him when you see it. I have press control. I. I. Go ahead. Enter. I can enter. Come over here and button me up.",
+        "speaker": "SPEAKER_02"
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0023",
+    "shot_index": 23,
+    "time_start_sec": 85.711,
+    "time_end_sec": 87.754,
+    "frame_start": 2055,
+    "frame_end": 2104,
+    "visual_caption": "a man with glasses and a white shirt",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.638
+      },
+      {
+        "event": "Speech",
+        "score": 0.56
+      },
+      {
+        "event": "Single-lens reflex camera",
+        "score": 0.326
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0024",
+    "shot_index": 24,
+    "time_start_sec": 87.796,
+    "time_end_sec": 89.715,
+    "frame_start": 2105,
+    "frame_end": 2151,
+    "visual_caption": "a computer screen with a code on it",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.633
+      },
+      {
+        "event": "Music",
+        "score": 0.498
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0025",
+    "shot_index": 25,
+    "time_start_sec": 89.798,
+    "time_end_sec": 96.763,
+    "frame_start": 2153,
+    "frame_end": 2320,
+    "visual_caption": "a laptop computer sitting on top of a table",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.274
+      },
+      {
+        "event": "Speech",
+        "score": 0.135
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0026",
+    "shot_index": 26,
+    "time_start_sec": 96.847,
+    "time_end_sec": 107.441,
+    "frame_start": 2322,
+    "frame_end": 2576,
+    "visual_caption": "a man in a cave with a flashlight",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.596
+      },
+      {
+        "event": "Boom",
+        "score": 0.29
+      },
+      {
+        "event": "Fusillade",
+        "score": 0.241
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0027",
+    "shot_index": 27,
+    "time_start_sec": 107.524,
+    "time_end_sec": 110.319,
+    "frame_start": 2578,
+    "frame_end": 2645,
+    "visual_caption": "a robot is standing on the floor",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.466
+      },
+      {
+        "event": "Speech",
+        "score": 0.249
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0028",
+    "shot_index": 28,
+    "time_start_sec": 110.36,
+    "time_end_sec": 114.197,
+    "frame_start": 2646,
+    "frame_end": 2738,
+    "visual_caption": "a metal object is being worked on",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.805
+      },
+      {
+        "event": "Music",
+        "score": 0.384
+      },
+      {
+        "event": "Breaking",
+        "score": 0.129
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0029",
+    "shot_index": 29,
+    "time_start_sec": 114.239,
+    "time_end_sec": 119.161,
+    "frame_start": 2739,
+    "frame_end": 2857,
+    "visual_caption": "a white tiger is in the middle of a scene",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.606
+      },
+      {
+        "event": "Music",
+        "score": 0.498
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0030",
+    "shot_index": 30,
+    "time_start_sec": 119.202,
+    "time_end_sec": 129.046,
+    "frame_start": 2858,
+    "frame_end": 3094,
+    "visual_caption": "need for speed - need for speed - the game",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.627
+      },
+      {
+        "event": "Music",
+        "score": 0.54
+      },
+      {
+        "event": "Squeal",
+        "score": 0.449
+      }
+    ],
+    "transcript_segments": [
+      {
+        "start": 111.727,
+        "end": 140.195,
+        "text": " Jarvis, you there? That's your service. The gauge heads up display. Check. Porto preferences from home interface. We'll do so. All right, what do you say? I have indeed been uploaded, sir. We're online and ready. We start the virtual walk-around. Importing preferences and calibrating virtual environment. Check on control surfaces. As you wish.",
+        "speaker": "SPEAKER_01"
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0031",
+    "shot_index": 31,
+    "time_start_sec": 129.087,
+    "time_end_sec": 131.673,
+    "frame_start": 3095,
+    "frame_end": 3157,
+    "visual_caption": "a car is parked in a garage with lights on",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.536
+      },
+      {
+        "event": "Music",
+        "score": 0.494
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0032",
+    "shot_index": 32,
+    "time_start_sec": 131.715,
+    "time_end_sec": 139.306,
+    "frame_start": 3158,
+    "frame_end": 3340,
+    "visual_caption": "a man with glasses and a white face",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.641
+      },
+      {
+        "event": "Music",
+        "score": 0.623
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0033",
+    "shot_index": 33,
+    "time_start_sec": 139.348,
+    "time_end_sec": 150.025,
+    "frame_start": 3341,
+    "frame_end": 3597,
+    "visual_caption": "a car is parked in a garage with a robot",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.39
+      },
+      {
+        "event": "Mechanisms",
+        "score": 0.147
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0034",
+    "shot_index": 34,
+    "time_start_sec": 150.067,
+    "time_end_sec": 159.993,
+    "frame_start": 3598,
+    "frame_end": 3836,
+    "visual_caption": "iron man - official trailer",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.488
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0035",
+    "shot_index": 35,
+    "time_start_sec": 160.035,
+    "time_end_sec": 161.536,
+    "frame_start": 3837,
+    "frame_end": 3873,
+    "visual_caption": "a man in a suit standing in a garage",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.482
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0036",
+    "shot_index": 36,
+    "time_start_sec": 161.661,
+    "time_end_sec": 163.955,
+    "frame_start": 3876,
+    "frame_end": 3931,
+    "visual_caption": "a man is standing on the floor in a room",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.623
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0037",
+    "shot_index": 37,
+    "time_start_sec": 163.997,
+    "time_end_sec": 166.958,
+    "frame_start": 3932,
+    "frame_end": 4003,
+    "visual_caption": "a woman in a black dress is standing on a black tile",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.317
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0038",
+    "shot_index": 38,
+    "time_start_sec": 167.0,
+    "time_end_sec": 169.961,
+    "frame_start": 4004,
+    "frame_end": 4075,
+    "visual_caption": "transformers transformers the movie",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.415
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0039",
+    "shot_index": 39,
+    "time_start_sec": 170.003,
+    "time_end_sec": 172.881,
+    "frame_start": 4076,
+    "frame_end": 4145,
+    "visual_caption": "transformers transformers the last movie trailer",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.385
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0040",
+    "shot_index": 40,
+    "time_start_sec": 172.923,
+    "time_end_sec": 176.134,
+    "frame_start": 4146,
+    "frame_end": 4223,
+    "visual_caption": "a man in a suit is standing next to a door",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.562
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0041",
+    "shot_index": 41,
+    "time_start_sec": 176.176,
+    "time_end_sec": 176.843,
+    "frame_start": 4224,
+    "frame_end": 4240,
+    "visual_caption": "a close up of a red car with a black and white stripe",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.469
+      },
+      {
+        "event": "Speech",
+        "score": 0.133
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0042",
+    "shot_index": 42,
+    "time_start_sec": 176.885,
+    "time_end_sec": 182.808,
+    "frame_start": 4241,
+    "frame_end": 4383,
+    "visual_caption": "a close up of a yellow and black robot",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.528
+      },
+      {
+        "event": "Speech",
+        "score": 0.301
+      },
+      {
+        "event": "Vehicle",
+        "score": 0.12
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0043",
+    "shot_index": 43,
+    "time_start_sec": 182.849,
+    "time_end_sec": 186.311,
+    "frame_start": 4384,
+    "frame_end": 4467,
+    "visual_caption": "a man in a suit standing next to a robot",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.54
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0044",
+    "shot_index": 44,
+    "time_start_sec": 186.353,
+    "time_end_sec": 197.03,
+    "frame_start": 4468,
+    "frame_end": 4724,
+    "visual_caption": "a robot that is standing in the middle of a room",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.35
+      },
+      {
+        "event": "Mechanisms",
+        "score": 0.225
+      },
+      {
+        "event": "Ratchet, pawl",
+        "score": 0.145
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0045",
+    "shot_index": 45,
+    "time_start_sec": 197.072,
+    "time_end_sec": 200.409,
+    "frame_start": 4725,
+    "frame_end": 4805,
+    "visual_caption": "a close up of a car ' s front wheel",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.426
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0046",
+    "shot_index": 46,
+    "time_start_sec": 200.45,
+    "time_end_sec": 203.912,
+    "frame_start": 4806,
+    "frame_end": 4889,
+    "visual_caption": "iron man - official trailer",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.421
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0047",
+    "shot_index": 47,
+    "time_start_sec": 203.954,
+    "time_end_sec": 204.162,
+    "frame_start": 4890,
+    "frame_end": 4895,
+    "visual_caption": "a white light shining in the center of a circle",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.274
+      },
+      {
+        "event": "Speech",
+        "score": 0.219
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0048",
+    "shot_index": 48,
+    "time_start_sec": 204.329,
+    "time_end_sec": 204.788,
+    "frame_start": 4899,
+    "frame_end": 4910,
+    "visual_caption": "a white circle with a light shining in it",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.533
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0049",
+    "shot_index": 49,
+    "time_start_sec": 204.83,
+    "time_end_sec": 214.131,
+    "frame_start": 4911,
+    "frame_end": 5134,
+    "visual_caption": "iron man - official trailer",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.447
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0050",
+    "shot_index": 50,
+    "time_start_sec": 214.214,
+    "time_end_sec": 227.185,
+    "frame_start": 5136,
+    "frame_end": 5447,
+    "visual_caption": "a woman in a white dress is standing in a room",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.7
+      },
+      {
+        "event": "Speech",
+        "score": 0.617
+      },
+      {
+        "event": "Tools",
+        "score": 0.108
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0051",
+    "shot_index": 51,
+    "time_start_sec": 227.269,
+    "time_end_sec": 230.856,
+    "frame_start": 5449,
+    "frame_end": 5535,
+    "visual_caption": "transformers transformers the last movie trailer",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.545
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0052",
+    "shot_index": 52,
+    "time_start_sec": 230.897,
+    "time_end_sec": 234.734,
+    "frame_start": 5536,
+    "frame_end": 5628,
+    "visual_caption": "iron man trailer",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.408
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0053",
+    "shot_index": 53,
+    "time_start_sec": 234.776,
+    "time_end_sec": 237.612,
+    "frame_start": 5629,
+    "frame_end": 5697,
+    "visual_caption": "iron man - official trailer",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.46
+      }
+    ],
+    "transcript_segments": [
+      {
+        "start": 222.072,
+        "end": 247.486,
+        "text": " That's the coolest thing I've ever seen. Not bad, huh? Let's do it.",
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0054",
+    "shot_index": 54,
+    "time_start_sec": 237.654,
+    "time_end_sec": 248.999,
+    "frame_start": 5698,
+    "frame_end": 5970,
+    "visual_caption": "iron man trailer",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.664
+      },
+      {
+        "event": "Speech",
+        "score": 0.254
+      },
+      {
+        "event": "Keys jangling",
+        "score": 0.248
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0055",
+    "shot_index": 55,
+    "time_start_sec": 249.04,
+    "time_end_sec": 253.003,
+    "frame_start": 5971,
+    "frame_end": 6066,
+    "visual_caption": "a robot standing in front of a boat",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.497
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0056",
+    "shot_index": 56,
+    "time_start_sec": 253.086,
+    "time_end_sec": 256.59,
+    "frame_start": 6068,
+    "frame_end": 6152,
+    "visual_caption": "a woman in a car with headphones on",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.581
+      },
+      {
+        "event": "Music",
+        "score": 0.413
+      }
+    ],
+    "transcript_segments": [
+      {
+        "start": 254.219,
+        "end": 256.733,
+        "text": " It's your room and off. You miss me?",
+        "speaker": "SPEAKER_01"
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0057",
+    "shot_index": 57,
+    "time_start_sec": 256.631,
+    "time_end_sec": 257.924,
+    "frame_start": 6153,
+    "frame_end": 6184,
+    "visual_caption": "a cockpit with a screen showing the cockpit and the cockpit screen",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.421
+      },
+      {
+        "event": "Television",
+        "score": 0.125
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0058",
+    "shot_index": 58,
+    "time_start_sec": 257.966,
+    "time_end_sec": 260.635,
+    "frame_start": 6185,
+    "frame_end": 6249,
+    "visual_caption": "the avengers movie trailer",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.556
+      },
+      {
+        "event": "Speech",
+        "score": 0.113
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0059",
+    "shot_index": 59,
+    "time_start_sec": 260.677,
+    "time_end_sec": 261.845,
+    "frame_start": 6250,
+    "frame_end": 6278,
+    "visual_caption": "a man in a blue jacket",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.459
+      },
+      {
+        "event": "Speech",
+        "score": 0.144
+      },
+      {
+        "event": "Singing",
+        "score": 0.105
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0060",
+    "shot_index": 60,
+    "time_start_sec": 261.887,
+    "time_end_sec": 262.471,
+    "frame_start": 6279,
+    "frame_end": 6293,
+    "visual_caption": "loki in thor ' s costume",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.444
+      },
+      {
+        "event": "Speech",
+        "score": 0.192
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0061",
+    "shot_index": 61,
+    "time_start_sec": 262.512,
+    "time_end_sec": 267.434,
+    "frame_start": 6294,
+    "frame_end": 6412,
+    "visual_caption": "a firework is in the air",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.56
+      },
+      {
+        "event": "Speech",
+        "score": 0.252
+      },
+      {
+        "event": "Slam",
+        "score": 0.146
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0062",
+    "shot_index": 62,
+    "time_start_sec": 267.476,
+    "time_end_sec": 272.522,
+    "frame_start": 6413,
+    "frame_end": 6534,
+    "visual_caption": "iron man in avengers",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.392
+      },
+      {
+        "event": "Speech",
+        "score": 0.215
+      },
+      {
+        "event": "Cattle, bovinae",
+        "score": 0.157
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0063",
+    "shot_index": 63,
+    "time_start_sec": 272.606,
+    "time_end_sec": 273.398,
+    "frame_start": 6536,
+    "frame_end": 6555,
+    "visual_caption": "a man standing in front of a truck",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.545
+      },
+      {
+        "event": "Meow",
+        "score": 0.144
+      },
+      {
+        "event": "Cat",
+        "score": 0.121
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0064",
+    "shot_index": 64,
+    "time_start_sec": 273.44,
+    "time_end_sec": 275.108,
+    "frame_start": 6556,
+    "frame_end": 6596,
+    "visual_caption": "a man in a black shirt is walking through a tunnel",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.285
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0065",
+    "shot_index": 65,
+    "time_start_sec": 275.15,
+    "time_end_sec": 276.693,
+    "frame_start": 6597,
+    "frame_end": 6634,
+    "visual_caption": "a room with a large statue in it",
+    "audio_events": [
+      {
+        "event": "Vehicle",
+        "score": 0.197
+      },
+      {
+        "event": "Door",
+        "score": 0.127
+      },
+      {
+        "event": "Car",
+        "score": 0.109
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0066",
+    "shot_index": 66,
+    "time_start_sec": 276.735,
+    "time_end_sec": 277.486,
+    "frame_start": 6635,
+    "frame_end": 6653,
+    "visual_caption": "a person holding a cell phone in their hand",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.357
+      },
+      {
+        "event": "Speech",
+        "score": 0.104
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0067",
+    "shot_index": 67,
+    "time_start_sec": 277.527,
+    "time_end_sec": 279.779,
+    "frame_start": 6654,
+    "frame_end": 6708,
+    "visual_caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - iron - iron - iron - man - iron -",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.73
+      },
+      {
+        "event": "Sound effect",
+        "score": 0.109
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0068",
+    "shot_index": 68,
+    "time_start_sec": 279.905,
+    "time_end_sec": 279.988,
+    "frame_start": 6711,
+    "frame_end": 6713,
+    "visual_caption": "a man is standing on a ledge",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.534
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0069",
+    "shot_index": 69,
+    "time_start_sec": 280.03,
+    "time_end_sec": 280.071,
+    "frame_start": 6714,
+    "frame_end": 6715,
+    "visual_caption": "a man in a suit is standing in the fog",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.261
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0070",
+    "shot_index": 70,
+    "time_start_sec": 280.113,
+    "time_end_sec": 280.197,
+    "frame_start": 6716,
+    "frame_end": 6718,
+    "visual_caption": "a man in a suit and tie standing in front of a giant monster",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.406
+      },
+      {
+        "event": "Speech",
+        "score": 0.143
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0071",
+    "shot_index": 71,
+    "time_start_sec": 280.238,
+    "time_end_sec": 284.576,
+    "frame_start": 6719,
+    "frame_end": 6823,
+    "visual_caption": "a man in a black jacket and a woman in a black jacket",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.582
+      },
+      {
+        "event": "Music",
+        "score": 0.556
+      },
+      {
+        "event": "Gasp",
+        "score": 0.107
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0072",
+    "shot_index": 72,
+    "time_start_sec": 284.618,
+    "time_end_sec": 285.452,
+    "frame_start": 6824,
+    "frame_end": 6844,
+    "visual_caption": "a room with a large mirror and a large mirror",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.445
+      },
+      {
+        "event": "Music",
+        "score": 0.443
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0073",
+    "shot_index": 73,
+    "time_start_sec": 285.494,
+    "time_end_sec": 286.912,
+    "frame_start": 6845,
+    "frame_end": 6879,
+    "visual_caption": "a man in a car talking to another man",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.474
+      },
+      {
+        "event": "Speech",
+        "score": 0.375
+      },
+      {
+        "event": "Grunt",
+        "score": 0.184
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0074",
+    "shot_index": 74,
+    "time_start_sec": 286.953,
+    "time_end_sec": 287.913,
+    "frame_start": 6880,
+    "frame_end": 6903,
+    "visual_caption": "a man is standing on a balcony with a glass door",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.665
+      },
+      {
+        "event": "Breaking",
+        "score": 0.212
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0075",
+    "shot_index": 75,
+    "time_start_sec": 287.954,
+    "time_end_sec": 290.957,
+    "frame_start": 6904,
+    "frame_end": 6976,
+    "visual_caption": "a view from the top of a skyscraper",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.255
+      },
+      {
+        "event": "Shatter",
+        "score": 0.161
+      },
+      {
+        "event": "Breaking",
+        "score": 0.114
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0076",
+    "shot_index": 76,
+    "time_start_sec": 290.999,
+    "time_end_sec": 292.083,
+    "frame_start": 6977,
+    "frame_end": 7003,
+    "visual_caption": "a man in a suit standing in front of a window",
+    "audio_events": [],
+    "transcript_segments": [
+      {
+        "start": 281.405,
+        "end": 301.165,
+        "text": " You will all fall before me. Deploy! Yahoy!",
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0077",
+    "shot_index": 77,
+    "time_start_sec": 292.125,
+    "time_end_sec": 292.542,
+    "frame_start": 7004,
+    "frame_end": 7014,
+    "visual_caption": "a man in a trench coat holding a gun",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.179
+      },
+      {
+        "event": "Bang",
+        "score": 0.167
+      },
+      {
+        "event": "Explosion",
+        "score": 0.145
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0078",
+    "shot_index": 78,
+    "time_start_sec": 292.584,
+    "time_end_sec": 292.834,
+    "frame_start": 7015,
+    "frame_end": 7021,
+    "visual_caption": "a car is driving down a street in the rain",
+    "audio_events": [
+      {
+        "event": "Bang",
+        "score": 0.35
+      },
+      {
+        "event": "Music",
+        "score": 0.249
+      },
+      {
+        "event": "Explosion",
+        "score": 0.143
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0079",
+    "shot_index": 79,
+    "time_start_sec": 292.876,
+    "time_end_sec": 296.755,
+    "frame_start": 7022,
+    "frame_end": 7115,
+    "visual_caption": "a large propeller",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.252
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0080",
+    "shot_index": 80,
+    "time_start_sec": 296.796,
+    "time_end_sec": 298.507,
+    "frame_start": 7116,
+    "frame_end": 7157,
+    "visual_caption": "a man is standing on top of a building",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.387
+      },
+      {
+        "event": "Telephone bell ringing",
+        "score": 0.116
+      },
+      {
+        "event": "Speech",
+        "score": 0.103
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0081",
+    "shot_index": 81,
+    "time_start_sec": 298.548,
+    "time_end_sec": 302.928,
+    "frame_start": 7158,
+    "frame_end": 7263,
+    "visual_caption": "a man is walking down a street with a skateboard",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.655
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0082",
+    "shot_index": 82,
+    "time_start_sec": 302.969,
+    "time_end_sec": 305.18,
+    "frame_start": 7264,
+    "frame_end": 7317,
+    "visual_caption": "a large building with a lot of debris on it",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.466
+      },
+      {
+        "event": "Mechanisms",
+        "score": 0.243
+      },
+      {
+        "event": "Ratchet, pawl",
+        "score": 0.102
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0083",
+    "shot_index": 83,
+    "time_start_sec": 305.222,
+    "time_end_sec": 306.723,
+    "frame_start": 7318,
+    "frame_end": 7354,
+    "visual_caption": "a man in a suit is flying through the air",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.591
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0084",
+    "shot_index": 84,
+    "time_start_sec": 306.765,
+    "time_end_sec": 308.558,
+    "frame_start": 7355,
+    "frame_end": 7398,
+    "visual_caption": "a man in a suit is flying through the air",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.592
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0085",
+    "shot_index": 85,
+    "time_start_sec": 308.6,
+    "time_end_sec": 310.894,
+    "frame_start": 7399,
+    "frame_end": 7454,
+    "visual_caption": "a video of a man on a skateboard",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.519
+      },
+      {
+        "event": "Sound effect",
+        "score": 0.101
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0086",
+    "shot_index": 86,
+    "time_start_sec": 310.936,
+    "time_end_sec": 313.313,
+    "frame_start": 7455,
+    "frame_end": 7512,
+    "visual_caption": "a large building",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.665
+      },
+      {
+        "event": "Explosion",
+        "score": 0.339
+      },
+      {
+        "event": "Burst, pop",
+        "score": 0.223
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0087",
+    "shot_index": 87,
+    "time_start_sec": 313.396,
+    "time_end_sec": 315.69,
+    "frame_start": 7514,
+    "frame_end": 7569,
+    "visual_caption": "the avengers movie scene",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.471
+      },
+      {
+        "event": "Speech",
+        "score": 0.12
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0088",
+    "shot_index": 88,
+    "time_start_sec": 315.732,
+    "time_end_sec": 316.191,
+    "frame_start": 7570,
+    "frame_end": 7581,
+    "visual_caption": "a man is playing a game on a laptop",
+    "audio_events": [
+      {
+        "event": "Burst, pop",
+        "score": 0.177
+      },
+      {
+        "event": "Explosion",
+        "score": 0.155
+      },
+      {
+        "event": "Music",
+        "score": 0.139
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0089",
+    "shot_index": 89,
+    "time_start_sec": 316.233,
+    "time_end_sec": 317.484,
+    "frame_start": 7582,
+    "frame_end": 7612,
+    "visual_caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.491
+      },
+      {
+        "event": "Speech",
+        "score": 0.186
+      },
+      {
+        "event": "Breaking",
+        "score": 0.173
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0090",
+    "shot_index": 90,
+    "time_start_sec": 317.526,
+    "time_end_sec": 318.693,
+    "frame_start": 7613,
+    "frame_end": 7641,
+    "visual_caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.439
+      },
+      {
+        "event": "Shatter",
+        "score": 0.124
+      },
+      {
+        "event": "Breaking",
+        "score": 0.102
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0091",
+    "shot_index": 91,
+    "time_start_sec": 318.735,
+    "time_end_sec": 320.612,
+    "frame_start": 7642,
+    "frame_end": 7687,
+    "visual_caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.512
+      },
+      {
+        "event": "Speech",
+        "score": 0.241
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0092",
+    "shot_index": 92,
+    "time_start_sec": 320.737,
+    "time_end_sec": 324.95,
+    "frame_start": 7690,
+    "frame_end": 7791,
+    "visual_caption": "the avengers movie scene",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.504
+      },
+      {
+        "event": "Speech",
+        "score": 0.324
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0093",
+    "shot_index": 93,
+    "time_start_sec": 324.991,
+    "time_end_sec": 327.536,
+    "frame_start": 7792,
+    "frame_end": 7853,
+    "visual_caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.513
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0094",
+    "shot_index": 94,
+    "time_start_sec": 327.577,
+    "time_end_sec": 329.162,
+    "frame_start": 7854,
+    "frame_end": 7892,
+    "visual_caption": "a man in a black shirt is standing on a bike",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.435
+      },
+      {
+        "event": "Speech",
+        "score": 0.146
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0095",
+    "shot_index": 95,
+    "time_start_sec": 329.204,
+    "time_end_sec": 334.0,
+    "frame_start": 7893,
+    "frame_end": 8008,
+    "visual_caption": "a scene from the avengers movie",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.471
+      },
+      {
+        "event": "Speech",
+        "score": 0.307
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0096",
+    "shot_index": 96,
+    "time_start_sec": 334.042,
+    "time_end_sec": 337.629,
+    "frame_start": 8009,
+    "frame_end": 8095,
+    "visual_caption": "a man in a room with a camera",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.528
+      },
+      {
+        "event": "Speech",
+        "score": 0.424
+      },
+      {
+        "event": "Breaking",
+        "score": 0.104
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0097",
+    "shot_index": 97,
+    "time_start_sec": 337.671,
+    "time_end_sec": 341.049,
+    "frame_start": 8096,
+    "frame_end": 8177,
+    "visual_caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - iron - man",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.44
+      },
+      {
+        "event": "Speech",
+        "score": 0.259
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0098",
+    "shot_index": 98,
+    "time_start_sec": 341.091,
+    "time_end_sec": 345.387,
+    "frame_start": 8178,
+    "frame_end": 8281,
+    "visual_caption": "a motorcycle is parked in a garage",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.39
+      },
+      {
+        "event": "Shatter",
+        "score": 0.266
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0099",
+    "shot_index": 99,
+    "time_start_sec": 345.428,
+    "time_end_sec": 348.014,
+    "frame_start": 8282,
+    "frame_end": 8344,
+    "visual_caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.564
+      },
+      {
+        "event": "Music",
+        "score": 0.505
+      },
+      {
+        "event": "Ding",
+        "score": 0.328
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0100",
+    "shot_index": 100,
+    "time_start_sec": 348.056,
+    "time_end_sec": 354.729,
+    "frame_start": 8345,
+    "frame_end": 8505,
+    "visual_caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - iron - man -",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.57
+      },
+      {
+        "event": "Music",
+        "score": 0.569
+      }
+    ],
+    "transcript_segments": [
+      {
+        "start": 334.207,
+        "end": 363.873,
+        "text": " Come on. Nice go to you. I'm the best. Sir, this post is clear of the structure.",
+        "speaker": "SPEAKER_00"
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0101",
+    "shot_index": 101,
+    "time_start_sec": 354.771,
+    "time_end_sec": 355.397,
+    "frame_start": 8506,
+    "frame_end": 8521,
+    "visual_caption": "the avengers trailer is here",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.555
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0102",
+    "shot_index": 102,
+    "time_start_sec": 355.522,
+    "time_end_sec": 356.648,
+    "frame_start": 8524,
+    "frame_end": 8551,
+    "visual_caption": "a man with a beard and a beard in a space suit",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.513
+      },
+      {
+        "event": "Music",
+        "score": 0.47
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0103",
+    "shot_index": 103,
+    "time_start_sec": 356.69,
+    "time_end_sec": 359.859,
+    "frame_start": 8552,
+    "frame_end": 8628,
+    "visual_caption": "a man is jumping in the air in a building",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.516
+      },
+      {
+        "event": "Smash, crash",
+        "score": 0.133
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0104",
+    "shot_index": 104,
+    "time_start_sec": 359.901,
+    "time_end_sec": 361.486,
+    "frame_start": 8629,
+    "frame_end": 8667,
+    "visual_caption": "a man is sitting on a table with a laptop",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.333
+      },
+      {
+        "event": "Breaking",
+        "score": 0.294
+      },
+      {
+        "event": "Chink, clink",
+        "score": 0.212
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0105",
+    "shot_index": 105,
+    "time_start_sec": 361.528,
+    "time_end_sec": 365.24,
+    "frame_start": 8668,
+    "frame_end": 8757,
+    "visual_caption": "a man standing on a boat in the water",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.611
+      },
+      {
+        "event": "Music",
+        "score": 0.578
+      },
+      {
+        "event": "Gasp",
+        "score": 0.13
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0106",
+    "shot_index": 106,
+    "time_start_sec": 365.282,
+    "time_end_sec": 366.783,
+    "frame_start": 8758,
+    "frame_end": 8794,
+    "visual_caption": "a man holding a gun in his hand",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.532
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0107",
+    "shot_index": 107,
+    "time_start_sec": 366.825,
+    "time_end_sec": 375.166,
+    "frame_start": 8795,
+    "frame_end": 8995,
+    "visual_caption": "a man is holding a light in his hand",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.52
+      },
+      {
+        "event": "Smash, crash",
+        "score": 0.29
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0108",
+    "shot_index": 108,
+    "time_start_sec": 375.208,
+    "time_end_sec": 378.044,
+    "frame_start": 8996,
+    "frame_end": 9064,
+    "visual_caption": "a man is reaching his hand up to the ground",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.481
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0109",
+    "shot_index": 109,
+    "time_start_sec": 378.086,
+    "time_end_sec": 385.093,
+    "frame_start": 9065,
+    "frame_end": 9233,
+    "visual_caption": "a man is standing in the rain with his head down",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.663
+      },
+      {
+        "event": "Speech",
+        "score": 0.293
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0110",
+    "shot_index": 110,
+    "time_start_sec": 385.135,
+    "time_end_sec": 388.179,
+    "frame_start": 9234,
+    "frame_end": 9307,
+    "visual_caption": "the avengers movie trailer",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.594
+      },
+      {
+        "event": "Speech",
+        "score": 0.163
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0111",
+    "shot_index": 111,
+    "time_start_sec": 388.805,
+    "time_end_sec": 390.557,
+    "frame_start": 9322,
+    "frame_end": 9364,
+    "visual_caption": "iron man - official trailer",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.565
+      },
+      {
+        "event": "Theme music",
+        "score": 0.142
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0112",
+    "shot_index": 112,
+    "time_start_sec": 390.682,
+    "time_end_sec": 393.518,
+    "frame_start": 9367,
+    "frame_end": 9435,
+    "visual_caption": "a man in a black jacket is standing in front of a mirror",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.453
+      },
+      {
+        "event": "Music",
+        "score": 0.17
+      },
+      {
+        "event": "Grunt",
+        "score": 0.113
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0113",
+    "shot_index": 113,
+    "time_start_sec": 393.56,
+    "time_end_sec": 394.728,
+    "frame_start": 9436,
+    "frame_end": 9464,
+    "visual_caption": "the avengers movie scene",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.447
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0114",
+    "shot_index": 114,
+    "time_start_sec": 394.769,
+    "time_end_sec": 396.563,
+    "frame_start": 9465,
+    "frame_end": 9508,
+    "visual_caption": "a man in a black jacket is holding his hands up",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.656
+      },
+      {
+        "event": "Male speech, man speaking",
+        "score": 0.196
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0115",
+    "shot_index": 115,
+    "time_start_sec": 396.605,
+    "time_end_sec": 398.231,
+    "frame_start": 9509,
+    "frame_end": 9548,
+    "visual_caption": "the avengers movie scene",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.581
+      },
+      {
+        "event": "Male speech, man speaking",
+        "score": 0.111
+      }
+    ],
+    "transcript_segments": [
+      {
+        "start": 390.974,
+        "end": 403.512,
+        "text": " In five four bang You should be gone by now. You should already been gone. I am just beyond terrified here comes three four shut up five four three",
+        "speaker": "SPEAKER_01"
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0116",
+    "shot_index": 116,
+    "time_start_sec": 398.273,
+    "time_end_sec": 399.065,
+    "frame_start": 9549,
+    "frame_end": 9568,
+    "visual_caption": "a man in a black jacket is holding his hands up",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.571
+      },
+      {
+        "event": "Music",
+        "score": 0.277
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0117",
+    "shot_index": 117,
+    "time_start_sec": 399.107,
+    "time_end_sec": 399.941,
+    "frame_start": 9569,
+    "frame_end": 9589,
+    "visual_caption": "the avengers movie scene",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.472
+      },
+      {
+        "event": "Sigh",
+        "score": 0.229
+      },
+      {
+        "event": "Male speech, man speaking",
+        "score": 0.121
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0118",
+    "shot_index": 118,
+    "time_start_sec": 399.983,
+    "time_end_sec": 401.484,
+    "frame_start": 9590,
+    "frame_end": 9626,
+    "visual_caption": "a man in a black jacket is holding his hands up",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.525
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0119",
+    "shot_index": 119,
+    "time_start_sec": 401.526,
+    "time_end_sec": 402.944,
+    "frame_start": 9627,
+    "frame_end": 9661,
+    "visual_caption": "the avengers movie scene",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.579
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0120",
+    "shot_index": 120,
+    "time_start_sec": 402.986,
+    "time_end_sec": 404.112,
+    "frame_start": 9662,
+    "frame_end": 9689,
+    "visual_caption": "harry and hermik in harry ' s house",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.381
+      },
+      {
+        "event": "Music",
+        "score": 0.261
+      },
+      {
+        "event": "Bang",
+        "score": 0.22
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0121",
+    "shot_index": 121,
+    "time_start_sec": 404.154,
+    "time_end_sec": 414.08,
+    "frame_start": 9690,
+    "frame_end": 9928,
+    "visual_caption": "a man holding a knife in his hand",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.668
+      },
+      {
+        "event": "Smash, crash",
+        "score": 0.331
+      },
+      {
+        "event": "Shatter",
+        "score": 0.248
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0122",
+    "shot_index": 122,
+    "time_start_sec": 414.122,
+    "time_end_sec": 415.832,
+    "frame_start": 9929,
+    "frame_end": 9970,
+    "visual_caption": "the avengers movie scene",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.497
+      },
+      {
+        "event": "Speech",
+        "score": 0.182
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0123",
+    "shot_index": 123,
+    "time_start_sec": 415.874,
+    "time_end_sec": 419.002,
+    "frame_start": 9971,
+    "frame_end": 10046,
+    "visual_caption": "a man holding a gun in front of a window",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.548
+      },
+      {
+        "event": "Music",
+        "score": 0.536
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0124",
+    "shot_index": 124,
+    "time_start_sec": 419.252,
+    "time_end_sec": 420.337,
+    "frame_start": 10052,
+    "frame_end": 10078,
+    "visual_caption": "a man in a black coat is walking through a tunnel",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.37
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0125",
+    "shot_index": 125,
+    "time_start_sec": 420.378,
+    "time_end_sec": 422.589,
+    "frame_start": 10079,
+    "frame_end": 10132,
+    "visual_caption": "a man in a helmet and a fire",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.289
+      },
+      {
+        "event": "Smash, crash",
+        "score": 0.215
+      },
+      {
+        "event": "Speech",
+        "score": 0.129
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0126",
+    "shot_index": 126,
+    "time_start_sec": 422.631,
+    "time_end_sec": 426.384,
+    "frame_start": 10133,
+    "frame_end": 10223,
+    "visual_caption": "a man in a black jacket is walking down a tunnel",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.636
+      },
+      {
+        "event": "Music",
+        "score": 0.393
+      },
+      {
+        "event": "Breaking",
+        "score": 0.212
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0127",
+    "shot_index": 127,
+    "time_start_sec": 426.426,
+    "time_end_sec": 427.636,
+    "frame_start": 10224,
+    "frame_end": 10253,
+    "visual_caption": "a man in a black jacket holding a pink ball",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.485
+      },
+      {
+        "event": "Speech",
+        "score": 0.132
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0128",
+    "shot_index": 128,
+    "time_start_sec": 427.677,
+    "time_end_sec": 433.099,
+    "frame_start": 10254,
+    "frame_end": 10384,
+    "visual_caption": "a man standing in front of a building",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.488
+      },
+      {
+        "event": "Speech",
+        "score": 0.166
+      },
+      {
+        "event": "Clang",
+        "score": 0.147
+      }
+    ],
+    "transcript_segments": [
+      {
+        "start": 418.683,
+        "end": 437.768,
+        "text": " Where's the rest? Ah, better late than ever. Not this time. Not this time. Who's going to be back? Hello, by the way. Oh, hello, sir.",
+        "speaker": "SPEAKER_02"
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0129",
+    "shot_index": 129,
+    "time_start_sec": 433.141,
+    "time_end_sec": 436.936,
+    "frame_start": 10385,
+    "frame_end": 10476,
+    "visual_caption": "a robot standing in front of a building",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.436
+      },
+      {
+        "event": "Music",
+        "score": 0.424
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0130",
+    "shot_index": 130,
+    "time_start_sec": 437.02,
+    "time_end_sec": 442.067,
+    "frame_start": 10478,
+    "frame_end": 10599,
+    "visual_caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.752
+      },
+      {
+        "event": "Speech",
+        "score": 0.749
+      },
+      {
+        "event": "Scary music",
+        "score": 0.119
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0131",
+    "shot_index": 131,
+    "time_start_sec": 442.108,
+    "time_end_sec": 443.36,
+    "frame_start": 10600,
+    "frame_end": 10630,
+    "visual_caption": "a group of people sitting around a table",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.499
+      },
+      {
+        "event": "Music",
+        "score": 0.159
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0132",
+    "shot_index": 132,
+    "time_start_sec": 443.401,
+    "time_end_sec": 444.903,
+    "frame_start": 10631,
+    "frame_end": 10667,
+    "visual_caption": "a drawing of a person with a hat on",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.479
+      },
+      {
+        "event": "Music",
+        "score": 0.368
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0133",
+    "shot_index": 133,
+    "time_start_sec": 444.944,
+    "time_end_sec": 454.287,
+    "frame_start": 10668,
+    "frame_end": 10892,
+    "visual_caption": "a man and woman are talking to each other people",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.762
+      },
+      {
+        "event": "Speech",
+        "score": 0.747
+      },
+      {
+        "event": "Shatter",
+        "score": 0.467
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0134",
+    "shot_index": 134,
+    "time_start_sec": 454.371,
+    "time_end_sec": 456.915,
+    "frame_start": 10894,
+    "frame_end": 10955,
+    "visual_caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - man",
+    "audio_events": [],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0135",
+    "shot_index": 135,
+    "time_start_sec": 456.956,
+    "time_end_sec": 460.585,
+    "frame_start": 10956,
+    "frame_end": 11043,
+    "visual_caption": "a man in a green shirt is looking at the camera",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.602
+      },
+      {
+        "event": "Music",
+        "score": 0.426
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0136",
+    "shot_index": 136,
+    "time_start_sec": 460.627,
+    "time_end_sec": 461.67,
+    "frame_start": 11044,
+    "frame_end": 11069,
+    "visual_caption": "iron man - official trailer",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.511
+      },
+      {
+        "event": "Music",
+        "score": 0.311
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0137",
+    "shot_index": 137,
+    "time_start_sec": 461.711,
+    "time_end_sec": 462.879,
+    "frame_start": 11070,
+    "frame_end": 11098,
+    "visual_caption": "a man in a green shirt standing on a balcony",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.428
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0138",
+    "shot_index": 138,
+    "time_start_sec": 462.921,
+    "time_end_sec": 464.756,
+    "frame_start": 11099,
+    "frame_end": 11143,
+    "visual_caption": "iron man - official trailer",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.57
+      },
+      {
+        "event": "Music",
+        "score": 0.559
+      }
+    ],
+    "transcript_segments": [
+      {
+        "start": 458.137,
+        "end": 469.021,
+        "text": " Who's timing? Oh, yeah. That's awesome. Give me a suit, okay? Oh, I'm sorry. They're only coded to me.",
+        "speaker": "SPEAKER_01"
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0139",
+    "shot_index": 139,
+    "time_start_sec": 464.798,
+    "time_end_sec": 468.385,
+    "frame_start": 11144,
+    "frame_end": 11230,
+    "visual_caption": "a robot in a scene with a man in the background",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.506
+      },
+      {
+        "event": "Smash, crash",
+        "score": 0.135
+      },
+      {
+        "event": "Speech",
+        "score": 0.102
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0140",
+    "shot_index": 140,
+    "time_start_sec": 468.426,
+    "time_end_sec": 479.646,
+    "frame_start": 11231,
+    "frame_end": 11500,
+    "visual_caption": "a man is standing on a stage with a microphone",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.51
+      },
+      {
+        "event": "Speech",
+        "score": 0.366
+      },
+      {
+        "event": "Whoosh, swoosh, swish",
+        "score": 0.262
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0141",
+    "shot_index": 141,
+    "time_start_sec": 479.688,
+    "time_end_sec": 488.947,
+    "frame_start": 11501,
+    "frame_end": 11723,
+    "visual_caption": "a fire is burning in the air",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.694
+      },
+      {
+        "event": "Speech",
+        "score": 0.353
+      },
+      {
+        "event": "Boom",
+        "score": 0.306
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0142",
+    "shot_index": 142,
+    "time_start_sec": 489.114,
+    "time_end_sec": 495.37,
+    "frame_start": 11727,
+    "frame_end": 11877,
+    "visual_caption": "a man in a black shirt and a man in a white shirt",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.791
+      },
+      {
+        "event": "Music",
+        "score": 0.662
+      },
+      {
+        "event": "Chink, clink",
+        "score": 0.109
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0143",
+    "shot_index": 143,
+    "time_start_sec": 495.412,
+    "time_end_sec": 497.33,
+    "frame_start": 11878,
+    "frame_end": 11924,
+    "visual_caption": "a man standing in front of a computer",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.477
+      },
+      {
+        "event": "Music",
+        "score": 0.386
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0144",
+    "shot_index": 144,
+    "time_start_sec": 497.372,
+    "time_end_sec": 499.04,
+    "frame_start": 11925,
+    "frame_end": 11965,
+    "visual_caption": "a man in a dark room with two monitors",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.684
+      },
+      {
+        "event": "Music",
+        "score": 0.485
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0145",
+    "shot_index": 145,
+    "time_start_sec": 499.082,
+    "time_end_sec": 500.041,
+    "frame_start": 11966,
+    "frame_end": 11989,
+    "visual_caption": "a man is typing on a laptop in a room",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.632
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0146",
+    "shot_index": 146,
+    "time_start_sec": 500.083,
+    "time_end_sec": 502.085,
+    "frame_start": 11990,
+    "frame_end": 12038,
+    "visual_caption": "a computer screen with a blueprinted image of a plane",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.152
+      },
+      {
+        "event": "Beep, bleep",
+        "score": 0.131
+      },
+      {
+        "event": "Music",
+        "score": 0.115
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0147",
+    "shot_index": 147,
+    "time_start_sec": 502.21,
+    "time_end_sec": 509.509,
+    "frame_start": 12041,
+    "frame_end": 12216,
+    "visual_caption": "a man in a black shirt and sunglasses standing on a street",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.548
+      },
+      {
+        "event": "Breaking",
+        "score": 0.114
+      }
+    ],
+    "transcript_segments": [
+      {
+        "start": 491.937,
+        "end": 513.385,
+        "text": " Sentry mode. Okay, Jarvis, you know, I want it all. Make sure you copy who it HQ. You got no backup here. I'm calling Veronica.",
+        "speaker": "SPEAKER_02"
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0148",
+    "shot_index": 148,
+    "time_start_sec": 509.551,
+    "time_end_sec": 510.885,
+    "frame_start": 12217,
+    "frame_end": 12249,
+    "visual_caption": "a man in a red robe kneeling on the ground",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.539
+      },
+      {
+        "event": "Music",
+        "score": 0.321
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0149",
+    "shot_index": 149,
+    "time_start_sec": 510.927,
+    "time_end_sec": 513.513,
+    "frame_start": 12250,
+    "frame_end": 12312,
+    "visual_caption": "the avengers movie trailer",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.712
+      },
+      {
+        "event": "Music",
+        "score": 0.486
+      },
+      {
+        "event": "Television",
+        "score": 0.143
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0150",
+    "shot_index": 150,
+    "time_start_sec": 513.555,
+    "time_end_sec": 528.319,
+    "frame_start": 12313,
+    "frame_end": 12667,
+    "visual_caption": "a plane flying in the sky",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.469
+      },
+      {
+        "event": "Boom",
+        "score": 0.295
+      },
+      {
+        "event": "Smash, crash",
+        "score": 0.153
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0151",
+    "shot_index": 151,
+    "time_start_sec": 528.361,
+    "time_end_sec": 532.866,
+    "frame_start": 12668,
+    "frame_end": 12776,
+    "visual_caption": "iron man - official trailer",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.516
+      },
+      {
+        "event": "Chink, clink",
+        "score": 0.224
+      },
+      {
+        "event": "Breaking",
+        "score": 0.154
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0152",
+    "shot_index": 152,
+    "time_start_sec": 532.907,
+    "time_end_sec": 538.58,
+    "frame_start": 12777,
+    "frame_end": 12913,
+    "visual_caption": "the last of the zombies in the dark knight",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.779
+      },
+      {
+        "event": "Music",
+        "score": 0.71
+      },
+      {
+        "event": "Shatter",
+        "score": 0.65
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0153",
+    "shot_index": 153,
+    "time_start_sec": 538.621,
+    "time_end_sec": 544.21,
+    "frame_start": 12914,
+    "frame_end": 13048,
+    "visual_caption": "a man in a black suit is holding a gun",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.502
+      },
+      {
+        "event": "Smash, crash",
+        "score": 0.223
+      },
+      {
+        "event": "Bang",
+        "score": 0.204
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0154",
+    "shot_index": 154,
+    "time_start_sec": 544.294,
+    "time_end_sec": 545.795,
+    "frame_start": 13050,
+    "frame_end": 13086,
+    "visual_caption": "a man sitting at a desk with a laptop",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.537
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0155",
+    "shot_index": 155,
+    "time_start_sec": 545.837,
+    "time_end_sec": 557.39,
+    "frame_start": 13087,
+    "frame_end": 13364,
+    "visual_caption": "a man in a suit and tie standing in a room",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.854
+      },
+      {
+        "event": "Music",
+        "score": 0.83
+      },
+      {
+        "event": "Keys jangling",
+        "score": 0.103
+      }
+    ],
+    "transcript_segments": [
+      {
+        "start": 533.078,
+        "end": 558.712,
+        "text": " All right, everybody, stand down! Good evening, boss. We're in position.",
+        "speaker": "SPEAKER_02"
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0156",
+    "shot_index": 156,
+    "time_start_sec": 557.432,
+    "time_end_sec": 565.648,
+    "frame_start": 13365,
+    "frame_end": 13562,
+    "visual_caption": "a person is walking down a hallway",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.562
+      },
+      {
+        "event": "Speech",
+        "score": 0.125
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0157",
+    "shot_index": 157,
+    "time_start_sec": 565.69,
+    "time_end_sec": 565.94,
+    "frame_start": 13563,
+    "frame_end": 13569,
+    "visual_caption": "a man in a suit and tie standing in an office",
+    "audio_events": [
+      {
+        "event": "Vehicle",
+        "score": 0.289
+      },
+      {
+        "event": "Car",
+        "score": 0.148
+      },
+      {
+        "event": "Speech",
+        "score": 0.116
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0158",
+    "shot_index": 158,
+    "time_start_sec": 566.024,
+    "time_end_sec": 568.568,
+    "frame_start": 13571,
+    "frame_end": 13632,
+    "visual_caption": "a helicopter is parked in a parking with a man standing next to it",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.493
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0159",
+    "shot_index": 159,
+    "time_start_sec": 568.61,
+    "time_end_sec": 572.947,
+    "frame_start": 13633,
+    "frame_end": 13737,
+    "visual_caption": "a man in a parachute suit is flying through the air",
+    "audio_events": [
+      {
+        "event": "Whoosh, swoosh, swish",
+        "score": 0.426
+      },
+      {
+        "event": "Music",
+        "score": 0.22
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0160",
+    "shot_index": 160,
+    "time_start_sec": 572.989,
+    "time_end_sec": 576.326,
+    "frame_start": 13738,
+    "frame_end": 13818,
+    "visual_caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - iron - man -",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.522
+      },
+      {
+        "event": "Music",
+        "score": 0.466
+      },
+      {
+        "event": "Bang",
+        "score": 0.158
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0161",
+    "shot_index": 161,
+    "time_start_sec": 576.367,
+    "time_end_sec": 577.786,
+    "frame_start": 13819,
+    "frame_end": 13853,
+    "visual_caption": "captain america the first avenge",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.456
+      },
+      {
+        "event": "Music",
+        "score": 0.198
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0162",
+    "shot_index": 162,
+    "time_start_sec": 577.827,
+    "time_end_sec": 579.662,
+    "frame_start": 13854,
+    "frame_end": 13898,
+    "visual_caption": "iron man and captain america",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.511
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0163",
+    "shot_index": 163,
+    "time_start_sec": 579.704,
+    "time_end_sec": 581.039,
+    "frame_start": 13899,
+    "frame_end": 13931,
+    "visual_caption": "a helicopter flying through the air",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.563
+      },
+      {
+        "event": "Speech",
+        "score": 0.125
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0164",
+    "shot_index": 164,
+    "time_start_sec": 581.08,
+    "time_end_sec": 591.007,
+    "frame_start": 13932,
+    "frame_end": 14170,
+    "visual_caption": "a man in a black jacket is sitting in a car",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.545
+      },
+      {
+        "event": "Theme music",
+        "score": 0.349
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0165",
+    "shot_index": 165,
+    "time_start_sec": 591.049,
+    "time_end_sec": 593.134,
+    "frame_start": 14171,
+    "frame_end": 14221,
+    "visual_caption": "a man sitting in the back seat of a car",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.538
+      },
+      {
+        "event": "Television",
+        "score": 0.104
+      }
+    ],
+    "transcript_segments": [
+      {
+        "start": 577.122,
+        "end": 605.911,
+        "text": " to people at the airport, didn't you guys wear it? Definitely weird. If you even cared, you'd actually be here.",
+        "speaker": "SPEAKER_02"
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0166",
+    "shot_index": 166,
+    "time_start_sec": 593.176,
+    "time_end_sec": 595.094,
+    "frame_start": 14222,
+    "frame_end": 14268,
+    "visual_caption": "a person is holding a book in their hand",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.618
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0167",
+    "shot_index": 167,
+    "time_start_sec": 595.136,
+    "time_end_sec": 603.77,
+    "frame_start": 14269,
+    "frame_end": 14476,
+    "visual_caption": "a man is in the air with a parachute",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.682
+      },
+      {
+        "event": "Smash, crash",
+        "score": 0.206
+      },
+      {
+        "event": "Boom",
+        "score": 0.102
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0168",
+    "shot_index": 168,
+    "time_start_sec": 603.895,
+    "time_end_sec": 608.316,
+    "frame_start": 14479,
+    "frame_end": 14585,
+    "visual_caption": "iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - man",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.705
+      },
+      {
+        "event": "Breaking",
+        "score": 0.113
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0169",
+    "shot_index": 169,
+    "time_start_sec": 608.358,
+    "time_end_sec": 611.069,
+    "frame_start": 14586,
+    "frame_end": 14651,
+    "visual_caption": "iron man and spider - man in the city",
+    "audio_events": [
+      {
+        "event": "Speech",
+        "score": 0.687
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0170",
+    "shot_index": 170,
+    "time_start_sec": 611.152,
+    "time_end_sec": 622.163,
+    "frame_start": 14653,
+    "frame_end": 14917,
+    "visual_caption": "a group of people walking down a street",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.544
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0171",
+    "shot_index": 171,
+    "time_start_sec": 622.205,
+    "time_end_sec": 629.254,
+    "frame_start": 14918,
+    "frame_end": 15087,
+    "visual_caption": "iron man - official trailer",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.82
+      },
+      {
+        "event": "Speech",
+        "score": 0.57
+      },
+      {
+        "event": "Shatter",
+        "score": 0.104
+      }
+    ],
+    "transcript_segments": [
+      {
+        "start": 610.45,
+        "end": 637.906,
+        "text": " I did listen, kid. Where'd that come from? It's Nanotech, you like it?",
+        "speaker": "SPEAKER_01"
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0172",
+    "shot_index": 172,
+    "time_start_sec": 629.295,
+    "time_end_sec": 659.325,
+    "frame_start": 15088,
+    "frame_end": 15808,
+    "visual_caption": "iron man - official trailer",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.588
+      },
+      {
+        "event": "Boom",
+        "score": 0.366
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0173",
+    "shot_index": 173,
+    "time_start_sec": 659.367,
+    "time_end_sec": 660.493,
+    "frame_start": 15809,
+    "frame_end": 15836,
+    "visual_caption": "a video of a man in a suit and tie",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.53
+      },
+      {
+        "event": "Smash, crash",
+        "score": 0.199
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0174",
+    "shot_index": 174,
+    "time_start_sec": 660.535,
+    "time_end_sec": 668.751,
+    "frame_start": 15837,
+    "frame_end": 16034,
+    "visual_caption": "a man walking through a forest with a dog",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.486
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0175",
+    "shot_index": 175,
+    "time_start_sec": 668.793,
+    "time_end_sec": 678.136,
+    "frame_start": 16035,
+    "frame_end": 16259,
+    "visual_caption": "a man in a suit and a woman in a dress",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.596
+      },
+      {
+        "event": "Shatter",
+        "score": 0.255
+      }
+    ],
+    "transcript_segments": [
+      {
+        "start": 663.522,
+        "end": 678.676,
+        "text": " Oh.",
+        "speaker": null
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0176",
+    "shot_index": 176,
+    "time_start_sec": 678.177,
+    "time_end_sec": 681.222,
+    "frame_start": 16260,
+    "frame_end": 16333,
+    "visual_caption": "a large group of people standing in a field",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.46
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0177",
+    "shot_index": 177,
+    "time_start_sec": 681.264,
+    "time_end_sec": 687.478,
+    "frame_start": 16334,
+    "frame_end": 16483,
+    "visual_caption": "a man holding a snake in his hand",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.704
+      },
+      {
+        "event": "Speech",
+        "score": 0.164
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0178",
+    "shot_index": 178,
+    "time_start_sec": 687.562,
+    "time_end_sec": 691.733,
+    "frame_start": 16485,
+    "frame_end": 16585,
+    "visual_caption": "iron man - trailer - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron man - iron - iron - iron - man - iron - man -",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.72
+      },
+      {
+        "event": "Shatter",
+        "score": 0.143
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0179",
+    "shot_index": 179,
+    "time_start_sec": 691.816,
+    "time_end_sec": 699.365,
+    "frame_start": 16587,
+    "frame_end": 16768,
+    "visual_caption": "the amazing spider in the amazing spider movie",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.488
+      },
+      {
+        "event": "Speech",
+        "score": 0.137
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0180",
+    "shot_index": 180,
+    "time_start_sec": 699.49,
+    "time_end_sec": 700.825,
+    "frame_start": 16771,
+    "frame_end": 16803,
+    "visual_caption": "a man in a brown shirt holding a gun",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.501
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0181",
+    "shot_index": 181,
+    "time_start_sec": 700.867,
+    "time_end_sec": 703.286,
+    "frame_start": 16804,
+    "frame_end": 16862,
+    "visual_caption": "iron man - official trailer",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.645
+      },
+      {
+        "event": "Scary music",
+        "score": 0.195
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0182",
+    "shot_index": 182,
+    "time_start_sec": 703.328,
+    "time_end_sec": 709.208,
+    "frame_start": 16863,
+    "frame_end": 17004,
+    "visual_caption": "a man in a red jacket pointing at something",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.737
+      },
+      {
+        "event": "Animal",
+        "score": 0.184
+      },
+      {
+        "event": "Rumble",
+        "score": 0.136
+      }
+    ],
+    "transcript_segments": [
+      {
+        "start": 698.723,
+        "end": 713.877,
+        "text": " Oh!",
+        "speaker": null
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0183",
+    "shot_index": 183,
+    "time_start_sec": 709.25,
+    "time_end_sec": 713.713,
+    "frame_start": 17005,
+    "frame_end": 17112,
+    "visual_caption": "iron man - official trailer",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.609
+      },
+      {
+        "event": "Theme music",
+        "score": 0.234
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0184",
+    "shot_index": 184,
+    "time_start_sec": 713.755,
+    "time_end_sec": 714.714,
+    "frame_start": 17113,
+    "frame_end": 17136,
+    "visual_caption": "avengers the avengers movie",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.497
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0185",
+    "shot_index": 185,
+    "time_start_sec": 714.756,
+    "time_end_sec": 716.049,
+    "frame_start": 17137,
+    "frame_end": 17168,
+    "visual_caption": "thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor thor",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.614
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0186",
+    "shot_index": 186,
+    "time_start_sec": 716.09,
+    "time_end_sec": 719.969,
+    "frame_start": 17169,
+    "frame_end": 17262,
+    "visual_caption": "a large bird is sitting on the ground",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.615
+      },
+      {
+        "event": "Door",
+        "score": 0.118
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0187",
+    "shot_index": 187,
+    "time_start_sec": 720.011,
+    "time_end_sec": 722.347,
+    "frame_start": 17263,
+    "frame_end": 17319,
+    "visual_caption": "a man standing in front of a large city",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.538
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0188",
+    "shot_index": 188,
+    "time_start_sec": 722.388,
+    "time_end_sec": 736.694,
+    "frame_start": 17320,
+    "frame_end": 17663,
+    "visual_caption": "a man in a suit holding a gun",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.569
+      },
+      {
+        "event": "Speech",
+        "score": 0.468
+      },
+      {
+        "event": "Theme music",
+        "score": 0.1
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0189",
+    "shot_index": 189,
+    "time_start_sec": 736.736,
+    "time_end_sec": 749.123,
+    "frame_start": 17664,
+    "frame_end": 17961,
+    "visual_caption": "iron man - official trailer",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.878
+      },
+      {
+        "event": "Shatter",
+        "score": 0.365
+      },
+      {
+        "event": "Glass",
+        "score": 0.141
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0190",
+    "shot_index": 190,
+    "time_start_sec": 749.165,
+    "time_end_sec": 760.301,
+    "frame_start": 17962,
+    "frame_end": 18229,
+    "visual_caption": "iron man - official trailer",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.363
+      },
+      {
+        "event": "Speech",
+        "score": 0.319
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0191",
+    "shot_index": 191,
+    "time_start_sec": 760.426,
+    "time_end_sec": 763.012,
+    "frame_start": 18232,
+    "frame_end": 18294,
+    "visual_caption": "a man in a suit and tie is standing on a stage",
+    "audio_events": [
+      {
+        "event": "Explosion",
+        "score": 0.828
+      },
+      {
+        "event": "Burst, pop",
+        "score": 0.558
+      },
+      {
+        "event": "Eruption",
+        "score": 0.109
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0192",
+    "shot_index": 192,
+    "time_start_sec": 763.137,
+    "time_end_sec": 767.141,
+    "frame_start": 18297,
+    "frame_end": 18393,
+    "visual_caption": "a close up of a car ' s tail",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.643
+      },
+      {
+        "event": "Theme music",
+        "score": 0.336
+      },
+      {
+        "event": "Television",
+        "score": 0.116
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0193",
+    "shot_index": 193,
+    "time_start_sec": 767.642,
+    "time_end_sec": 771.688,
+    "frame_start": 18405,
+    "frame_end": 18502,
+    "visual_caption": "a man in a suit standing in front of a crowd",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.727
+      },
+      {
+        "event": "Theme music",
+        "score": 0.283
+      },
+      {
+        "event": "Television",
+        "score": 0.265
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0194",
+    "shot_index": 194,
+    "time_start_sec": 771.771,
+    "time_end_sec": 776.401,
+    "frame_start": 18504,
+    "frame_end": 18615,
+    "visual_caption": "robert downey - the last of the mohich",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.706
+      },
+      {
+        "event": "Theme music",
+        "score": 0.191
+      },
+      {
+        "event": "Television",
+        "score": 0.173
+      }
+    ],
+    "transcript_segments": []
+  },
+  {
+    "shot_id": "shot_0195",
+    "shot_index": 195,
+    "time_start_sec": 776.442,
+    "time_end_sec": 778.277,
+    "frame_start": 18616,
+    "frame_end": 18660,
+    "visual_caption": "a black background with a white and red flower",
+    "audio_events": [
+      {
+        "event": "Music",
+        "score": 0.756
+      },
+      {
+        "event": "Television",
+        "score": 0.227
+      },
+      {
+        "event": "Theme music",
+        "score": 0.194
+      }
+    ],
+    "transcript_segments": []
+  }
+]

@@ -1,0 +1,2583 @@
+[
+  {
+    "shot_id": "shot_0001",
+    "events": [
+      {
+        "event": "Clang",
+        "score": 0.618
+      },
+      {
+        "event": "Ding",
+        "score": 0.541
+      },
+      {
+        "event": "Music",
+        "score": 0.228
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0002",
+    "events": [
+      {
+        "event": "Clang",
+        "score": 0.716
+      },
+      {
+        "event": "Ding",
+        "score": 0.649
+      },
+      {
+        "event": "Music",
+        "score": 0.418
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0003",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.391
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0004",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.594
+      },
+      {
+        "event": "Water",
+        "score": 0.149
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0005",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.538
+      },
+      {
+        "event": "Explosion",
+        "score": 0.108
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0006",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.599
+      },
+      {
+        "event": "Theme music",
+        "score": 0.173
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0007",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.372
+      },
+      {
+        "event": "Clang",
+        "score": 0.133
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0008",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.446
+      },
+      {
+        "event": "Mechanisms",
+        "score": 0.37
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0009",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.658
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0010",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.543
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0011",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.535
+      },
+      {
+        "event": "Door",
+        "score": 0.314
+      },
+      {
+        "event": "Slam",
+        "score": 0.152
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0012",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.518
+      },
+      {
+        "event": "Music",
+        "score": 0.508
+      },
+      {
+        "event": "Breaking",
+        "score": 0.183
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0013",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.493
+      },
+      {
+        "event": "Music",
+        "score": 0.414
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0014",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.565
+      },
+      {
+        "event": "Music",
+        "score": 0.332
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0015",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.49
+      },
+      {
+        "event": "Music",
+        "score": 0.37
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0016",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.511
+      },
+      {
+        "event": "Music",
+        "score": 0.472
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0017",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.574
+      },
+      {
+        "event": "Music",
+        "score": 0.569
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0018",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.507
+      },
+      {
+        "event": "Speech",
+        "score": 0.504
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0019",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.577
+      },
+      {
+        "event": "Music",
+        "score": 0.52
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0020",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.569
+      },
+      {
+        "event": "Music",
+        "score": 0.296
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0021",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.594
+      },
+      {
+        "event": "Music",
+        "score": 0.298
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0022",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.477
+      },
+      {
+        "event": "Music",
+        "score": 0.212
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0023",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.638
+      },
+      {
+        "event": "Speech",
+        "score": 0.56
+      },
+      {
+        "event": "Single-lens reflex camera",
+        "score": 0.326
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0024",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.633
+      },
+      {
+        "event": "Music",
+        "score": 0.498
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0025",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.274
+      },
+      {
+        "event": "Speech",
+        "score": 0.135
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0026",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.596
+      },
+      {
+        "event": "Boom",
+        "score": 0.29
+      },
+      {
+        "event": "Fusillade",
+        "score": 0.241
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0027",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.466
+      },
+      {
+        "event": "Speech",
+        "score": 0.249
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0028",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.805
+      },
+      {
+        "event": "Music",
+        "score": 0.384
+      },
+      {
+        "event": "Breaking",
+        "score": 0.129
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0029",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.606
+      },
+      {
+        "event": "Music",
+        "score": 0.498
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0030",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.627
+      },
+      {
+        "event": "Music",
+        "score": 0.54
+      },
+      {
+        "event": "Squeal",
+        "score": 0.449
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0031",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.536
+      },
+      {
+        "event": "Music",
+        "score": 0.494
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0032",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.641
+      },
+      {
+        "event": "Music",
+        "score": 0.623
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0033",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.39
+      },
+      {
+        "event": "Mechanisms",
+        "score": 0.147
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0034",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.488
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0035",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.482
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0036",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.623
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0037",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.317
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0038",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.415
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0039",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.385
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0040",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.562
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0041",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.469
+      },
+      {
+        "event": "Speech",
+        "score": 0.133
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0042",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.528
+      },
+      {
+        "event": "Speech",
+        "score": 0.301
+      },
+      {
+        "event": "Vehicle",
+        "score": 0.12
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0043",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.54
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0044",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.35
+      },
+      {
+        "event": "Mechanisms",
+        "score": 0.225
+      },
+      {
+        "event": "Ratchet, pawl",
+        "score": 0.145
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0045",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.426
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0046",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.421
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0047",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.274
+      },
+      {
+        "event": "Speech",
+        "score": 0.219
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0048",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.533
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0049",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.447
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0050",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.7
+      },
+      {
+        "event": "Speech",
+        "score": 0.617
+      },
+      {
+        "event": "Tools",
+        "score": 0.108
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0051",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.545
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0052",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.408
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0053",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.46
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0054",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.664
+      },
+      {
+        "event": "Speech",
+        "score": 0.254
+      },
+      {
+        "event": "Keys jangling",
+        "score": 0.248
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0055",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.497
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0056",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.581
+      },
+      {
+        "event": "Music",
+        "score": 0.413
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0057",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.421
+      },
+      {
+        "event": "Television",
+        "score": 0.125
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0058",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.556
+      },
+      {
+        "event": "Speech",
+        "score": 0.113
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0059",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.459
+      },
+      {
+        "event": "Speech",
+        "score": 0.144
+      },
+      {
+        "event": "Singing",
+        "score": 0.105
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0060",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.444
+      },
+      {
+        "event": "Speech",
+        "score": 0.192
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0061",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.56
+      },
+      {
+        "event": "Speech",
+        "score": 0.252
+      },
+      {
+        "event": "Slam",
+        "score": 0.146
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0062",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.392
+      },
+      {
+        "event": "Speech",
+        "score": 0.215
+      },
+      {
+        "event": "Cattle, bovinae",
+        "score": 0.157
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0063",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.545
+      },
+      {
+        "event": "Meow",
+        "score": 0.144
+      },
+      {
+        "event": "Cat",
+        "score": 0.121
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0064",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.285
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0065",
+    "events": [
+      {
+        "event": "Vehicle",
+        "score": 0.197
+      },
+      {
+        "event": "Door",
+        "score": 0.127
+      },
+      {
+        "event": "Car",
+        "score": 0.109
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0066",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.357
+      },
+      {
+        "event": "Speech",
+        "score": 0.104
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0067",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.73
+      },
+      {
+        "event": "Sound effect",
+        "score": 0.109
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0068",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.534
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0069",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.261
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0070",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.406
+      },
+      {
+        "event": "Speech",
+        "score": 0.143
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0071",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.582
+      },
+      {
+        "event": "Music",
+        "score": 0.556
+      },
+      {
+        "event": "Gasp",
+        "score": 0.107
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0072",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.445
+      },
+      {
+        "event": "Music",
+        "score": 0.443
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0073",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.474
+      },
+      {
+        "event": "Speech",
+        "score": 0.375
+      },
+      {
+        "event": "Grunt",
+        "score": 0.184
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0074",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.665
+      },
+      {
+        "event": "Breaking",
+        "score": 0.212
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0075",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.255
+      },
+      {
+        "event": "Shatter",
+        "score": 0.161
+      },
+      {
+        "event": "Breaking",
+        "score": 0.114
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0076",
+    "events": []
+  },
+  {
+    "shot_id": "shot_0077",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.179
+      },
+      {
+        "event": "Bang",
+        "score": 0.167
+      },
+      {
+        "event": "Explosion",
+        "score": 0.145
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0078",
+    "events": [
+      {
+        "event": "Bang",
+        "score": 0.35
+      },
+      {
+        "event": "Music",
+        "score": 0.249
+      },
+      {
+        "event": "Explosion",
+        "score": 0.143
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0079",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.252
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0080",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.387
+      },
+      {
+        "event": "Telephone bell ringing",
+        "score": 0.116
+      },
+      {
+        "event": "Speech",
+        "score": 0.103
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0081",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.655
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0082",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.466
+      },
+      {
+        "event": "Mechanisms",
+        "score": 0.243
+      },
+      {
+        "event": "Ratchet, pawl",
+        "score": 0.102
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0083",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.591
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0084",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.592
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0085",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.519
+      },
+      {
+        "event": "Sound effect",
+        "score": 0.101
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0086",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.665
+      },
+      {
+        "event": "Explosion",
+        "score": 0.339
+      },
+      {
+        "event": "Burst, pop",
+        "score": 0.223
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0087",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.471
+      },
+      {
+        "event": "Speech",
+        "score": 0.12
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0088",
+    "events": [
+      {
+        "event": "Burst, pop",
+        "score": 0.177
+      },
+      {
+        "event": "Explosion",
+        "score": 0.155
+      },
+      {
+        "event": "Music",
+        "score": 0.139
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0089",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.491
+      },
+      {
+        "event": "Speech",
+        "score": 0.186
+      },
+      {
+        "event": "Breaking",
+        "score": 0.173
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0090",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.439
+      },
+      {
+        "event": "Shatter",
+        "score": 0.124
+      },
+      {
+        "event": "Breaking",
+        "score": 0.102
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0091",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.512
+      },
+      {
+        "event": "Speech",
+        "score": 0.241
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0092",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.504
+      },
+      {
+        "event": "Speech",
+        "score": 0.324
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0093",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.513
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0094",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.435
+      },
+      {
+        "event": "Speech",
+        "score": 0.146
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0095",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.471
+      },
+      {
+        "event": "Speech",
+        "score": 0.307
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0096",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.528
+      },
+      {
+        "event": "Speech",
+        "score": 0.424
+      },
+      {
+        "event": "Breaking",
+        "score": 0.104
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0097",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.44
+      },
+      {
+        "event": "Speech",
+        "score": 0.259
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0098",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.39
+      },
+      {
+        "event": "Shatter",
+        "score": 0.266
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0099",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.564
+      },
+      {
+        "event": "Music",
+        "score": 0.505
+      },
+      {
+        "event": "Ding",
+        "score": 0.328
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0100",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.57
+      },
+      {
+        "event": "Music",
+        "score": 0.569
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0101",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.555
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0102",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.513
+      },
+      {
+        "event": "Music",
+        "score": 0.47
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0103",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.516
+      },
+      {
+        "event": "Smash, crash",
+        "score": 0.133
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0104",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.333
+      },
+      {
+        "event": "Breaking",
+        "score": 0.294
+      },
+      {
+        "event": "Chink, clink",
+        "score": 0.212
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0105",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.611
+      },
+      {
+        "event": "Music",
+        "score": 0.578
+      },
+      {
+        "event": "Gasp",
+        "score": 0.13
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0106",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.532
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0107",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.52
+      },
+      {
+        "event": "Smash, crash",
+        "score": 0.29
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0108",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.481
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0109",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.663
+      },
+      {
+        "event": "Speech",
+        "score": 0.293
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0110",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.594
+      },
+      {
+        "event": "Speech",
+        "score": 0.163
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0111",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.565
+      },
+      {
+        "event": "Theme music",
+        "score": 0.142
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0112",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.453
+      },
+      {
+        "event": "Music",
+        "score": 0.17
+      },
+      {
+        "event": "Grunt",
+        "score": 0.113
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0113",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.447
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0114",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.656
+      },
+      {
+        "event": "Male speech, man speaking",
+        "score": 0.196
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0115",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.581
+      },
+      {
+        "event": "Male speech, man speaking",
+        "score": 0.111
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0116",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.571
+      },
+      {
+        "event": "Music",
+        "score": 0.277
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0117",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.472
+      },
+      {
+        "event": "Sigh",
+        "score": 0.229
+      },
+      {
+        "event": "Male speech, man speaking",
+        "score": 0.121
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0118",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.525
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0119",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.579
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0120",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.381
+      },
+      {
+        "event": "Music",
+        "score": 0.261
+      },
+      {
+        "event": "Bang",
+        "score": 0.22
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0121",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.668
+      },
+      {
+        "event": "Smash, crash",
+        "score": 0.331
+      },
+      {
+        "event": "Shatter",
+        "score": 0.248
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0122",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.497
+      },
+      {
+        "event": "Speech",
+        "score": 0.182
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0123",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.548
+      },
+      {
+        "event": "Music",
+        "score": 0.536
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0124",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.37
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0125",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.289
+      },
+      {
+        "event": "Smash, crash",
+        "score": 0.215
+      },
+      {
+        "event": "Speech",
+        "score": 0.129
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0126",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.636
+      },
+      {
+        "event": "Music",
+        "score": 0.393
+      },
+      {
+        "event": "Breaking",
+        "score": 0.212
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0127",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.485
+      },
+      {
+        "event": "Speech",
+        "score": 0.132
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0128",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.488
+      },
+      {
+        "event": "Speech",
+        "score": 0.166
+      },
+      {
+        "event": "Clang",
+        "score": 0.147
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0129",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.436
+      },
+      {
+        "event": "Music",
+        "score": 0.424
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0130",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.752
+      },
+      {
+        "event": "Speech",
+        "score": 0.749
+      },
+      {
+        "event": "Scary music",
+        "score": 0.119
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0131",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.499
+      },
+      {
+        "event": "Music",
+        "score": 0.159
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0132",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.479
+      },
+      {
+        "event": "Music",
+        "score": 0.368
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0133",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.762
+      },
+      {
+        "event": "Speech",
+        "score": 0.747
+      },
+      {
+        "event": "Shatter",
+        "score": 0.467
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0134",
+    "events": []
+  },
+  {
+    "shot_id": "shot_0135",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.602
+      },
+      {
+        "event": "Music",
+        "score": 0.426
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0136",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.511
+      },
+      {
+        "event": "Music",
+        "score": 0.311
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0137",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.428
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0138",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.57
+      },
+      {
+        "event": "Music",
+        "score": 0.559
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0139",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.506
+      },
+      {
+        "event": "Smash, crash",
+        "score": 0.135
+      },
+      {
+        "event": "Speech",
+        "score": 0.102
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0140",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.51
+      },
+      {
+        "event": "Speech",
+        "score": 0.366
+      },
+      {
+        "event": "Whoosh, swoosh, swish",
+        "score": 0.262
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0141",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.694
+      },
+      {
+        "event": "Speech",
+        "score": 0.353
+      },
+      {
+        "event": "Boom",
+        "score": 0.306
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0142",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.791
+      },
+      {
+        "event": "Music",
+        "score": 0.662
+      },
+      {
+        "event": "Chink, clink",
+        "score": 0.109
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0143",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.477
+      },
+      {
+        "event": "Music",
+        "score": 0.386
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0144",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.684
+      },
+      {
+        "event": "Music",
+        "score": 0.485
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0145",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.632
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0146",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.152
+      },
+      {
+        "event": "Beep, bleep",
+        "score": 0.131
+      },
+      {
+        "event": "Music",
+        "score": 0.115
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0147",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.548
+      },
+      {
+        "event": "Breaking",
+        "score": 0.114
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0148",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.539
+      },
+      {
+        "event": "Music",
+        "score": 0.321
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0149",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.712
+      },
+      {
+        "event": "Music",
+        "score": 0.486
+      },
+      {
+        "event": "Television",
+        "score": 0.143
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0150",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.469
+      },
+      {
+        "event": "Boom",
+        "score": 0.295
+      },
+      {
+        "event": "Smash, crash",
+        "score": 0.153
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0151",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.516
+      },
+      {
+        "event": "Chink, clink",
+        "score": 0.224
+      },
+      {
+        "event": "Breaking",
+        "score": 0.154
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0152",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.779
+      },
+      {
+        "event": "Music",
+        "score": 0.71
+      },
+      {
+        "event": "Shatter",
+        "score": 0.65
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0153",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.502
+      },
+      {
+        "event": "Smash, crash",
+        "score": 0.223
+      },
+      {
+        "event": "Bang",
+        "score": 0.204
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0154",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.537
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0155",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.854
+      },
+      {
+        "event": "Music",
+        "score": 0.83
+      },
+      {
+        "event": "Keys jangling",
+        "score": 0.103
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0156",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.562
+      },
+      {
+        "event": "Speech",
+        "score": 0.125
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0157",
+    "events": [
+      {
+        "event": "Vehicle",
+        "score": 0.289
+      },
+      {
+        "event": "Car",
+        "score": 0.148
+      },
+      {
+        "event": "Speech",
+        "score": 0.116
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0158",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.493
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0159",
+    "events": [
+      {
+        "event": "Whoosh, swoosh, swish",
+        "score": 0.426
+      },
+      {
+        "event": "Music",
+        "score": 0.22
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0160",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.522
+      },
+      {
+        "event": "Music",
+        "score": 0.466
+      },
+      {
+        "event": "Bang",
+        "score": 0.158
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0161",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.456
+      },
+      {
+        "event": "Music",
+        "score": 0.198
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0162",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.511
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0163",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.563
+      },
+      {
+        "event": "Speech",
+        "score": 0.125
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0164",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.545
+      },
+      {
+        "event": "Theme music",
+        "score": 0.349
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0165",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.538
+      },
+      {
+        "event": "Television",
+        "score": 0.104
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0166",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.618
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0167",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.682
+      },
+      {
+        "event": "Smash, crash",
+        "score": 0.206
+      },
+      {
+        "event": "Boom",
+        "score": 0.102
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0168",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.705
+      },
+      {
+        "event": "Breaking",
+        "score": 0.113
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0169",
+    "events": [
+      {
+        "event": "Speech",
+        "score": 0.687
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0170",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.544
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0171",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.82
+      },
+      {
+        "event": "Speech",
+        "score": 0.57
+      },
+      {
+        "event": "Shatter",
+        "score": 0.104
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0172",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.588
+      },
+      {
+        "event": "Boom",
+        "score": 0.366
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0173",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.53
+      },
+      {
+        "event": "Smash, crash",
+        "score": 0.199
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0174",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.486
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0175",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.596
+      },
+      {
+        "event": "Shatter",
+        "score": 0.255
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0176",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.46
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0177",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.704
+      },
+      {
+        "event": "Speech",
+        "score": 0.164
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0178",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.72
+      },
+      {
+        "event": "Shatter",
+        "score": 0.143
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0179",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.488
+      },
+      {
+        "event": "Speech",
+        "score": 0.137
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0180",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.501
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0181",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.645
+      },
+      {
+        "event": "Scary music",
+        "score": 0.195
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0182",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.737
+      },
+      {
+        "event": "Animal",
+        "score": 0.184
+      },
+      {
+        "event": "Rumble",
+        "score": 0.136
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0183",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.609
+      },
+      {
+        "event": "Theme music",
+        "score": 0.234
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0184",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.497
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0185",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.614
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0186",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.615
+      },
+      {
+        "event": "Door",
+        "score": 0.118
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0187",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.538
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0188",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.569
+      },
+      {
+        "event": "Speech",
+        "score": 0.468
+      },
+      {
+        "event": "Theme music",
+        "score": 0.1
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0189",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.878
+      },
+      {
+        "event": "Shatter",
+        "score": 0.365
+      },
+      {
+        "event": "Glass",
+        "score": 0.141
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0190",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.363
+      },
+      {
+        "event": "Speech",
+        "score": 0.319
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0191",
+    "events": [
+      {
+        "event": "Explosion",
+        "score": 0.828
+      },
+      {
+        "event": "Burst, pop",
+        "score": 0.558
+      },
+      {
+        "event": "Eruption",
+        "score": 0.109
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0192",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.643
+      },
+      {
+        "event": "Theme music",
+        "score": 0.336
+      },
+      {
+        "event": "Television",
+        "score": 0.116
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0193",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.727
+      },
+      {
+        "event": "Theme music",
+        "score": 0.283
+      },
+      {
+        "event": "Television",
+        "score": 0.265
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0194",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.706
+      },
+      {
+        "event": "Theme music",
+        "score": 0.191
+      },
+      {
+        "event": "Television",
+        "score": 0.173
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0195",
+    "events": [
+      {
+        "event": "Music",
+        "score": 0.756
+      },
+      {
+        "event": "Television",
+        "score": 0.227
+      },
+      {
+        "event": "Theme music",
+        "score": 0.194
+      }
+    ]
+  }
+]

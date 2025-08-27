@@ -26,6 +26,27 @@
             "Theme music",
             "Water"
         ],
+        "consolidated_actions": [
+            "air drumming",
+            "barbequing",
+            "blowing glass",
+            "chopping wood",
+            "dining",
+            "extinguishing fire",
+            "front raises",
+            "making pizza",
+            "making tea",
+            "opening bottle",
+            "pumping fist",
+            "punching person (boxing)",
+            "shining shoes",
+            "smoking",
+            "smoking hookah",
+            "stretching arm",
+            "washing dishes",
+            "welding",
+            "whistling"
+        ],
         "shot_count": 8,
         "shot_ids": [
             "shot_0001",
@@ -53,6 +74,11 @@
         ],
         "consolidated_audio_events": [
             "Music"
+        ],
+        "consolidated_actions": [
+            "punching bag",
+            "punching person (boxing)",
+            "tai chi"
         ],
         "shot_count": 1,
         "shot_ids": [
@@ -82,6 +108,25 @@
             "Slam",
             "Speech"
         ],
+        "consolidated_actions": [
+            "archery",
+            "bending metal",
+            "bookbinding",
+            "busking",
+            "changing oil",
+            "crying",
+            "finger snapping",
+            "garbage collecting",
+            "opening bottle",
+            "punching person (boxing)",
+            "recording music",
+            "smoking",
+            "tai chi",
+            "tango dancing",
+            "tapping guitar",
+            "washing dishes",
+            "washing feet"
+        ],
         "shot_count": 6,
         "shot_ids": [
             "shot_0010",
@@ -99,7 +144,7 @@
         "end_time": 70.028,
         "duration_sec": 3.503,
         "speakers": [
-            "yusuf"
+            "tony stark"
         ],
         "full_transcript": "Let me finish this. Now, tell me, tell me, function 11. Tell me when you see progress bar.",
         "consolidated_visual_captions": [
@@ -108,6 +153,11 @@
         "consolidated_audio_events": [
             "Music",
             "Speech"
+        ],
+        "consolidated_actions": [
+            "archery",
+            "bending metal",
+            "smoking"
         ],
         "shot_count": 1,
         "shot_ids": [
@@ -132,6 +182,18 @@
             "Music",
             "Speech"
         ],
+        "consolidated_actions": [
+            "bungee jumping",
+            "crying",
+            "laughing",
+            "playing chess",
+            "smoking",
+            "texting",
+            "using computer",
+            "using remote controller (not gaming)",
+            "washing feet",
+            "writing"
+        ],
         "shot_count": 5,
         "shot_ids": [
             "shot_0017",
@@ -148,7 +210,7 @@
         "end_time": 85.669,
         "duration_sec": 0.751,
         "speakers": [
-            "yusuf"
+            "tony stark"
         ],
         "full_transcript": "It should be up right now. Talk to me. Tell him when you see it. I have press control. I. I. Go ahead. Enter. I can enter. Come over here and button me up.",
         "consolidated_visual_captions": [
@@ -157,6 +219,11 @@
         "consolidated_audio_events": [
             "Music",
             "Speech"
+        ],
+        "consolidated_actions": [
+            "laughing",
+            "playing recorder",
+            "using computer"
         ],
         "shot_count": 1,
         "shot_ids": [
@@ -188,6 +255,25 @@
             "Single-lens reflex camera",
             "Speech"
         ],
+        "consolidated_actions": [
+            "applying cream",
+            "archery",
+            "crying",
+            "filling eyebrows",
+            "garbage collecting",
+            "hockey stop",
+            "laughing",
+            "motorcycling",
+            "playing paintball",
+            "pushing cart",
+            "roller skating",
+            "smoking",
+            "tap dancing",
+            "texting",
+            "using computer",
+            "using remote controller (not gaming)",
+            "washing feet"
+        ],
         "shot_count": 7,
         "shot_ids": [
             "shot_0023",
@@ -216,6 +302,11 @@
             "Music",
             "Speech",
             "Squeal"
+        ],
+        "consolidated_actions": [
+            "changing oil",
+            "driving car",
+            "motorcycling"
         ],
         "shot_count": 1,
         "shot_ids": [
@@ -259,6 +350,44 @@
             "Tools",
             "Vehicle"
         ],
+        "consolidated_actions": [
+            "archery",
+            "assembling computer",
+            "bartending",
+            "bending metal",
+            "blowing glass",
+            "bobsledding",
+            "celebrating",
+            "changing oil",
+            "cleaning floor",
+            "dancing macarena",
+            "driving tractor",
+            "garbage collecting",
+            "golf putting",
+            "ice skating",
+            "jogging",
+            "making tea",
+            "marching",
+            "mopping floor",
+            "motorcycling",
+            "playing paintball",
+            "pumping gas",
+            "pushing wheelchair",
+            "riding mountain bike",
+            "riding unicycle",
+            "robot dancing",
+            "roller skating",
+            "setting table",
+            "skateboarding",
+            "ski jumping",
+            "skipping rope",
+            "sticking tongue out",
+            "sword fighting",
+            "taking a shower",
+            "tossing coin",
+            "triple jump",
+            "welding"
+        ],
         "shot_count": 22,
         "shot_ids": [
             "shot_0031",
@@ -292,7 +421,7 @@
         "end_time": 237.612,
         "duration_sec": 2.836,
         "speakers": [
-            "unknown"
+            "idk"
         ],
         "full_transcript": "That's the coolest thing I've ever seen. Not bad, huh? Let's do it.",
         "consolidated_visual_captions": [
@@ -300,6 +429,11 @@
         ],
         "consolidated_audio_events": [
             "Music"
+        ],
+        "consolidated_actions": [
+            "counting money",
+            "playing ukulele",
+            "shaking hands"
         ],
         "shot_count": 1,
         "shot_ids": [
@@ -323,6 +457,14 @@
             "Music",
             "Speech"
         ],
+        "consolidated_actions": [
+            "driving car",
+            "hurling (sport)",
+            "parasailing",
+            "pumping fist",
+            "texting",
+            "throwing discus"
+        ],
         "shot_count": 2,
         "shot_ids": [
             "shot_0054",
@@ -345,6 +487,11 @@
         "consolidated_audio_events": [
             "Music",
             "Speech"
+        ],
+        "consolidated_actions": [
+            "crying",
+            "kissing",
+            "smoking"
         ],
         "shot_count": 1,
         "shot_ids": [
@@ -398,6 +545,44 @@
             "Television",
             "Vehicle"
         ],
+        "consolidated_actions": [
+            "abseiling",
+            "archery",
+            "bowling",
+            "bungee jumping",
+            "busking",
+            "catching or throwing baseball",
+            "celebrating",
+            "cleaning windows",
+            "contact juggling",
+            "crying",
+            "dancing ballet",
+            "drinking",
+            "extinguishing fire",
+            "gargling",
+            "hugging",
+            "ice skating",
+            "kissing",
+            "motorcycling",
+            "opening bottle",
+            "parkour",
+            "playing controller",
+            "playing cricket",
+            "playing organ",
+            "playing paintball",
+            "playing poker",
+            "pumping fist",
+            "recording music",
+            "riding or walking with horse",
+            "robot dancing",
+            "skateboarding",
+            "smoking",
+            "tap dancing",
+            "texting",
+            "trapezing",
+            "unloading truck",
+            "using remote controller (not gaming)"
+        ],
         "shot_count": 19,
         "shot_ids": [
             "shot_0057",
@@ -428,13 +613,18 @@
         "end_time": 292.083,
         "duration_sec": 1.084,
         "speakers": [
-            "unknown"
+            "idk"
         ],
         "full_transcript": "You will all fall before me. Deploy! Yahoy!",
         "consolidated_visual_captions": [
             "a man in a suit standing in front of a window"
         ],
         "consolidated_audio_events": [],
+        "consolidated_actions": [
+            "cleaning windows",
+            "pumping gas",
+            "smoking"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0076"
@@ -482,6 +672,46 @@
             "Speech",
             "Telephone bell ringing"
         ],
+        "consolidated_actions": [
+            "archery",
+            "assembling computer",
+            "barbequing",
+            "bartending",
+            "blowing glass",
+            "bungee jumping",
+            "changing oil",
+            "dunking basketball",
+            "extinguishing fire",
+            "garbage collecting",
+            "giving or receiving award",
+            "headbanging",
+            "high kick",
+            "holding snake",
+            "juggling fire",
+            "krumping",
+            "motorcycling",
+            "opening bottle",
+            "paragliding",
+            "playing bagpipes",
+            "playing ice hockey",
+            "playing violin",
+            "pumping fist",
+            "punching bag",
+            "punching person (boxing)",
+            "reading newspaper",
+            "recording music",
+            "riding unicycle",
+            "robot dancing",
+            "roller skating",
+            "salsa dancing",
+            "skateboarding",
+            "skydiving",
+            "smoking",
+            "snowmobiling",
+            "surfing crowd",
+            "tango dancing",
+            "trapezing"
+        ],
         "shot_count": 23,
         "shot_ids": [
             "shot_0077",
@@ -516,7 +746,7 @@
         "end_time": 354.729,
         "duration_sec": 6.673,
         "speakers": [
-            "unknown"
+            "idk"
         ],
         "full_transcript": "Come on. Nice go to you. I'm the best. Sir, this post is clear of the structure.",
         "consolidated_visual_captions": [
@@ -525,6 +755,11 @@
         "consolidated_audio_events": [
             "Music",
             "Speech"
+        ],
+        "consolidated_actions": [
+            "extinguishing fire",
+            "motorcycling",
+            "playing controller"
         ],
         "shot_count": 1,
         "shot_ids": [
@@ -566,6 +801,38 @@
             "Speech",
             "Theme music"
         ],
+        "consolidated_actions": [
+            "arm wrestling",
+            "beatboxing",
+            "blowing glass",
+            "bobsledding",
+            "bungee jumping",
+            "capoeira",
+            "contact juggling",
+            "cracking neck",
+            "crying",
+            "digging",
+            "diving cliff",
+            "exercising with an exercise ball",
+            "giving or receiving award",
+            "high kick",
+            "motorcycling",
+            "playing controller",
+            "playing paintball",
+            "pumping fist",
+            "punching person (boxing)",
+            "rock climbing",
+            "situp",
+            "skydiving",
+            "slapping",
+            "smoking",
+            "smoking hookah",
+            "sticking tongue out",
+            "surfing water",
+            "taking a shower",
+            "tossing coin",
+            "trimming or shaving beard"
+        ],
         "shot_count": 14,
         "shot_ids": [
             "shot_0101",
@@ -601,6 +868,11 @@
             "Male speech, man speaking",
             "Speech"
         ],
+        "consolidated_actions": [
+            "barbequing",
+            "giving or receiving award",
+            "snowboarding"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0115"
@@ -635,6 +907,37 @@
             "Smash, crash",
             "Speech"
         ],
+        "consolidated_actions": [
+            "applauding",
+            "archery",
+            "arm wrestling",
+            "barbequing",
+            "bungee jumping",
+            "celebrating",
+            "cleaning windows",
+            "contact juggling",
+            "crying",
+            "dancing ballet",
+            "drinking beer",
+            "exercising arm",
+            "headbanging",
+            "ice skating",
+            "playing paintball",
+            "playing violin",
+            "pumping gas",
+            "punching person (boxing)",
+            "riding unicycle",
+            "robot dancing",
+            "smoking",
+            "snowboarding",
+            "stretching arm",
+            "sword fighting",
+            "tai chi",
+            "tango dancing",
+            "tap dancing",
+            "throwing axe",
+            "welding"
+        ],
         "shot_count": 12,
         "shot_ids": [
             "shot_0116",
@@ -658,7 +961,7 @@
         "end_time": 433.099,
         "duration_sec": 5.422,
         "speakers": [
-            "yusuf"
+            "tony stark"
         ],
         "full_transcript": "Where's the rest? Ah, better late than ever. Not this time. Not this time. Who's going to be back? Hello, by the way. Oh, hello, sir.",
         "consolidated_visual_captions": [
@@ -668,6 +971,11 @@
             "Clang",
             "Music",
             "Speech"
+        ],
+        "consolidated_actions": [
+            "archery",
+            "cleaning windows",
+            "sword fighting"
         ],
         "shot_count": 1,
         "shot_ids": [
@@ -699,6 +1007,34 @@
             "Shatter",
             "Speech"
         ],
+        "consolidated_actions": [
+            "arm wrestling",
+            "beatboxing",
+            "belly dancing",
+            "brush painting",
+            "celebrating",
+            "dancing gangnam style",
+            "dancing macarena",
+            "dining",
+            "drawing",
+            "extinguishing fire",
+            "hugging",
+            "juggling fire",
+            "kissing",
+            "playing accordion",
+            "playing paintball",
+            "playing poker",
+            "pumping fist",
+            "robot dancing",
+            "rock climbing",
+            "salsa dancing",
+            "skiing (not slalom or crosscountry)",
+            "sniffing",
+            "sword fighting",
+            "tai chi",
+            "writing",
+            "zumba"
+        ],
         "shot_count": 9,
         "shot_ids": [
             "shot_0129",
@@ -728,6 +1064,11 @@
         "consolidated_audio_events": [
             "Music",
             "Speech"
+        ],
+        "consolidated_actions": [
+            "blowing glass",
+            "extinguishing fire",
+            "welding"
         ],
         "shot_count": 1,
         "shot_ids": [
@@ -761,6 +1102,23 @@
             "Speech",
             "Whoosh, swoosh, swish"
         ],
+        "consolidated_actions": [
+            "air drumming",
+            "bartending",
+            "contact juggling",
+            "counting money",
+            "headbanging",
+            "headbutting",
+            "krumping",
+            "playing controller",
+            "playing guitar",
+            "playing keyboard",
+            "recording music",
+            "surfing crowd",
+            "using computer",
+            "using remote controller (not gaming)",
+            "washing dishes"
+        ],
         "shot_count": 8,
         "shot_ids": [
             "shot_0139",
@@ -780,7 +1138,7 @@
         "end_time": 509.509,
         "duration_sec": 7.299,
         "speakers": [
-            "yusuf"
+            "tony stark"
         ],
         "full_transcript": "Sentry mode. Okay, Jarvis, you know, I want it all. Make sure you copy who it HQ. You got no backup here. I'm calling Veronica.",
         "consolidated_visual_captions": [
@@ -789,6 +1147,11 @@
         "consolidated_audio_events": [
             "Breaking",
             "Music"
+        ],
+        "consolidated_actions": [
+            "archery",
+            "headbanging",
+            "playing paintball"
         ],
         "shot_count": 1,
         "shot_ids": [
@@ -823,6 +1186,27 @@
             "Speech",
             "Television"
         ],
+        "consolidated_actions": [
+            "archery",
+            "assembling computer",
+            "clay pottery making",
+            "counting money",
+            "crying",
+            "dancing ballet",
+            "feeding birds",
+            "garbage collecting",
+            "headbanging",
+            "motorcycling",
+            "recording music",
+            "robot dancing",
+            "shining shoes",
+            "skydiving",
+            "smoking",
+            "sword fighting",
+            "washing feet",
+            "welding",
+            "yoga"
+        ],
         "shot_count": 7,
         "shot_ids": [
             "shot_0148",
@@ -841,7 +1225,7 @@
         "end_time": 557.39,
         "duration_sec": 11.553,
         "speakers": [
-            "yusuf"
+            "tony stark"
         ],
         "full_transcript": "All right, everybody, stand down! Good evening, boss. We're in position.",
         "consolidated_visual_captions": [
@@ -851,6 +1235,11 @@
             "Keys jangling",
             "Music",
             "Speech"
+        ],
+        "consolidated_actions": [
+            "texting",
+            "tossing coin",
+            "using remote controller (not gaming)"
         ],
         "shot_count": 1,
         "shot_ids": [
@@ -885,6 +1274,28 @@
             "Vehicle",
             "Whoosh, swoosh, swish"
         ],
+        "consolidated_actions": [
+            "air drumming",
+            "archery",
+            "blasting sand",
+            "celebrating",
+            "contact juggling",
+            "extinguishing fire",
+            "motorcycling",
+            "opening bottle",
+            "playing ice hockey",
+            "playing paintball",
+            "pushing car",
+            "robot dancing",
+            "roller skating",
+            "shaking hands",
+            "skateboarding",
+            "ski jumping",
+            "skiing (not slalom or crosscountry)",
+            "skydiving",
+            "smoking",
+            "snowmobiling"
+        ],
         "shot_count": 9,
         "shot_ids": [
             "shot_0156",
@@ -905,7 +1316,7 @@
         "end_time": 593.134,
         "duration_sec": 2.085,
         "speakers": [
-            "yusuf"
+            "tony stark"
         ],
         "full_transcript": "to people at the airport, didn't you guys wear it? Definitely weird. If you even cared, you'd actually be here.",
         "consolidated_visual_captions": [
@@ -914,6 +1325,11 @@
         "consolidated_audio_events": [
             "Music",
             "Television"
+        ],
+        "consolidated_actions": [
+            "crying",
+            "laughing",
+            "smoking"
         ],
         "shot_count": 1,
         "shot_ids": [
@@ -942,6 +1358,22 @@
             "Smash, crash",
             "Speech"
         ],
+        "consolidated_actions": [
+            "bungee jumping",
+            "celebrating",
+            "cleaning toilet",
+            "crying",
+            "eating chips",
+            "giving or receiving award",
+            "grinding meat",
+            "hugging",
+            "jogging",
+            "kissing",
+            "motorcycling",
+            "playing paintball",
+            "shredding paper",
+            "skydiving"
+        ],
         "shot_count": 5,
         "shot_ids": [
             "shot_0166",
@@ -969,6 +1401,11 @@
             "Shatter",
             "Speech"
         ],
+        "consolidated_actions": [
+            "bobsledding",
+            "celebrating",
+            "ski jumping"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0171"
@@ -991,6 +1428,15 @@
             "Boom",
             "Music",
             "Smash, crash"
+        ],
+        "consolidated_actions": [
+            "contact juggling",
+            "counting money",
+            "flying kite",
+            "high kick",
+            "motorcycling",
+            "playing paintball",
+            "skydiving"
         ],
         "shot_count": 3,
         "shot_ids": [
@@ -1015,6 +1461,11 @@
         "consolidated_audio_events": [
             "Music",
             "Shatter"
+        ],
+        "consolidated_actions": [
+            "blowing glass",
+            "playing paintball",
+            "surfing crowd"
         ],
         "shot_count": 1,
         "shot_ids": [
@@ -1043,6 +1494,23 @@
             "Shatter",
             "Speech"
         ],
+        "consolidated_actions": [
+            "archery",
+            "blowing glass",
+            "bungee jumping",
+            "busking",
+            "crying",
+            "hugging",
+            "ironing",
+            "motorcycling",
+            "playing paintball",
+            "pushing car",
+            "shining shoes",
+            "skydiving",
+            "smoking",
+            "sword fighting",
+            "welding"
+        ],
         "shot_count": 6,
         "shot_ids": [
             "shot_0176",
@@ -1070,6 +1538,11 @@
             "Animal",
             "Music",
             "Rumble"
+        ],
+        "consolidated_actions": [
+            "crying",
+            "eating hotdog",
+            "smoking"
         ],
         "shot_count": 1,
         "shot_ids": [
@@ -1108,6 +1581,36 @@
             "Speech",
             "Television",
             "Theme music"
+        ],
+        "consolidated_actions": [
+            "air drumming",
+            "archery",
+            "belly dancing",
+            "bowling",
+            "bungee jumping",
+            "changing wheel",
+            "checking tires",
+            "contact juggling",
+            "crying",
+            "dancing ballet",
+            "extinguishing fire",
+            "flying kite",
+            "giving or receiving award",
+            "hugging",
+            "kissing",
+            "motorcycling",
+            "petting animal (not cat)",
+            "playing paintball",
+            "riding mule",
+            "robot dancing",
+            "rock climbing",
+            "scrambling eggs",
+            "scuba diving",
+            "skydiving",
+            "smoking",
+            "snorkeling",
+            "spinning poi",
+            "welding"
         ],
         "shot_count": 13,
         "shot_ids": [

@@ -1,0 +1,3174 @@
+[
+  {
+    "shot_id": "shot_0001",
+    "actions": [
+      {
+        "action": "air drumming",
+        "score": 0.349
+      },
+      {
+        "action": "chopping wood",
+        "score": 0.051
+      },
+      {
+        "action": "pumping fist",
+        "score": 0.037
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0002",
+    "actions": [
+      {
+        "action": "chopping wood",
+        "score": 0.173
+      },
+      {
+        "action": "welding",
+        "score": 0.145
+      },
+      {
+        "action": "opening bottle",
+        "score": 0.03
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0003",
+    "actions": [
+      {
+        "action": "air drumming",
+        "score": 0.044
+      },
+      {
+        "action": "whistling",
+        "score": 0.04
+      },
+      {
+        "action": "shining shoes",
+        "score": 0.038
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0004",
+    "actions": [
+      {
+        "action": "making tea",
+        "score": 0.424
+      },
+      {
+        "action": "barbequing",
+        "score": 0.053
+      },
+      {
+        "action": "dining",
+        "score": 0.028
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0005",
+    "actions": [
+      {
+        "action": "front raises",
+        "score": 0.228
+      },
+      {
+        "action": "stretching arm",
+        "score": 0.059
+      },
+      {
+        "action": "punching person (boxing)",
+        "score": 0.039
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0006",
+    "actions": [
+      {
+        "action": "extinguishing fire",
+        "score": 0.262
+      },
+      {
+        "action": "blowing glass",
+        "score": 0.042
+      },
+      {
+        "action": "making pizza",
+        "score": 0.018
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0007",
+    "actions": [
+      {
+        "action": "smoking",
+        "score": 0.095
+      },
+      {
+        "action": "extinguishing fire",
+        "score": 0.093
+      },
+      {
+        "action": "smoking hookah",
+        "score": 0.044
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0008",
+    "actions": [
+      {
+        "action": "smoking",
+        "score": 0.396
+      },
+      {
+        "action": "making tea",
+        "score": 0.052
+      },
+      {
+        "action": "washing dishes",
+        "score": 0.04
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0009",
+    "actions": [
+      {
+        "action": "punching person (boxing)",
+        "score": 0.569
+      },
+      {
+        "action": "punching bag",
+        "score": 0.028
+      },
+      {
+        "action": "tai chi",
+        "score": 0.026
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0010",
+    "actions": [
+      {
+        "action": "tango dancing",
+        "score": 0.375
+      },
+      {
+        "action": "tai chi",
+        "score": 0.044
+      },
+      {
+        "action": "punching person (boxing)",
+        "score": 0.043
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0011",
+    "actions": [
+      {
+        "action": "archery",
+        "score": 0.082
+      },
+      {
+        "action": "garbage collecting",
+        "score": 0.053
+      },
+      {
+        "action": "changing oil",
+        "score": 0.04
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0012",
+    "actions": [
+      {
+        "action": "crying",
+        "score": 0.351
+      },
+      {
+        "action": "punching person (boxing)",
+        "score": 0.021
+      },
+      {
+        "action": "busking",
+        "score": 0.016
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0013",
+    "actions": [
+      {
+        "action": "finger snapping",
+        "score": 0.29
+      },
+      {
+        "action": "tapping guitar",
+        "score": 0.038
+      },
+      {
+        "action": "recording music",
+        "score": 0.027
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0014",
+    "actions": [
+      {
+        "action": "smoking",
+        "score": 0.056
+      },
+      {
+        "action": "washing dishes",
+        "score": 0.05
+      },
+      {
+        "action": "washing feet",
+        "score": 0.041
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0015",
+    "actions": [
+      {
+        "action": "bending metal",
+        "score": 0.081
+      },
+      {
+        "action": "opening bottle",
+        "score": 0.066
+      },
+      {
+        "action": "bookbinding",
+        "score": 0.056
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0016",
+    "actions": [
+      {
+        "action": "smoking",
+        "score": 0.189
+      },
+      {
+        "action": "archery",
+        "score": 0.086
+      },
+      {
+        "action": "bending metal",
+        "score": 0.029
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0017",
+    "actions": [
+      {
+        "action": "smoking",
+        "score": 0.278
+      },
+      {
+        "action": "bungee jumping",
+        "score": 0.157
+      },
+      {
+        "action": "crying",
+        "score": 0.031
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0018",
+    "actions": [
+      {
+        "action": "using computer",
+        "score": 0.684
+      },
+      {
+        "action": "laughing",
+        "score": 0.002
+      },
+      {
+        "action": "texting",
+        "score": 0.002
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0019",
+    "actions": [
+      {
+        "action": "crying",
+        "score": 0.41
+      },
+      {
+        "action": "washing feet",
+        "score": 0.065
+      },
+      {
+        "action": "playing chess",
+        "score": 0.024
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0020",
+    "actions": [
+      {
+        "action": "using computer",
+        "score": 0.322
+      },
+      {
+        "action": "writing",
+        "score": 0.267
+      },
+      {
+        "action": "using remote controller (not gaming)",
+        "score": 0.034
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0021",
+    "actions": [
+      {
+        "action": "crying",
+        "score": 0.28
+      },
+      {
+        "action": "playing chess",
+        "score": 0.106
+      },
+      {
+        "action": "washing feet",
+        "score": 0.095
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0022",
+    "actions": [
+      {
+        "action": "using computer",
+        "score": 0.643
+      },
+      {
+        "action": "laughing",
+        "score": 0.003
+      },
+      {
+        "action": "playing recorder",
+        "score": 0.002
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0023",
+    "actions": [
+      {
+        "action": "crying",
+        "score": 0.664
+      },
+      {
+        "action": "washing feet",
+        "score": 0.025
+      },
+      {
+        "action": "laughing",
+        "score": 0.018
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0024",
+    "actions": [
+      {
+        "action": "using remote controller (not gaming)",
+        "score": 0.203
+      },
+      {
+        "action": "using computer",
+        "score": 0.177
+      },
+      {
+        "action": "texting",
+        "score": 0.116
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0025",
+    "actions": [
+      {
+        "action": "using remote controller (not gaming)",
+        "score": 0.078
+      },
+      {
+        "action": "archery",
+        "score": 0.044
+      },
+      {
+        "action": "smoking",
+        "score": 0.037
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0026",
+    "actions": [
+      {
+        "action": "motorcycling",
+        "score": 0.179
+      },
+      {
+        "action": "playing paintball",
+        "score": 0.133
+      },
+      {
+        "action": "archery",
+        "score": 0.109
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0027",
+    "actions": [
+      {
+        "action": "roller skating",
+        "score": 0.173
+      },
+      {
+        "action": "hockey stop",
+        "score": 0.114
+      },
+      {
+        "action": "tap dancing",
+        "score": 0.025
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0028",
+    "actions": [
+      {
+        "action": "archery",
+        "score": 0.364
+      },
+      {
+        "action": "garbage collecting",
+        "score": 0.131
+      },
+      {
+        "action": "pushing cart",
+        "score": 0.017
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0029",
+    "actions": [
+      {
+        "action": "applying cream",
+        "score": 0.212
+      },
+      {
+        "action": "filling eyebrows",
+        "score": 0.16
+      },
+      {
+        "action": "crying",
+        "score": 0.026
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0030",
+    "actions": [
+      {
+        "action": "driving car",
+        "score": 0.26
+      },
+      {
+        "action": "motorcycling",
+        "score": 0.049
+      },
+      {
+        "action": "changing oil",
+        "score": 0.04
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0031",
+    "actions": [
+      {
+        "action": "archery",
+        "score": 0.125
+      },
+      {
+        "action": "skipping rope",
+        "score": 0.056
+      },
+      {
+        "action": "golf putting",
+        "score": 0.052
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0032",
+    "actions": [
+      {
+        "action": "taking a shower",
+        "score": 0.071
+      },
+      {
+        "action": "ice skating",
+        "score": 0.039
+      },
+      {
+        "action": "sticking tongue out",
+        "score": 0.034
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0033",
+    "actions": [
+      {
+        "action": "roller skating",
+        "score": 0.222
+      },
+      {
+        "action": "motorcycling",
+        "score": 0.062
+      },
+      {
+        "action": "riding unicycle",
+        "score": 0.039
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0034",
+    "actions": [
+      {
+        "action": "playing paintball",
+        "score": 0.193
+      },
+      {
+        "action": "robot dancing",
+        "score": 0.087
+      },
+      {
+        "action": "motorcycling",
+        "score": 0.067
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0035",
+    "actions": [
+      {
+        "action": "robot dancing",
+        "score": 0.221
+      },
+      {
+        "action": "archery",
+        "score": 0.088
+      },
+      {
+        "action": "roller skating",
+        "score": 0.061
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0036",
+    "actions": [
+      {
+        "action": "tossing coin",
+        "score": 0.133
+      },
+      {
+        "action": "cleaning floor",
+        "score": 0.112
+      },
+      {
+        "action": "mopping floor",
+        "score": 0.076
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0037",
+    "actions": [
+      {
+        "action": "cleaning floor",
+        "score": 0.641
+      },
+      {
+        "action": "mopping floor",
+        "score": 0.036
+      },
+      {
+        "action": "triple jump",
+        "score": 0.029
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0038",
+    "actions": [
+      {
+        "action": "garbage collecting",
+        "score": 0.092
+      },
+      {
+        "action": "welding",
+        "score": 0.025
+      },
+      {
+        "action": "cleaning floor",
+        "score": 0.025
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0039",
+    "actions": [
+      {
+        "action": "motorcycling",
+        "score": 0.061
+      },
+      {
+        "action": "jogging",
+        "score": 0.042
+      },
+      {
+        "action": "assembling computer",
+        "score": 0.031
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0040",
+    "actions": [
+      {
+        "action": "garbage collecting",
+        "score": 0.085
+      },
+      {
+        "action": "bending metal",
+        "score": 0.059
+      },
+      {
+        "action": "pumping gas",
+        "score": 0.054
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0041",
+    "actions": [
+      {
+        "action": "changing oil",
+        "score": 0.212
+      },
+      {
+        "action": "bartending",
+        "score": 0.106
+      },
+      {
+        "action": "making tea",
+        "score": 0.032
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0042",
+    "actions": [
+      {
+        "action": "motorcycling",
+        "score": 0.125
+      },
+      {
+        "action": "blowing glass",
+        "score": 0.075
+      },
+      {
+        "action": "robot dancing",
+        "score": 0.051
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0043",
+    "actions": [
+      {
+        "action": "robot dancing",
+        "score": 0.149
+      },
+      {
+        "action": "roller skating",
+        "score": 0.06
+      },
+      {
+        "action": "archery",
+        "score": 0.045
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0044",
+    "actions": [
+      {
+        "action": "motorcycling",
+        "score": 0.14
+      },
+      {
+        "action": "pushing wheelchair",
+        "score": 0.133
+      },
+      {
+        "action": "riding mountain bike",
+        "score": 0.027
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0045",
+    "actions": [
+      {
+        "action": "setting table",
+        "score": 0.076
+      },
+      {
+        "action": "motorcycling",
+        "score": 0.07
+      },
+      {
+        "action": "driving tractor",
+        "score": 0.053
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0046",
+    "actions": [
+      {
+        "action": "assembling computer",
+        "score": 0.081
+      },
+      {
+        "action": "motorcycling",
+        "score": 0.07
+      },
+      {
+        "action": "archery",
+        "score": 0.065
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0047",
+    "actions": []
+  },
+  {
+    "shot_id": "shot_0048",
+    "actions": []
+  },
+  {
+    "shot_id": "shot_0049",
+    "actions": [
+      {
+        "action": "bobsledding",
+        "score": 0.136
+      },
+      {
+        "action": "ski jumping",
+        "score": 0.072
+      },
+      {
+        "action": "celebrating",
+        "score": 0.059
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0050",
+    "actions": [
+      {
+        "action": "archery",
+        "score": 0.057
+      },
+      {
+        "action": "sword fighting",
+        "score": 0.056
+      },
+      {
+        "action": "marching",
+        "score": 0.047
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0051",
+    "actions": [
+      {
+        "action": "skateboarding",
+        "score": 0.251
+      },
+      {
+        "action": "garbage collecting",
+        "score": 0.049
+      },
+      {
+        "action": "motorcycling",
+        "score": 0.016
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0052",
+    "actions": [
+      {
+        "action": "motorcycling",
+        "score": 0.408
+      },
+      {
+        "action": "robot dancing",
+        "score": 0.014
+      },
+      {
+        "action": "dancing macarena",
+        "score": 0.012
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0053",
+    "actions": [
+      {
+        "action": "counting money",
+        "score": 0.157
+      },
+      {
+        "action": "playing ukulele",
+        "score": 0.064
+      },
+      {
+        "action": "shaking hands",
+        "score": 0.057
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0054",
+    "actions": [
+      {
+        "action": "hurling (sport)",
+        "score": 0.046
+      },
+      {
+        "action": "throwing discus",
+        "score": 0.036
+      },
+      {
+        "action": "parasailing",
+        "score": 0.031
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0055",
+    "actions": [
+      {
+        "action": "pumping fist",
+        "score": 0.039
+      },
+      {
+        "action": "driving car",
+        "score": 0.036
+      },
+      {
+        "action": "texting",
+        "score": 0.033
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0056",
+    "actions": [
+      {
+        "action": "crying",
+        "score": 0.352
+      },
+      {
+        "action": "kissing",
+        "score": 0.118
+      },
+      {
+        "action": "smoking",
+        "score": 0.047
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0057",
+    "actions": [
+      {
+        "action": "using remote controller (not gaming)",
+        "score": 0.12
+      },
+      {
+        "action": "playing poker",
+        "score": 0.097
+      },
+      {
+        "action": "playing controller",
+        "score": 0.083
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0058",
+    "actions": [
+      {
+        "action": "crying",
+        "score": 0.548
+      },
+      {
+        "action": "kissing",
+        "score": 0.06
+      },
+      {
+        "action": "smoking",
+        "score": 0.06
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0059",
+    "actions": [
+      {
+        "action": "playing cricket",
+        "score": 0.065
+      },
+      {
+        "action": "robot dancing",
+        "score": 0.062
+      },
+      {
+        "action": "catching or throwing baseball",
+        "score": 0.037
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0060",
+    "actions": []
+  },
+  {
+    "shot_id": "shot_0061",
+    "actions": [
+      {
+        "action": "motorcycling",
+        "score": 0.356
+      },
+      {
+        "action": "playing paintball",
+        "score": 0.046
+      },
+      {
+        "action": "celebrating",
+        "score": 0.035
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0062",
+    "actions": [
+      {
+        "action": "extinguishing fire",
+        "score": 0.082
+      },
+      {
+        "action": "motorcycling",
+        "score": 0.067
+      },
+      {
+        "action": "opening bottle",
+        "score": 0.057
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0063",
+    "actions": [
+      {
+        "action": "robot dancing",
+        "score": 0.152
+      },
+      {
+        "action": "bowling",
+        "score": 0.052
+      },
+      {
+        "action": "contact juggling",
+        "score": 0.035
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0064",
+    "actions": [
+      {
+        "action": "busking",
+        "score": 0.093
+      },
+      {
+        "action": "skateboarding",
+        "score": 0.087
+      },
+      {
+        "action": "recording music",
+        "score": 0.062
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0065",
+    "actions": [
+      {
+        "action": "dancing ballet",
+        "score": 0.139
+      },
+      {
+        "action": "robot dancing",
+        "score": 0.072
+      },
+      {
+        "action": "kissing",
+        "score": 0.053
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0066",
+    "actions": [
+      {
+        "action": "drinking",
+        "score": 0.081
+      },
+      {
+        "action": "gargling",
+        "score": 0.04
+      },
+      {
+        "action": "texting",
+        "score": 0.026
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0067",
+    "actions": [
+      {
+        "action": "archery",
+        "score": 0.085
+      },
+      {
+        "action": "contact juggling",
+        "score": 0.055
+      },
+      {
+        "action": "riding or walking with horse",
+        "score": 0.021
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0068",
+    "actions": []
+  },
+  {
+    "shot_id": "shot_0069",
+    "actions": []
+  },
+  {
+    "shot_id": "shot_0070",
+    "actions": []
+  },
+  {
+    "shot_id": "shot_0071",
+    "actions": [
+      {
+        "action": "ice skating",
+        "score": 0.392
+      },
+      {
+        "action": "hugging",
+        "score": 0.106
+      },
+      {
+        "action": "crying",
+        "score": 0.026
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0072",
+    "actions": [
+      {
+        "action": "playing organ",
+        "score": 0.227
+      },
+      {
+        "action": "dancing ballet",
+        "score": 0.071
+      },
+      {
+        "action": "tap dancing",
+        "score": 0.038
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0073",
+    "actions": [
+      {
+        "action": "bungee jumping",
+        "score": 0.118
+      },
+      {
+        "action": "pumping fist",
+        "score": 0.045
+      },
+      {
+        "action": "cleaning windows",
+        "score": 0.041
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0074",
+    "actions": [
+      {
+        "action": "parkour",
+        "score": 0.053
+      },
+      {
+        "action": "skateboarding",
+        "score": 0.041
+      },
+      {
+        "action": "unloading truck",
+        "score": 0.021
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0075",
+    "actions": [
+      {
+        "action": "bungee jumping",
+        "score": 0.471
+      },
+      {
+        "action": "trapezing",
+        "score": 0.047
+      },
+      {
+        "action": "abseiling",
+        "score": 0.023
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0076",
+    "actions": [
+      {
+        "action": "pumping gas",
+        "score": 0.223
+      },
+      {
+        "action": "cleaning windows",
+        "score": 0.081
+      },
+      {
+        "action": "smoking",
+        "score": 0.053
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0077",
+    "actions": []
+  },
+  {
+    "shot_id": "shot_0078",
+    "actions": []
+  },
+  {
+    "shot_id": "shot_0079",
+    "actions": [
+      {
+        "action": "trapezing",
+        "score": 0.085
+      },
+      {
+        "action": "skydiving",
+        "score": 0.068
+      },
+      {
+        "action": "blowing glass",
+        "score": 0.059
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0080",
+    "actions": [
+      {
+        "action": "bungee jumping",
+        "score": 0.224
+      },
+      {
+        "action": "skydiving",
+        "score": 0.214
+      },
+      {
+        "action": "paragliding",
+        "score": 0.089
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0081",
+    "actions": [
+      {
+        "action": "bungee jumping",
+        "score": 0.165
+      },
+      {
+        "action": "pumping fist",
+        "score": 0.036
+      },
+      {
+        "action": "opening bottle",
+        "score": 0.034
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0082",
+    "actions": [
+      {
+        "action": "skydiving",
+        "score": 0.204
+      },
+      {
+        "action": "surfing crowd",
+        "score": 0.037
+      },
+      {
+        "action": "headbanging",
+        "score": 0.033
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0083",
+    "actions": [
+      {
+        "action": "skydiving",
+        "score": 0.249
+      },
+      {
+        "action": "bungee jumping",
+        "score": 0.066
+      },
+      {
+        "action": "holding snake",
+        "score": 0.037
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0084",
+    "actions": [
+      {
+        "action": "assembling computer",
+        "score": 0.143
+      },
+      {
+        "action": "skydiving",
+        "score": 0.065
+      },
+      {
+        "action": "reading newspaper",
+        "score": 0.064
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0085",
+    "actions": [
+      {
+        "action": "skydiving",
+        "score": 0.125
+      },
+      {
+        "action": "bungee jumping",
+        "score": 0.056
+      },
+      {
+        "action": "archery",
+        "score": 0.056
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0086",
+    "actions": [
+      {
+        "action": "bungee jumping",
+        "score": 0.055
+      },
+      {
+        "action": "snowmobiling",
+        "score": 0.038
+      },
+      {
+        "action": "barbequing",
+        "score": 0.036
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0087",
+    "actions": [
+      {
+        "action": "dunking basketball",
+        "score": 0.097
+      },
+      {
+        "action": "tango dancing",
+        "score": 0.056
+      },
+      {
+        "action": "salsa dancing",
+        "score": 0.043
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0088",
+    "actions": []
+  },
+  {
+    "shot_id": "shot_0089",
+    "actions": [
+      {
+        "action": "bartending",
+        "score": 0.267
+      },
+      {
+        "action": "juggling fire",
+        "score": 0.063
+      },
+      {
+        "action": "blowing glass",
+        "score": 0.046
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0090",
+    "actions": [
+      {
+        "action": "blowing glass",
+        "score": 0.293
+      },
+      {
+        "action": "punching bag",
+        "score": 0.038
+      },
+      {
+        "action": "punching person (boxing)",
+        "score": 0.027
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0091",
+    "actions": [
+      {
+        "action": "giving or receiving award",
+        "score": 0.069
+      },
+      {
+        "action": "blowing glass",
+        "score": 0.059
+      },
+      {
+        "action": "garbage collecting",
+        "score": 0.053
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0092",
+    "actions": [
+      {
+        "action": "robot dancing",
+        "score": 0.106
+      },
+      {
+        "action": "playing bagpipes",
+        "score": 0.077
+      },
+      {
+        "action": "playing violin",
+        "score": 0.065
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0093",
+    "actions": [
+      {
+        "action": "recording music",
+        "score": 0.125
+      },
+      {
+        "action": "skateboarding",
+        "score": 0.095
+      },
+      {
+        "action": "extinguishing fire",
+        "score": 0.044
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0094",
+    "actions": [
+      {
+        "action": "bartending",
+        "score": 0.043
+      },
+      {
+        "action": "robot dancing",
+        "score": 0.039
+      },
+      {
+        "action": "high kick",
+        "score": 0.026
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0095",
+    "actions": [
+      {
+        "action": "headbanging",
+        "score": 0.143
+      },
+      {
+        "action": "smoking",
+        "score": 0.047
+      },
+      {
+        "action": "surfing crowd",
+        "score": 0.025
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0096",
+    "actions": [
+      {
+        "action": "riding unicycle",
+        "score": 0.063
+      },
+      {
+        "action": "roller skating",
+        "score": 0.053
+      },
+      {
+        "action": "skateboarding",
+        "score": 0.026
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0097",
+    "actions": [
+      {
+        "action": "robot dancing",
+        "score": 0.534
+      },
+      {
+        "action": "krumping",
+        "score": 0.017
+      },
+      {
+        "action": "smoking",
+        "score": 0.011
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0098",
+    "actions": [
+      {
+        "action": "motorcycling",
+        "score": 0.574
+      },
+      {
+        "action": "changing oil",
+        "score": 0.012
+      },
+      {
+        "action": "playing violin",
+        "score": 0.01
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0099",
+    "actions": [
+      {
+        "action": "smoking",
+        "score": 0.089
+      },
+      {
+        "action": "archery",
+        "score": 0.031
+      },
+      {
+        "action": "playing ice hockey",
+        "score": 0.029
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0100",
+    "actions": [
+      {
+        "action": "motorcycling",
+        "score": 0.096
+      },
+      {
+        "action": "playing controller",
+        "score": 0.057
+      },
+      {
+        "action": "extinguishing fire",
+        "score": 0.057
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0101",
+    "actions": []
+  },
+  {
+    "shot_id": "shot_0102",
+    "actions": [
+      {
+        "action": "crying",
+        "score": 0.562
+      },
+      {
+        "action": "sticking tongue out",
+        "score": 0.029
+      },
+      {
+        "action": "taking a shower",
+        "score": 0.018
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0103",
+    "actions": [
+      {
+        "action": "motorcycling",
+        "score": 0.132
+      },
+      {
+        "action": "playing controller",
+        "score": 0.08
+      },
+      {
+        "action": "high kick",
+        "score": 0.051
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0104",
+    "actions": [
+      {
+        "action": "exercising with an exercise ball",
+        "score": 0.102
+      },
+      {
+        "action": "contact juggling",
+        "score": 0.066
+      },
+      {
+        "action": "situp",
+        "score": 0.055
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0105",
+    "actions": [
+      {
+        "action": "surfing water",
+        "score": 0.054
+      },
+      {
+        "action": "skydiving",
+        "score": 0.051
+      },
+      {
+        "action": "diving cliff",
+        "score": 0.032
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0106",
+    "actions": [
+      {
+        "action": "cracking neck",
+        "score": 0.115
+      },
+      {
+        "action": "beatboxing",
+        "score": 0.098
+      },
+      {
+        "action": "bungee jumping",
+        "score": 0.049
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0107",
+    "actions": [
+      {
+        "action": "motorcycling",
+        "score": 0.304
+      },
+      {
+        "action": "punching person (boxing)",
+        "score": 0.019
+      },
+      {
+        "action": "blowing glass",
+        "score": 0.019
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0108",
+    "actions": [
+      {
+        "action": "rock climbing",
+        "score": 0.237
+      },
+      {
+        "action": "tossing coin",
+        "score": 0.095
+      },
+      {
+        "action": "digging",
+        "score": 0.065
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0109",
+    "actions": [
+      {
+        "action": "playing paintball",
+        "score": 0.452
+      },
+      {
+        "action": "motorcycling",
+        "score": 0.045
+      },
+      {
+        "action": "capoeira",
+        "score": 0.023
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0110",
+    "actions": [
+      {
+        "action": "bobsledding",
+        "score": 0.251
+      },
+      {
+        "action": "smoking",
+        "score": 0.143
+      },
+      {
+        "action": "crying",
+        "score": 0.073
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0111",
+    "actions": [
+      {
+        "action": "motorcycling",
+        "score": 0.197
+      },
+      {
+        "action": "contact juggling",
+        "score": 0.132
+      },
+      {
+        "action": "smoking hookah",
+        "score": 0.065
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0112",
+    "actions": [
+      {
+        "action": "arm wrestling",
+        "score": 0.135
+      },
+      {
+        "action": "pumping fist",
+        "score": 0.079
+      },
+      {
+        "action": "smoking",
+        "score": 0.036
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0113",
+    "actions": [
+      {
+        "action": "blowing glass",
+        "score": 0.09
+      },
+      {
+        "action": "giving or receiving award",
+        "score": 0.038
+      },
+      {
+        "action": "trimming or shaving beard",
+        "score": 0.03
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0114",
+    "actions": [
+      {
+        "action": "smoking",
+        "score": 0.04
+      },
+      {
+        "action": "slapping",
+        "score": 0.031
+      },
+      {
+        "action": "crying",
+        "score": 0.03
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0115",
+    "actions": [
+      {
+        "action": "barbequing",
+        "score": 0.06
+      },
+      {
+        "action": "giving or receiving award",
+        "score": 0.058
+      },
+      {
+        "action": "snowboarding",
+        "score": 0.047
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0116",
+    "actions": [
+      {
+        "action": "crying",
+        "score": 0.094
+      },
+      {
+        "action": "smoking",
+        "score": 0.081
+      },
+      {
+        "action": "applauding",
+        "score": 0.035
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0117",
+    "actions": [
+      {
+        "action": "barbequing",
+        "score": 0.068
+      },
+      {
+        "action": "snowboarding",
+        "score": 0.038
+      },
+      {
+        "action": "welding",
+        "score": 0.033
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0118",
+    "actions": [
+      {
+        "action": "arm wrestling",
+        "score": 0.141
+      },
+      {
+        "action": "drinking beer",
+        "score": 0.052
+      },
+      {
+        "action": "smoking",
+        "score": 0.047
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0119",
+    "actions": [
+      {
+        "action": "drinking beer",
+        "score": 0.041
+      },
+      {
+        "action": "pumping gas",
+        "score": 0.032
+      },
+      {
+        "action": "cleaning windows",
+        "score": 0.026
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0120",
+    "actions": [
+      {
+        "action": "smoking",
+        "score": 0.162
+      },
+      {
+        "action": "contact juggling",
+        "score": 0.049
+      },
+      {
+        "action": "headbanging",
+        "score": 0.021
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0121",
+    "actions": [
+      {
+        "action": "sword fighting",
+        "score": 0.153
+      },
+      {
+        "action": "bungee jumping",
+        "score": 0.066
+      },
+      {
+        "action": "ice skating",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0122",
+    "actions": [
+      {
+        "action": "punching person (boxing)",
+        "score": 0.091
+      },
+      {
+        "action": "tai chi",
+        "score": 0.074
+      },
+      {
+        "action": "tango dancing",
+        "score": 0.064
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0123",
+    "actions": [
+      {
+        "action": "exercising arm",
+        "score": 0.069
+      },
+      {
+        "action": "stretching arm",
+        "score": 0.065
+      },
+      {
+        "action": "archery",
+        "score": 0.056
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0124",
+    "actions": [
+      {
+        "action": "contact juggling",
+        "score": 0.069
+      },
+      {
+        "action": "throwing axe",
+        "score": 0.034
+      },
+      {
+        "action": "dancing ballet",
+        "score": 0.023
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0125",
+    "actions": [
+      {
+        "action": "playing paintball",
+        "score": 0.187
+      },
+      {
+        "action": "robot dancing",
+        "score": 0.076
+      },
+      {
+        "action": "playing violin",
+        "score": 0.035
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0126",
+    "actions": [
+      {
+        "action": "tap dancing",
+        "score": 0.095
+      },
+      {
+        "action": "robot dancing",
+        "score": 0.042
+      },
+      {
+        "action": "riding unicycle",
+        "score": 0.039
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0127",
+    "actions": [
+      {
+        "action": "playing paintball",
+        "score": 0.311
+      },
+      {
+        "action": "robot dancing",
+        "score": 0.129
+      },
+      {
+        "action": "celebrating",
+        "score": 0.013
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0128",
+    "actions": [
+      {
+        "action": "cleaning windows",
+        "score": 0.166
+      },
+      {
+        "action": "archery",
+        "score": 0.04
+      },
+      {
+        "action": "sword fighting",
+        "score": 0.039
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0129",
+    "actions": [
+      {
+        "action": "playing paintball",
+        "score": 0.765
+      },
+      {
+        "action": "rock climbing",
+        "score": 0.005
+      },
+      {
+        "action": "sword fighting",
+        "score": 0.003
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0130",
+    "actions": [
+      {
+        "action": "sniffing",
+        "score": 0.061
+      },
+      {
+        "action": "kissing",
+        "score": 0.06
+      },
+      {
+        "action": "playing poker",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0131",
+    "actions": [
+      {
+        "action": "dining",
+        "score": 0.283
+      },
+      {
+        "action": "playing poker",
+        "score": 0.058
+      },
+      {
+        "action": "arm wrestling",
+        "score": 0.029
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0132",
+    "actions": [
+      {
+        "action": "writing",
+        "score": 0.138
+      },
+      {
+        "action": "brush painting",
+        "score": 0.106
+      },
+      {
+        "action": "drawing",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0133",
+    "actions": [
+      {
+        "action": "hugging",
+        "score": 0.076
+      },
+      {
+        "action": "pumping fist",
+        "score": 0.069
+      },
+      {
+        "action": "celebrating",
+        "score": 0.053
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0134",
+    "actions": [
+      {
+        "action": "belly dancing",
+        "score": 0.214
+      },
+      {
+        "action": "juggling fire",
+        "score": 0.063
+      },
+      {
+        "action": "salsa dancing",
+        "score": 0.039
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0135",
+    "actions": [
+      {
+        "action": "dancing macarena",
+        "score": 0.116
+      },
+      {
+        "action": "dancing gangnam style",
+        "score": 0.05
+      },
+      {
+        "action": "zumba",
+        "score": 0.037
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0136",
+    "actions": [
+      {
+        "action": "extinguishing fire",
+        "score": 0.225
+      },
+      {
+        "action": "playing accordion",
+        "score": 0.028
+      },
+      {
+        "action": "skiing (not slalom or crosscountry)",
+        "score": 0.013
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0137",
+    "actions": [
+      {
+        "action": "robot dancing",
+        "score": 0.126
+      },
+      {
+        "action": "tai chi",
+        "score": 0.024
+      },
+      {
+        "action": "beatboxing",
+        "score": 0.016
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0138",
+    "actions": [
+      {
+        "action": "extinguishing fire",
+        "score": 0.296
+      },
+      {
+        "action": "welding",
+        "score": 0.024
+      },
+      {
+        "action": "blowing glass",
+        "score": 0.019
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0139",
+    "actions": [
+      {
+        "action": "headbanging",
+        "score": 0.107
+      },
+      {
+        "action": "krumping",
+        "score": 0.065
+      },
+      {
+        "action": "air drumming",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0140",
+    "actions": [
+      {
+        "action": "surfing crowd",
+        "score": 0.386
+      },
+      {
+        "action": "headbanging",
+        "score": 0.081
+      },
+      {
+        "action": "playing guitar",
+        "score": 0.02
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0141",
+    "actions": [
+      {
+        "action": "headbanging",
+        "score": 0.089
+      },
+      {
+        "action": "surfing crowd",
+        "score": 0.08
+      },
+      {
+        "action": "contact juggling",
+        "score": 0.04
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0142",
+    "actions": [
+      {
+        "action": "bartending",
+        "score": 0.156
+      },
+      {
+        "action": "headbutting",
+        "score": 0.051
+      },
+      {
+        "action": "headbanging",
+        "score": 0.029
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0143",
+    "actions": [
+      {
+        "action": "recording music",
+        "score": 0.797
+      },
+      {
+        "action": "using computer",
+        "score": 0.032
+      },
+      {
+        "action": "playing keyboard",
+        "score": 0.005
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0144",
+    "actions": [
+      {
+        "action": "counting money",
+        "score": 0.127
+      },
+      {
+        "action": "washing dishes",
+        "score": 0.081
+      },
+      {
+        "action": "recording music",
+        "score": 0.041
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0145",
+    "actions": [
+      {
+        "action": "using computer",
+        "score": 0.49
+      },
+      {
+        "action": "recording music",
+        "score": 0.027
+      },
+      {
+        "action": "playing controller",
+        "score": 0.014
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0146",
+    "actions": [
+      {
+        "action": "recording music",
+        "score": 0.248
+      },
+      {
+        "action": "using remote controller (not gaming)",
+        "score": 0.069
+      },
+      {
+        "action": "playing controller",
+        "score": 0.04
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0147",
+    "actions": [
+      {
+        "action": "archery",
+        "score": 0.07
+      },
+      {
+        "action": "headbanging",
+        "score": 0.066
+      },
+      {
+        "action": "playing paintball",
+        "score": 0.039
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0148",
+    "actions": [
+      {
+        "action": "yoga",
+        "score": 0.157
+      },
+      {
+        "action": "dancing ballet",
+        "score": 0.076
+      },
+      {
+        "action": "washing feet",
+        "score": 0.051
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0149",
+    "actions": [
+      {
+        "action": "crying",
+        "score": 0.65
+      },
+      {
+        "action": "archery",
+        "score": 0.029
+      },
+      {
+        "action": "smoking",
+        "score": 0.013
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0150",
+    "actions": [
+      {
+        "action": "motorcycling",
+        "score": 0.13
+      },
+      {
+        "action": "feeding birds",
+        "score": 0.05
+      },
+      {
+        "action": "skydiving",
+        "score": 0.043
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0151",
+    "actions": [
+      {
+        "action": "garbage collecting",
+        "score": 0.096
+      },
+      {
+        "action": "sword fighting",
+        "score": 0.056
+      },
+      {
+        "action": "robot dancing",
+        "score": 0.048
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0152",
+    "actions": [
+      {
+        "action": "headbanging",
+        "score": 0.063
+      },
+      {
+        "action": "smoking",
+        "score": 0.051
+      },
+      {
+        "action": "welding",
+        "score": 0.029
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0153",
+    "actions": [
+      {
+        "action": "headbanging",
+        "score": 0.077
+      },
+      {
+        "action": "recording music",
+        "score": 0.048
+      },
+      {
+        "action": "assembling computer",
+        "score": 0.046
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0154",
+    "actions": [
+      {
+        "action": "clay pottery making",
+        "score": 0.292
+      },
+      {
+        "action": "counting money",
+        "score": 0.026
+      },
+      {
+        "action": "shining shoes",
+        "score": 0.024
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0155",
+    "actions": [
+      {
+        "action": "using remote controller (not gaming)",
+        "score": 0.054
+      },
+      {
+        "action": "tossing coin",
+        "score": 0.029
+      },
+      {
+        "action": "texting",
+        "score": 0.025
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0156",
+    "actions": [
+      {
+        "action": "contact juggling",
+        "score": 0.245
+      },
+      {
+        "action": "shaking hands",
+        "score": 0.12
+      },
+      {
+        "action": "opening bottle",
+        "score": 0.053
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0157",
+    "actions": []
+  },
+  {
+    "shot_id": "shot_0158",
+    "actions": [
+      {
+        "action": "pushing car",
+        "score": 0.042
+      },
+      {
+        "action": "skateboarding",
+        "score": 0.037
+      },
+      {
+        "action": "blasting sand",
+        "score": 0.032
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0159",
+    "actions": [
+      {
+        "action": "motorcycling",
+        "score": 0.082
+      },
+      {
+        "action": "skydiving",
+        "score": 0.064
+      },
+      {
+        "action": "ski jumping",
+        "score": 0.035
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0160",
+    "actions": [
+      {
+        "action": "extinguishing fire",
+        "score": 0.103
+      },
+      {
+        "action": "snowmobiling",
+        "score": 0.034
+      },
+      {
+        "action": "celebrating",
+        "score": 0.021
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0161",
+    "actions": [
+      {
+        "action": "roller skating",
+        "score": 0.115
+      },
+      {
+        "action": "playing paintball",
+        "score": 0.07
+      },
+      {
+        "action": "archery",
+        "score": 0.064
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0162",
+    "actions": [
+      {
+        "action": "playing ice hockey",
+        "score": 0.285
+      },
+      {
+        "action": "playing paintball",
+        "score": 0.088
+      },
+      {
+        "action": "robot dancing",
+        "score": 0.016
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0163",
+    "actions": [
+      {
+        "action": "ski jumping",
+        "score": 0.308
+      },
+      {
+        "action": "skiing (not slalom or crosscountry)",
+        "score": 0.107
+      },
+      {
+        "action": "skydiving",
+        "score": 0.053
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0164",
+    "actions": [
+      {
+        "action": "skydiving",
+        "score": 0.098
+      },
+      {
+        "action": "air drumming",
+        "score": 0.046
+      },
+      {
+        "action": "smoking",
+        "score": 0.037
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0165",
+    "actions": [
+      {
+        "action": "smoking",
+        "score": 0.178
+      },
+      {
+        "action": "crying",
+        "score": 0.098
+      },
+      {
+        "action": "laughing",
+        "score": 0.056
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0166",
+    "actions": [
+      {
+        "action": "cleaning toilet",
+        "score": 0.114
+      },
+      {
+        "action": "shredding paper",
+        "score": 0.039
+      },
+      {
+        "action": "grinding meat",
+        "score": 0.028
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0167",
+    "actions": [
+      {
+        "action": "playing paintball",
+        "score": 0.104
+      },
+      {
+        "action": "motorcycling",
+        "score": 0.045
+      },
+      {
+        "action": "skydiving",
+        "score": 0.027
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0168",
+    "actions": [
+      {
+        "action": "hugging",
+        "score": 0.098
+      },
+      {
+        "action": "celebrating",
+        "score": 0.06
+      },
+      {
+        "action": "jogging",
+        "score": 0.058
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0169",
+    "actions": [
+      {
+        "action": "giving or receiving award",
+        "score": 0.334
+      },
+      {
+        "action": "kissing",
+        "score": 0.124
+      },
+      {
+        "action": "crying",
+        "score": 0.073
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0170",
+    "actions": [
+      {
+        "action": "playing paintball",
+        "score": 0.564
+      },
+      {
+        "action": "bungee jumping",
+        "score": 0.011
+      },
+      {
+        "action": "eating chips",
+        "score": 0.011
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0171",
+    "actions": [
+      {
+        "action": "celebrating",
+        "score": 0.033
+      },
+      {
+        "action": "bobsledding",
+        "score": 0.029
+      },
+      {
+        "action": "ski jumping",
+        "score": 0.028
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0172",
+    "actions": [
+      {
+        "action": "motorcycling",
+        "score": 0.321
+      },
+      {
+        "action": "playing paintball",
+        "score": 0.066
+      },
+      {
+        "action": "skydiving",
+        "score": 0.026
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0173",
+    "actions": [
+      {
+        "action": "contact juggling",
+        "score": 0.093
+      },
+      {
+        "action": "high kick",
+        "score": 0.069
+      },
+      {
+        "action": "motorcycling",
+        "score": 0.033
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0174",
+    "actions": [
+      {
+        "action": "contact juggling",
+        "score": 0.316
+      },
+      {
+        "action": "flying kite",
+        "score": 0.112
+      },
+      {
+        "action": "counting money",
+        "score": 0.029
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0175",
+    "actions": [
+      {
+        "action": "blowing glass",
+        "score": 0.095
+      },
+      {
+        "action": "surfing crowd",
+        "score": 0.084
+      },
+      {
+        "action": "playing paintball",
+        "score": 0.054
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0176",
+    "actions": [
+      {
+        "action": "sword fighting",
+        "score": 0.089
+      },
+      {
+        "action": "motorcycling",
+        "score": 0.041
+      },
+      {
+        "action": "ironing",
+        "score": 0.033
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0177",
+    "actions": [
+      {
+        "action": "shining shoes",
+        "score": 0.234
+      },
+      {
+        "action": "blowing glass",
+        "score": 0.03
+      },
+      {
+        "action": "playing paintball",
+        "score": 0.027
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0178",
+    "actions": [
+      {
+        "action": "welding",
+        "score": 0.048
+      },
+      {
+        "action": "busking",
+        "score": 0.044
+      },
+      {
+        "action": "archery",
+        "score": 0.037
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0179",
+    "actions": [
+      {
+        "action": "bungee jumping",
+        "score": 0.5
+      },
+      {
+        "action": "skydiving",
+        "score": 0.044
+      },
+      {
+        "action": "playing paintball",
+        "score": 0.033
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0180",
+    "actions": [
+      {
+        "action": "crying",
+        "score": 0.305
+      },
+      {
+        "action": "hugging",
+        "score": 0.084
+      },
+      {
+        "action": "archery",
+        "score": 0.033
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0181",
+    "actions": [
+      {
+        "action": "crying",
+        "score": 0.357
+      },
+      {
+        "action": "smoking",
+        "score": 0.033
+      },
+      {
+        "action": "pushing car",
+        "score": 0.019
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0182",
+    "actions": [
+      {
+        "action": "smoking",
+        "score": 0.332
+      },
+      {
+        "action": "crying",
+        "score": 0.204
+      },
+      {
+        "action": "eating hotdog",
+        "score": 0.016
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0183",
+    "actions": [
+      {
+        "action": "crying",
+        "score": 0.158
+      },
+      {
+        "action": "kissing",
+        "score": 0.045
+      },
+      {
+        "action": "petting animal (not cat)",
+        "score": 0.045
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0184",
+    "actions": [
+      {
+        "action": "playing paintball",
+        "score": 0.076
+      },
+      {
+        "action": "hugging",
+        "score": 0.042
+      },
+      {
+        "action": "crying",
+        "score": 0.036
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0185",
+    "actions": [
+      {
+        "action": "crying",
+        "score": 0.184
+      },
+      {
+        "action": "skydiving",
+        "score": 0.053
+      },
+      {
+        "action": "extinguishing fire",
+        "score": 0.05
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0186",
+    "actions": [
+      {
+        "action": "rock climbing",
+        "score": 0.193
+      },
+      {
+        "action": "playing paintball",
+        "score": 0.141
+      },
+      {
+        "action": "motorcycling",
+        "score": 0.056
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0187",
+    "actions": [
+      {
+        "action": "extinguishing fire",
+        "score": 0.131
+      },
+      {
+        "action": "robot dancing",
+        "score": 0.088
+      },
+      {
+        "action": "contact juggling",
+        "score": 0.057
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0188",
+    "actions": [
+      {
+        "action": "playing paintball",
+        "score": 0.483
+      },
+      {
+        "action": "bungee jumping",
+        "score": 0.02
+      },
+      {
+        "action": "flying kite",
+        "score": 0.019
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0189",
+    "actions": [
+      {
+        "action": "snorkeling",
+        "score": 0.088
+      },
+      {
+        "action": "riding mule",
+        "score": 0.055
+      },
+      {
+        "action": "scuba diving",
+        "score": 0.051
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0190",
+    "actions": [
+      {
+        "action": "giving or receiving award",
+        "score": 0.084
+      },
+      {
+        "action": "smoking",
+        "score": 0.044
+      },
+      {
+        "action": "extinguishing fire",
+        "score": 0.042
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0191",
+    "actions": [
+      {
+        "action": "bowling",
+        "score": 0.016
+      },
+      {
+        "action": "motorcycling",
+        "score": 0.012
+      },
+      {
+        "action": "welding",
+        "score": 0.011
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0192",
+    "actions": [
+      {
+        "action": "checking tires",
+        "score": 0.38
+      },
+      {
+        "action": "motorcycling",
+        "score": 0.042
+      },
+      {
+        "action": "changing wheel",
+        "score": 0.013
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0193",
+    "actions": [
+      {
+        "action": "contact juggling",
+        "score": 0.132
+      },
+      {
+        "action": "scrambling eggs",
+        "score": 0.034
+      },
+      {
+        "action": "belly dancing",
+        "score": 0.03
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0194",
+    "actions": [
+      {
+        "action": "smoking",
+        "score": 0.131
+      },
+      {
+        "action": "crying",
+        "score": 0.104
+      },
+      {
+        "action": "archery",
+        "score": 0.102
+      }
+    ]
+  },
+  {
+    "shot_id": "shot_0195",
+    "actions": [
+      {
+        "action": "dancing ballet",
+        "score": 0.007
+      },
+      {
+        "action": "spinning poi",
+        "score": 0.006
+      },
+      {
+        "action": "air drumming",
+        "score": 0.006
+      }
+    ]
+  }
+]

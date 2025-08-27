@@ -26,6 +26,27 @@
             "Theme music",
             "Water"
         ],
+        "consolidated_actions": [
+            "air drumming",
+            "barbequing",
+            "blowing glass",
+            "chopping wood",
+            "dining",
+            "extinguishing fire",
+            "front raises",
+            "making pizza",
+            "making tea",
+            "opening bottle",
+            "pumping fist",
+            "punching person (boxing)",
+            "shining shoes",
+            "smoking",
+            "smoking hookah",
+            "stretching arm",
+            "washing dishes",
+            "welding",
+            "whistling"
+        ],
         "shot_count": 8,
         "shot_ids": [
             "shot_0001",
@@ -37,16 +58,16 @@
             "shot_0007",
             "shot_0008"
         ],
-        "title": "Mysterious Man, Green Light, and Ominous Sounds",
-        "summary": "The video segment shows a man in a black shirt in various dark settings, including a room with candles.  Accompanying audio includes metallic clangs, an explosion, and thematic music, creating a suspenseful atmosphere.  Other visuals include a metal pot, a knife, and a white glove, adding to the mystery.",
+        "title": "Mysterious Man: Nighttime Actions and Sounds",
+        "summary": "The video segment shows a man in a black shirt performing various actions in dimly lit settings, including dancing and possibly cooking.  Accompanying sounds include metallic clangs, possibly from cooking tools, and background music. The visual elements suggest a narrative scene with an ambiguous atmosphere.",
         "keywords": [
             "man in black shirt",
-            "dark room",
-            "green light",
-            "ominous sounds",
-            "metal pot",
-            "white glove",
-            "suspenseful atmosphere"
+            "dimly lit",
+            "nighttime",
+            "metallic clangs",
+            "music",
+            "ambiguous atmosphere",
+            "various actions"
         ]
     },
     {
@@ -65,20 +86,25 @@
         "consolidated_audio_events": [
             "Music"
         ],
+        "consolidated_actions": [
+            "punching bag",
+            "punching person (boxing)",
+            "tai chi"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0009"
         ],
-        "title": "Energetic Greeting Between Two Men",
-        "summary": "The video segment shows two men, one in a white shirt and the other in a black shirt, interacting.  The audio features upbeat music and the repeated vocalization \"Hey! Hey! Hey!\" suggesting an enthusiastic greeting or call for attention. The scene appears informal and possibly friendly.",
+        "title": "Energetic Boxing Training Montage",
+        "summary": "The video segment shows two men, one in a white shirt and another in black, engaged in intense physical activity.  The audio features repetitive shouts of \"Hey!\" which could be either encouragement or commands, along with background music. The visuals depict actions including punching a bag and boxing each other, interspersed with tai chi movements.",
         "keywords": [
-            "greeting",
-            "two men",
-            "energetic",
-            "music",
-            "white shirt",
-            "black shirt",
-            "vocalization"
+            "boxing",
+            "training",
+            "physical activity",
+            "tai chi",
+            "punching bag",
+            "workout",
+            "energetic"
         ]
     },
     {
@@ -104,6 +130,25 @@
             "Slam",
             "Speech"
         ],
+        "consolidated_actions": [
+            "archery",
+            "bending metal",
+            "bookbinding",
+            "busking",
+            "changing oil",
+            "crying",
+            "finger snapping",
+            "garbage collecting",
+            "opening bottle",
+            "punching person (boxing)",
+            "recording music",
+            "smoking",
+            "tai chi",
+            "tango dancing",
+            "tapping guitar",
+            "washing dishes",
+            "washing feet"
+        ],
         "shot_count": 6,
         "shot_ids": [
             "shot_0010",
@@ -113,16 +158,16 @@
             "shot_0014",
             "shot_0015"
         ],
-        "title": "Suspenseful Scene: Armed Men and a Broken Camera",
-        "summary": "The video segment shows multiple instances of the undead, interspersed with scenes of men handling firearms and a camera malfunction.  Background audio includes sounds of breaking objects, a door, music, a slamming sound, and indistinct speech, contributing to a tense atmosphere. The visuals suggest a narrative involving danger and potential conflict.",
+        "title": "Suspenseful Scene with Weapon and Conversation",
+        "summary": "The video segment shows a series of quick cuts, including repeated images of what appears to be zombies, a man adjusting a camera, and individuals engaged in conversations and actions involving weapons.  Background audio suggests sounds of breaking objects, doors, speech, and music, all contributing to a tense atmosphere.",
         "keywords": [
-            "the walking dead",
-            "gun",
+            "weapon",
+            "zombie",
+            "conversation",
+            "suspense",
             "camera",
-            "breaking",
-            "speech",
-            "man",
-            "suspense"
+            "audio cues",
+            "violence"
         ]
     },
     {
@@ -132,7 +177,7 @@
         "end_time": 70.028,
         "duration_sec": 3.503,
         "speakers": [
-            "yusuf"
+            "tony stark"
         ],
         "full_transcript": "Let me finish this. Now, tell me, tell me, function 11. Tell me when you see progress bar.",
         "consolidated_visual_captions": [
@@ -142,20 +187,25 @@
             "Music",
             "Speech"
         ],
+        "consolidated_actions": [
+            "archery",
+            "bending metal",
+            "smoking"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0016"
         ],
-        "title": "Man with Gun Demands Function 11 Progress",
-        "summary": "A video segment shows a man in a white shirt holding a gun, while music and speech play in the background.  The man urgently demands information, specifically regarding 'function 11' and the appearance of a progress bar.  His tone and actions suggest a tense or potentially dangerous situation.",
+        "title": "Iron Man: Stark's Weapon Function Test",
+        "summary": "The segment shows Tony Stark, possibly testing a weapon function, while background music and speech are audible.  Visuals include a man with a gun and actions like archery and metal bending, which may relate to the weapon's capabilities or Stark's experimentation.  His dialogue focuses on a \"progress bar\", suggesting a technological element.",
         "keywords": [
-            "gun",
-            "progress bar",
-            "function 11",
-            "demand",
-            "threat",
-            "man",
-            "white shirt"
+            "Iron Man",
+            "Tony Stark",
+            "Weapon Function",
+            "Progress Bar",
+            "Archery",
+            "Metal Bending",
+            "Technological Experimentation"
         ]
     },
     {
@@ -176,6 +226,18 @@
             "Music",
             "Speech"
         ],
+        "consolidated_actions": [
+            "bungee jumping",
+            "crying",
+            "laughing",
+            "playing chess",
+            "smoking",
+            "texting",
+            "using computer",
+            "using remote controller (not gaming)",
+            "washing feet",
+            "writing"
+        ],
         "shot_count": 5,
         "shot_ids": [
             "shot_0017",
@@ -184,16 +246,15 @@
             "shot_0020",
             "shot_0021"
         ],
-        "title": "Business Meeting: Discussion and Keyboard Use",
-        "summary": "The video segment shows a business meeting where individuals are engaged in discussion and keyboard use.  Audio includes background music and speech.  A green screen is visible on a computer screen.",
+        "title": "Meeting, Computer Work, and Screen Display",
+        "summary": "The video segment shows a scene with multiple individuals engaged in different activities.  One man is seen in conversation with another, while another person uses a computer, and a screen displays a green background.  Background music and speech are present.",
         "keywords": [
-            "business meeting",
-            "discussion",
-            "keyboard typing",
+            "meeting",
+            "computer work",
             "green screen",
-            "speech",
             "background music",
-            "suit"
+            "conversation",
+            "typing"
         ]
     },
     {
@@ -203,7 +264,7 @@
         "end_time": 85.669,
         "duration_sec": 0.751,
         "speakers": [
-            "yusuf"
+            "tony stark"
         ],
         "full_transcript": "It should be up right now. Talk to me. Tell him when you see it. I have press control. I. I. Go ahead. Enter. I can enter. Come over here and button me up.",
         "consolidated_visual_captions": [
@@ -213,20 +274,25 @@
             "Music",
             "Speech"
         ],
+        "consolidated_actions": [
+            "laughing",
+            "playing recorder",
+            "using computer"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0022"
         ],
-        "title": "Troubleshooting Computer Issue: Urgent Resolution",
-        "summary": "The video segment shows a person actively troubleshooting a computer problem, evidenced by keyboard typing and instructions like \"press control\" and \"enter.\"  Background music and speech suggest a collaborative, possibly urgent, context as the speaker guides someone through the process, indicating a real-time problem-solving scenario.",
+        "title": "Iron Man: Stark's Computer Work and Play",
+        "summary": "The segment shows Tony Stark interacting with a computer, laughing, and playing a recorder while background music and speech are present.  His dialogue suggests he's remotely accessing and controlling a system, indicated by commands like \"press control\" and \"enter.\" The visuals corroborate his actions, portraying him actively using the computer.",
         "keywords": [
-            "computer troubleshooting",
-            "keyboard",
-            "technical issue",
-            "urgent",
-            "collaboration",
-            "problem solving",
-            "real-time"
+            "Iron Man",
+            "Tony Stark",
+            "computer",
+            "recorder",
+            "laughing",
+            "remote access",
+            "control system"
         ]
     },
     {
@@ -254,6 +320,25 @@
             "Single-lens reflex camera",
             "Speech"
         ],
+        "consolidated_actions": [
+            "applying cream",
+            "archery",
+            "crying",
+            "filling eyebrows",
+            "garbage collecting",
+            "hockey stop",
+            "laughing",
+            "motorcycling",
+            "playing paintball",
+            "pushing cart",
+            "roller skating",
+            "smoking",
+            "tap dancing",
+            "texting",
+            "using computer",
+            "using remote controller (not gaming)",
+            "washing feet"
+        ],
         "shot_count": 7,
         "shot_ids": [
             "shot_0023",
@@ -264,16 +349,16 @@
             "shot_0028",
             "shot_0029"
         ],
-        "title": "Man Codes, Robot in Cave, Tiger Roams",
-        "summary": "The video segment shows a man programming on his laptop, interspersed with scenes of a robot in a cave and a white tiger.  Sounds of construction, gunfire, and music accompany these diverse visuals. The audio suggests a dynamic and possibly action-packed context.",
+        "title": "Man Builds Robot in Cave with White Tiger",
+        "summary": "The video segment shows a man working on a metal object and using a computer, possibly in a cave.  A white tiger is present in the scene, and there are sounds of 'Boom', 'Breaking', and 'Music' in the background. The visuals suggest a technological or engineering project, with an unexpected animal present.",
         "keywords": [
-            "programming",
             "robot",
             "cave",
             "white tiger",
-            "gunfire",
-            "construction",
-            "music"
+            "metal object",
+            "computer",
+            "building",
+            "boom"
         ]
     },
     {
@@ -294,20 +379,25 @@
             "Speech",
             "Squeal"
         ],
+        "consolidated_actions": [
+            "changing oil",
+            "driving car",
+            "motorcycling"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0030"
         ],
-        "title": "Stark Prepares for Virtual Test Drive in Need for Speed",
-        "summary": "Tony Stark interacts with his Jarvis AI, preparing for a virtual test drive of a vehicle within the game Need for Speed.  The segment shows on-screen HUD elements and includes background music and speech, suggesting an interactive simulation experience.",
+        "title": "Iron Man Prepares High-Tech Vehicle",
+        "summary": "The video segment shows Tony Stark preparing a vehicle, possibly for a race, as indicated by visuals of \"Need for Speed\".  The audio includes Stark's interaction with his AI, Jarvis, configuring the vehicle's systems, accompanied by music and squealing sounds suggesting engine or tire activity.  His actions include checking gauges, importing preferences, and calibrating a virtual environment.",
         "keywords": [
-            "Tony Stark",
-            "Jarvis",
+            "Iron Man",
+            "Vehicle Preparation",
             "Need for Speed",
-            "Virtual Test Drive",
-            "HUD",
-            "Virtual Reality",
-            "Vehicle Simulation"
+            "High-Tech",
+            "Virtual Environment",
+            "Jarvis",
+            "AI"
         ]
     },
     {
@@ -347,6 +437,44 @@
             "Tools",
             "Vehicle"
         ],
+        "consolidated_actions": [
+            "archery",
+            "assembling computer",
+            "bartending",
+            "bending metal",
+            "blowing glass",
+            "bobsledding",
+            "celebrating",
+            "changing oil",
+            "cleaning floor",
+            "dancing macarena",
+            "driving tractor",
+            "garbage collecting",
+            "golf putting",
+            "ice skating",
+            "jogging",
+            "making tea",
+            "marching",
+            "mopping floor",
+            "motorcycling",
+            "playing paintball",
+            "pumping gas",
+            "pushing wheelchair",
+            "riding mountain bike",
+            "riding unicycle",
+            "robot dancing",
+            "roller skating",
+            "setting table",
+            "skateboarding",
+            "ski jumping",
+            "skipping rope",
+            "sticking tongue out",
+            "sword fighting",
+            "taking a shower",
+            "tossing coin",
+            "triple jump",
+            "welding"
+        ],
         "shot_count": 22,
         "shot_ids": [
             "shot_0031",
@@ -372,16 +500,16 @@
             "shot_0051",
             "shot_0052"
         ],
-        "title": "Robot and Car Garage Scene: Cinematic Trailer",
-        "summary": "The video segment shows a series of quick cuts: a man in a suit interacting with a robot in a garage, close-ups of a car and robot, and shots suggesting a cinematic trailer.  Background audio includes mechanical sounds, music, and possibly speech, creating a suspenseful or action-oriented atmosphere.",
+        "title": "Iron Man Garage Scene: Robot and Car",
+        "summary": "The video segment shows a man in a suit interacting with a robot in a garage.  Various car and robot close-ups are interspersed with shots of the man.  Background audio includes mechanical sounds, music, and possibly speech.",
         "keywords": [
-            "robot",
-            "car",
-            "garage",
-            "trailer",
-            "cinematic",
-            "mechanical sounds",
-            "suit"
+            "Iron Man",
+            "Robot",
+            "Garage",
+            "Car",
+            "Suit",
+            "Mechanical Sounds",
+            "Music"
         ]
     },
     {
@@ -391,7 +519,7 @@
         "end_time": 237.612,
         "duration_sec": 2.836,
         "speakers": [
-            "unknown"
+            "idk"
         ],
         "full_transcript": "That's the coolest thing I've ever seen. Not bad, huh? Let's do it.",
         "consolidated_visual_captions": [
@@ -400,20 +528,25 @@
         "consolidated_audio_events": [
             "Music"
         ],
+        "consolidated_actions": [
+            "counting money",
+            "playing ukulele",
+            "shaking hands"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0053"
         ],
-        "title": "Iron Man Trailer Reaction: Excitement and Approval",
-        "summary": "The video segment shows a reaction to the Iron Man official trailer. The speakers express strong approval, using phrases like \"coolest thing I've ever seen\" and \"Not bad, huh?\" The background features trailer footage and music, creating an atmosphere of excitement and anticipation.",
+        "title": "Iron Man Trailer: Cool Invention Unveiled",
+        "summary": "A segment from the Iron Man official trailer shows scenes of counting money, playing ukulele, and shaking hands, accompanied by upbeat music.  The characters express excitement, with one stating, \"That's the coolest thing I've ever seen. Not bad, huh? Let's do it.\" This suggests the unveiling of a new invention or technology.",
         "keywords": [
             "Iron Man",
-            "trailer reaction",
-            "positive feedback",
-            "excitement",
-            "movie trailer",
-            "superhero",
-            "cool"
+            "trailer",
+            "invention",
+            "money",
+            "ukulele",
+            "handshake",
+            "excitement"
         ]
     },
     {
@@ -433,21 +566,29 @@
             "Music",
             "Speech"
         ],
+        "consolidated_actions": [
+            "driving car",
+            "hurling (sport)",
+            "parasailing",
+            "pumping fist",
+            "texting",
+            "throwing discus"
+        ],
         "shot_count": 2,
         "shot_ids": [
             "shot_0054",
             "shot_0055"
         ],
-        "title": "Iron Man Trailer: Robot by the Boat",
-        "summary": "A video segment shows a robot standing near a boat, accompanied by background music, speech, and the sound of jangling keys.  The visuals strongly suggest a scene from an Iron Man trailer. The audio elements add to the overall atmosphere of the scene.",
+        "title": "Iron Man Trailer: Robot and Action Montage",
+        "summary": "A dynamic video segment features a montage of action scenes, including driving, throwing a discus, and parasailing, interspersed with shots of a robot standing near a boat.  The audio includes background music, speech sounds, and the jangling of keys, contributing to the fast-paced and energetic feel.",
         "keywords": [
             "Iron Man",
             "robot",
-            "boat",
-            "trailer",
-            "jangling keys",
-            "music",
-            "speech"
+            "action montage",
+            "background music",
+            "car driving",
+            "throwing discus",
+            "parasailing"
         ]
     },
     {
@@ -467,20 +608,25 @@
             "Music",
             "Speech"
         ],
+        "consolidated_actions": [
+            "crying",
+            "kissing",
+            "smoking"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0056"
         ],
-        "title": "Stark's Question Amidst Driving Scene",
-        "summary": "The video segment shows a woman in a car wearing headphones, accompanied by music and speech. Tony Stark's voiceover asks a seemingly personal question, \"It's your room and off. You miss me?\", creating a juxtaposition between the visual scene of someone seemingly isolated and the intimate question posed.",
+        "title": "Iron Man Segment: Emotional Farewell and Loss",
+        "summary": "The segment shows a woman in a car, emotionally reacting with crying and kissing, while listening to music.  Tony Stark's voiceover asks, \"It's your room and off. You miss me?\", suggesting a poignant goodbye or a reflection on a past relationship. The scene is underscored by background music and speech.",
         "keywords": [
-            "Tony Stark",
-            "woman",
-            "car",
-            "headphones",
+            "Iron Man",
+            "emotional scene",
+            "farewell",
+            "loss",
+            "woman crying",
             "music",
-            "intimate question",
-            "driving scene"
+            "Tony Stark"
         ]
     },
     {
@@ -530,6 +676,44 @@
             "Television",
             "Vehicle"
         ],
+        "consolidated_actions": [
+            "abseiling",
+            "archery",
+            "bowling",
+            "bungee jumping",
+            "busking",
+            "catching or throwing baseball",
+            "celebrating",
+            "cleaning windows",
+            "contact juggling",
+            "crying",
+            "dancing ballet",
+            "drinking",
+            "extinguishing fire",
+            "gargling",
+            "hugging",
+            "ice skating",
+            "kissing",
+            "motorcycling",
+            "opening bottle",
+            "parkour",
+            "playing controller",
+            "playing cricket",
+            "playing organ",
+            "playing paintball",
+            "playing poker",
+            "pumping fist",
+            "recording music",
+            "riding or walking with horse",
+            "robot dancing",
+            "skateboarding",
+            "smoking",
+            "tap dancing",
+            "texting",
+            "trapezing",
+            "unloading truck",
+            "using remote controller (not gaming)"
+        ],
         "shot_count": 19,
         "shot_ids": [
             "shot_0057",
@@ -552,16 +736,16 @@
             "shot_0074",
             "shot_0075"
         ],
-        "title": "Surreal Montage: City, Superhero, and Mysterious Scenes",
-        "summary": "The video segment is a rapid montage of diverse scenes, including superhero imagery (Iron Man, Loki), urban environments, and ambiguous situations.  Background audio includes a mix of environmental sounds (vehicles, breaking glass), animal sounds (cat, cattle), and music, suggesting a fast-paced, perhaps action-oriented sequence.",
+        "title": "Iron Man Montage with Action Scenes",
+        "summary": "The video segment is a montage of action scenes, predominantly featuring Iron Man from various points in the Avengers franchise.  Interspersed are other action-oriented clips, along with various background sounds including music, vehicles, and other effects. The sequence rapidly switches between shots of different settings and actions.",
         "keywords": [
-            "superheroes",
-            "cityscape",
-            "montage",
-            "action sequence",
-            "ambiguous scenes",
-            "sound effects",
-            "varied audio"
+            "Iron Man",
+            "Action Montage",
+            "Avengers",
+            "Sound Effects",
+            "Rapid Cuts",
+            "Action Scenes",
+            "Visual Effects"
         ]
     },
     {
@@ -571,27 +755,32 @@
         "end_time": 292.083,
         "duration_sec": 1.084,
         "speakers": [
-            "unknown"
+            "idk"
         ],
         "full_transcript": "You will all fall before me. Deploy! Yahoy!",
         "consolidated_visual_captions": [
             "a man in a suit standing in front of a window"
         ],
         "consolidated_audio_events": [],
+        "consolidated_actions": [
+            "cleaning windows",
+            "pumping gas",
+            "smoking"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0076"
         ],
-        "title": "Man in Suit Issues Dramatic Command",
-        "summary": "A video segment shows a man in a suit standing before a window, delivering a commanding statement, \"You will all fall before me. Deploy! Yahoy!\"  The scene is visually stark and the audio is limited to the man's speech, creating a dramatic effect.  No other sounds or visual elements are present.",
+        "title": "Iron Man: Villain's Hubristic Monologue",
+        "summary": "A man in a suit, possibly Iron Man's nemesis, is seen performing mundane tasks such as window cleaning, pumping gas, and smoking. Despite this seemingly normal activity, he delivers a menacing speech, promising his triumph and deploying something unseen, suggesting an imminent action.",
         "keywords": [
-            "man in suit",
-            "dramatic command",
+            "Iron Man",
             "villain",
-            "deployment order",
-            "window setting",
-            "threatening tone",
-            "yahoy"
+            "monologue",
+            "mundane tasks",
+            "deployment",
+            "hubris",
+            "threat"
         ]
     },
     {
@@ -636,6 +825,46 @@
             "Speech",
             "Telephone bell ringing"
         ],
+        "consolidated_actions": [
+            "archery",
+            "assembling computer",
+            "barbequing",
+            "bartending",
+            "blowing glass",
+            "bungee jumping",
+            "changing oil",
+            "dunking basketball",
+            "extinguishing fire",
+            "garbage collecting",
+            "giving or receiving award",
+            "headbanging",
+            "high kick",
+            "holding snake",
+            "juggling fire",
+            "krumping",
+            "motorcycling",
+            "opening bottle",
+            "paragliding",
+            "playing bagpipes",
+            "playing ice hockey",
+            "playing violin",
+            "pumping fist",
+            "punching bag",
+            "punching person (boxing)",
+            "reading newspaper",
+            "recording music",
+            "riding unicycle",
+            "robot dancing",
+            "roller skating",
+            "salsa dancing",
+            "skateboarding",
+            "skydiving",
+            "smoking",
+            "snowmobiling",
+            "surfing crowd",
+            "tango dancing",
+            "trapezing"
+        ],
         "shot_count": 23,
         "shot_ids": [
             "shot_0077",
@@ -662,16 +891,16 @@
             "shot_0098",
             "shot_0099"
         ],
-        "title": "Action-Packed City Chase and Superhero Flashback",
-        "summary": "The video segment depicts a fast-paced urban chase scene, featuring a man with a gun, a car speeding through rain, and a building with significant damage.  Interspersed are shots suggesting a superhero theme, including what appears to be an Avengers movie clip and repeated mentions of 'Iron Man'.  Background sounds consist of explosions, breaking glass, and other action-related audio effects.",
+        "title": "Iron Man Action Montage with City Destruction",
+        "summary": "The video segment is a fast-paced montage featuring various action scenes, including a man in a trench coat with a gun, a car chase in the rain, and a man flying in a suit.  Background audio includes sounds of explosions, mechanisms, and music, suggesting a dynamic and intense sequence, possibly from an action movie.  Repeated mentions of \"Iron Man\" in the visual data strongly suggests the video is related to the Iron Man franchise.",
         "keywords": [
-            "car chase",
-            "gun",
-            "superhero",
-            "Avengers",
             "Iron Man",
-            "explosion",
-            "city destruction"
+            "Action Montage",
+            "City Destruction",
+            "Explosions",
+            "Car Chase",
+            "Flying Suit",
+            "Gun"
         ]
     },
     {
@@ -681,7 +910,7 @@
         "end_time": 354.729,
         "duration_sec": 6.673,
         "speakers": [
-            "unknown"
+            "idk"
         ],
         "full_transcript": "Come on. Nice go to you. I'm the best. Sir, this post is clear of the structure.",
         "consolidated_visual_captions": [
@@ -691,20 +920,25 @@
             "Music",
             "Speech"
         ],
+        "consolidated_actions": [
+            "extinguishing fire",
+            "motorcycling",
+            "playing controller"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0100"
         ],
-        "title": "Iron Man Monologue: Bragging and Structural Clarity",
-        "summary": "The video segment shows a repeated sequence of \"Iron Man\" visuals while background music and speech are present.  A speaker boasts, \"I'm the best,\" and then comments on the structural clarity of something. The visual emphasis on Iron Man may relate to the speaker's self-proclaimed superiority.",
+        "title": "Iron Man Extinguishes Fire, Rides Motorcycle",
+        "summary": "The segment shows Iron Man performing multiple actions.  The audio includes speech and music, with Iron Man stating 'I'm the best' while extinguishing a fire.  Visuals prominently feature Iron Man, along with motorcycling and controller usage.",
         "keywords": [
             "Iron Man",
-            "Bragging",
-            "Superiority",
-            "Structural Clarity",
-            "Music",
-            "Speech",
-            "Visual Repetition"
+            "fire extinguishing",
+            "motorcycling",
+            "controller",
+            "action scene",
+            "music",
+            "speech"
         ]
     },
     {
@@ -742,6 +976,38 @@
             "Speech",
             "Theme music"
         ],
+        "consolidated_actions": [
+            "arm wrestling",
+            "beatboxing",
+            "blowing glass",
+            "bobsledding",
+            "bungee jumping",
+            "capoeira",
+            "contact juggling",
+            "cracking neck",
+            "crying",
+            "digging",
+            "diving cliff",
+            "exercising with an exercise ball",
+            "giving or receiving award",
+            "high kick",
+            "motorcycling",
+            "playing controller",
+            "playing paintball",
+            "pumping fist",
+            "punching person (boxing)",
+            "rock climbing",
+            "situp",
+            "skydiving",
+            "slapping",
+            "smoking",
+            "smoking hookah",
+            "sticking tongue out",
+            "surfing water",
+            "taking a shower",
+            "tossing coin",
+            "trimming or shaving beard"
+        ],
         "shot_count": 14,
         "shot_ids": [
             "shot_0101",
@@ -759,16 +1025,16 @@
             "shot_0113",
             "shot_0114"
         ],
-        "title": "Action Movie Trailer: Intense Scenes and Sounds",
-        "summary": "The video segment appears to be a trailer for an action movie, possibly a superhero film given the reference to \"The Avengers.\"  Visuals show a variety of intense action scenes featuring a man in different settings, including space and a city.  Audio includes sounds of impact, speech, and dramatic theme music.",
+        "title": "Action-Packed Iron Man Trailer Montage",
+        "summary": "The video segment is a dynamic montage of scenes from an Iron Man trailer, showcasing a variety of actions and settings.  Visuals include a man in a spacesuit, various action sequences, and moments of dramatic tension, accompanied by a soundtrack of music and sound effects.  The overall impression is one of high-energy action and suspense.",
         "keywords": [
-            "action movie",
+            "Iron Man",
             "trailer",
-            "intense scenes",
-            "superhero",
-            "gun",
-            "sounds",
-            "avengers"
+            "action scenes",
+            "spacesuit",
+            "music",
+            "sound effects",
+            "montage"
         ]
     },
     {
@@ -788,20 +1054,25 @@
             "Male speech, man speaking",
             "Speech"
         ],
+        "consolidated_actions": [
+            "barbequing",
+            "giving or receiving award",
+            "snowboarding"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0115"
         ],
-        "title": "Stark's Terrified Countdown During Avengers Scene",
-        "summary": "The video segment shows a scene from the Avengers movie featuring Tony Stark.  Stark is speaking a terrified countdown, \"In five four bang...five four three\", indicating a sense of urgency and danger.  The audio consists primarily of male speech, reinforcing the tense atmosphere of the scene.",
+        "title": "Iron Man's Tense Countdown and Escape",
+        "summary": "The segment shows a scene from the Avengers movie where Tony Stark is involved in a high-stakes situation.  Amidst background audio of male speech, he counts down, expressing fear and urgency.  The visuals possibly show him escaping or in danger.",
         "keywords": [
-            "Tony Stark",
+            "Iron Man",
             "Avengers",
             "Countdown",
-            "Terrified",
+            "Escape",
+            "Tension",
             "Action Scene",
-            "Male Speech",
-            "Danger"
+            "Tony Stark"
         ]
     },
     {
@@ -833,6 +1104,37 @@
             "Smash, crash",
             "Speech"
         ],
+        "consolidated_actions": [
+            "applauding",
+            "archery",
+            "arm wrestling",
+            "barbequing",
+            "bungee jumping",
+            "celebrating",
+            "cleaning windows",
+            "contact juggling",
+            "crying",
+            "dancing ballet",
+            "drinking beer",
+            "exercising arm",
+            "headbanging",
+            "ice skating",
+            "playing paintball",
+            "playing violin",
+            "pumping gas",
+            "punching person (boxing)",
+            "riding unicycle",
+            "robot dancing",
+            "smoking",
+            "snowboarding",
+            "stretching arm",
+            "sword fighting",
+            "tai chi",
+            "tango dancing",
+            "tap dancing",
+            "throwing axe",
+            "welding"
+        ],
         "shot_count": 12,
         "shot_ids": [
             "shot_0116",
@@ -849,15 +1151,15 @@
             "shot_0127"
         ],
         "title": "Action-Packed Montage: Suspense and Violence",
-        "summary": "The video segment is a rapid montage of intense scenes, including a man in various situations, from holding a weapon to walking through a tunnel.  Accompanying sounds include bangs, crashes, and speech, creating a suspenseful and potentially violent atmosphere.  The inclusion of a pink ball suggests a possible shift in tone or a surreal element.",
+        "summary": "The video segment is a montage of intense scenes.  Visuals include a man wielding weapons, explosions, and figures in dark clothing, intercut with seemingly unrelated scenes like someone holding a pink ball.  Accompanying audio includes sounds of breaking glass, gunshots and speech.",
         "keywords": [
-            "action montage",
-            "gun violence",
+            "violence",
+            "weapons",
             "suspense",
-            "man in black jacket",
-            "breaking sounds",
-            "tunnel",
-            "pink ball"
+            "montage",
+            "action scenes",
+            "explosions",
+            "gunshots"
         ]
     },
     {
@@ -867,7 +1169,7 @@
         "end_time": 433.099,
         "duration_sec": 5.422,
         "speakers": [
-            "yusuf"
+            "tony stark"
         ],
         "full_transcript": "Where's the rest? Ah, better late than ever. Not this time. Not this time. Who's going to be back? Hello, by the way. Oh, hello, sir.",
         "consolidated_visual_captions": [
@@ -878,20 +1180,25 @@
             "Music",
             "Speech"
         ],
+        "consolidated_actions": [
+            "archery",
+            "cleaning windows",
+            "sword fighting"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0128"
         ],
-        "title": "Man Waits, Impatient Dialogue with Background Noise",
-        "summary": "A video segment shows a man standing in front of a building, while exhibiting impatience and engaging in dialogue.  Background audio includes clang, music, and speech, adding to the scene's dynamic atmosphere. The man's words express anticipation and a greeting, suggesting a meeting or arrival.",
+        "title": "Iron Man: Late Arrival and Unexpected Greetings",
+        "summary": "The segment shows Tony Stark, possibly Iron Man, in an outdoor setting.  While sounds of clang, music, and speech play, he engages in unusual activities such as archery, window cleaning, and sword fighting. His dialogue suggests a delayed arrival and an unexpected encounter.",
         "keywords": [
-            "waiting",
-            "impatience",
-            "dialogue",
-            "background noise",
-            "building",
-            "man",
-            "arrival"
+            "Iron Man",
+            "Tony Stark",
+            "archery",
+            "sword fighting",
+            "unexpected encounter",
+            "outdoor setting",
+            "delayed arrival"
         ]
     },
     {
@@ -919,6 +1226,34 @@
             "Shatter",
             "Speech"
         ],
+        "consolidated_actions": [
+            "arm wrestling",
+            "beatboxing",
+            "belly dancing",
+            "brush painting",
+            "celebrating",
+            "dancing gangnam style",
+            "dancing macarena",
+            "dining",
+            "drawing",
+            "extinguishing fire",
+            "hugging",
+            "juggling fire",
+            "kissing",
+            "playing accordion",
+            "playing paintball",
+            "playing poker",
+            "pumping fist",
+            "robot dancing",
+            "rock climbing",
+            "salsa dancing",
+            "skiing (not slalom or crosscountry)",
+            "sniffing",
+            "sword fighting",
+            "tai chi",
+            "writing",
+            "zumba"
+        ],
         "shot_count": 9,
         "shot_ids": [
             "shot_0129",
@@ -931,16 +1266,16 @@
             "shot_0136",
             "shot_0137"
         ],
-        "title": "Robot, Iron Man, and City Interactions",
-        "summary": "The video segment shows a diverse range of visuals, including a robot near a building, repeated instances of Iron Man imagery, people in conversation, and a man in a green shirt in different settings.  The audio includes music, potentially scary music, a shattering sound, and speech, creating a dynamic and possibly suspenseful atmosphere.",
+        "title": "Iron Man: Robot Action and Human Interactions",
+        "summary": "The video segment features a robot, Iron Man, in various settings, including a building and a table with people.  The audio includes music and possibly speech, along with other sound effects, suggesting a dynamic scene with both action and dialogue.  Visuals also include people engaged in various actions and a drawing.",
         "keywords": [
-            "robot",
             "Iron Man",
-            "city building",
-            "conversation",
-            "scary music",
-            "shattering sound",
-            "man in green shirt"
+            "robot",
+            "human interaction",
+            "music",
+            "action",
+            "various settings",
+            "sound effects"
         ]
     },
     {
@@ -960,20 +1295,25 @@
             "Music",
             "Speech"
         ],
+        "consolidated_actions": [
+            "blowing glass",
+            "extinguishing fire",
+            "welding"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0138"
         ],
-        "title": "Iron Man Suit Request and Limitations",
-        "summary": "The video segment shows a scene from the Iron Man trailer where Tony Stark requests an Iron Man suit.  His request is met with a response indicating the suits are coded only to him, highlighting the exclusive and personalized nature of the technology. The scene is underscored by background music and dialogue.",
+        "title": "Iron Man suit creation and frustration",
+        "summary": "The segment shows Tony Stark attempting to obtain an Iron Man suit, expressing frustration.  The visuals depict him working with glass, fire, and a welding torch, while background music and speech play.  His dialogue reveals that the suits are coded only to him, implying a level of difficulty or exclusivity.",
         "keywords": [
             "Iron Man",
             "Tony Stark",
-            "suit",
-            "technology",
-            "coded",
-            "trailer",
-            "limitations"
+            "suit creation",
+            "frustration",
+            "glassblowing",
+            "welding",
+            "technology"
         ]
     },
     {
@@ -1003,6 +1343,23 @@
             "Speech",
             "Whoosh, swoosh, swish"
         ],
+        "consolidated_actions": [
+            "air drumming",
+            "bartending",
+            "contact juggling",
+            "counting money",
+            "headbanging",
+            "headbutting",
+            "krumping",
+            "playing controller",
+            "playing guitar",
+            "playing keyboard",
+            "recording music",
+            "surfing crowd",
+            "using computer",
+            "using remote controller (not gaming)",
+            "washing dishes"
+        ],
         "shot_count": 8,
         "shot_ids": [
             "shot_0139",
@@ -1014,16 +1371,16 @@
             "shot_0145",
             "shot_0146"
         ],
-        "title": "Robot, Fire, and Men in a Tech Setting",
-        "summary": "The video segment shows a robot alongside a man, possibly in a technological or industrial setting.  Accompanying visuals include a man giving a speech, a fire effect, men in different shirts, and computer-related activities.  The audio includes various sound effects such as beeps, crashes, music, and speech.",
+        "title": "Iron Man: Tech, Fire, and Performance",
+        "summary": "The video segment shows a montage of scenes involving technology, a man possibly interacting with a robot, and a fiery spectacle.  Accompanying sounds include music, beeps, and various impact sounds (booms, crashes).  The visuals suggest a blend of technological development, performance, or perhaps a demonstration.",
         "keywords": [
             "robot",
             "fire",
+            "technology",
+            "music",
+            "impact sounds",
             "man",
-            "computer",
-            "speech",
-            "sound effects",
-            "technology"
+            "computer"
         ]
     },
     {
@@ -1033,7 +1390,7 @@
         "end_time": 509.509,
         "duration_sec": 7.299,
         "speakers": [
-            "yusuf"
+            "tony stark"
         ],
         "full_transcript": "Sentry mode. Okay, Jarvis, you know, I want it all. Make sure you copy who it HQ. You got no backup here. I'm calling Veronica.",
         "consolidated_visual_captions": [
@@ -1043,20 +1400,25 @@
             "Breaking",
             "Music"
         ],
+        "consolidated_actions": [
+            "archery",
+            "headbanging",
+            "playing paintball"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0147"
         ],
-        "title": "Man activates Sentry Mode while on the street",
-        "summary": "A video segment shows a man wearing a black shirt and sunglasses, standing on a street while speaking into a device. He is activating a 'Sentry Mode' and requests a full data backup, mentioning contacting someone named Veronica. The background features breaking sounds and music.",
+        "title": "Iron Man Segment: Street Confrontation and Tech",
+        "summary": "The segment shows Tony Stark, in civilian clothes, engaging in activities that seem out of place for him, like archery and paintball.  He's speaking to his AI, Jarvis, about activating a 'Sentry Mode' and mentions needing backup. The background audio includes breaking sounds and music, suggesting an intense or unusual situation.",
         "keywords": [
+            "Iron Man",
+            "Tony Stark",
             "Sentry Mode",
-            "street",
-            "man",
-            "backup",
-            "Veronica",
             "Jarvis",
-            "HQ"
+            "Street Scene",
+            "Action Sequence",
+            "Unexpected Activities"
         ]
     },
     {
@@ -1087,6 +1449,27 @@
             "Speech",
             "Television"
         ],
+        "consolidated_actions": [
+            "archery",
+            "assembling computer",
+            "clay pottery making",
+            "counting money",
+            "crying",
+            "dancing ballet",
+            "feeding birds",
+            "garbage collecting",
+            "headbanging",
+            "motorcycling",
+            "recording music",
+            "robot dancing",
+            "shining shoes",
+            "skydiving",
+            "smoking",
+            "sword fighting",
+            "washing feet",
+            "welding",
+            "yoga"
+        ],
         "shot_count": 7,
         "shot_ids": [
             "shot_0148",
@@ -1097,16 +1480,16 @@
             "shot_0153",
             "shot_0154"
         ],
-        "title": "Action Movie Montage with Sound Effects",
-        "summary": "The video segment is a montage of action movie scenes, including a man in a red robe, a plane, and a man in a black suit with a gun.  The audio track contains various sound effects like explosions, breaking glass, and music, suggesting a fast-paced, intense sequence.  The presence of movie trailers further supports this analysis.",
+        "title": "Action Montage with Audio Effects",
+        "summary": "The video segment is a montage of diverse scenes, including a man in a red robe, movie trailers (Avengers, Iron Man), a plane, and a man in a black suit with a gun.  Accompanying audio includes various sound effects such as bangs, crashes, and music, suggesting a dynamic and potentially action-oriented sequence. ",
         "keywords": [
-            "action movie",
+            "action montage",
             "sound effects",
+            "movie trailers",
+            "man in red robe",
             "gun",
             "plane",
-            "explosion",
-            "montage",
-            "trailer"
+            "diverse scenes"
         ]
     },
     {
@@ -1116,7 +1499,7 @@
         "end_time": 557.39,
         "duration_sec": 11.553,
         "speakers": [
-            "yusuf"
+            "tony stark"
         ],
         "full_transcript": "All right, everybody, stand down! Good evening, boss. We're in position.",
         "consolidated_visual_captions": [
@@ -1127,20 +1510,25 @@
             "Music",
             "Speech"
         ],
+        "consolidated_actions": [
+            "texting",
+            "tossing coin",
+            "using remote controller (not gaming)"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0155"
         ],
-        "title": "Man in Suit Announces Readiness, Operation Commences",
-        "summary": "A man in a suit and tie, shown standing in a room, addresses someone called 'boss', reporting that his team is ready.  The audio includes speech, keys jangling, and background music, adding to the scene's tense atmosphere.",
+        "title": "Iron Man: Stark Prepares for Mission",
+        "summary": "The segment shows Tony Stark, in a suit, inside a room, giving instructions.  Accompanied by background music and the sound of keys jangling, he texts, tosses a coin, and uses a remote controller, suggesting he's preparing for an operation or mission.  His words, 'All right, everybody, stand down! Good evening, boss. We're in position,' indicate he is commanding a team before an action.",
         "keywords": [
-            "man in suit",
-            "operation",
-            "readiness",
-            "team",
-            "position",
-            "background music",
-            "keys jangling"
+            "Iron Man",
+            "Tony Stark",
+            "Mission Preparation",
+            "Remote Controller",
+            "Texting",
+            "Commanding",
+            "Team"
         ]
     },
     {
@@ -1171,6 +1559,28 @@
             "Vehicle",
             "Whoosh, swoosh, swish"
         ],
+        "consolidated_actions": [
+            "air drumming",
+            "archery",
+            "blasting sand",
+            "celebrating",
+            "contact juggling",
+            "extinguishing fire",
+            "motorcycling",
+            "opening bottle",
+            "playing ice hockey",
+            "playing paintball",
+            "pushing car",
+            "robot dancing",
+            "roller skating",
+            "shaking hands",
+            "skateboarding",
+            "ski jumping",
+            "skiing (not slalom or crosscountry)",
+            "skydiving",
+            "smoking",
+            "snowmobiling"
+        ],
         "shot_count": 9,
         "shot_ids": [
             "shot_0156",
@@ -1183,16 +1593,16 @@
             "shot_0163",
             "shot_0164"
         ],
-        "title": "Action Hero's Journey: City Escape and Flight",
-        "summary": "The video segment depicts a dynamic sequence of action scenes.  Visuals shift between a person walking through a hallway, a man in a suit, a helicopter on the ground and in flight, a skydiver, and a man in a car.  Accompanying audio includes various sound effects like bangs, car noises, music, speech, and whooshing sounds.",
+        "title": "Iron Man Action Scenes and Travel",
+        "summary": "The video segment shows a montage of action scenes, including a man in a suit, a helicopter, and a man skydiving.  Audio includes various sound effects like bangs, whooshes, and possibly speech or music. The visuals also include text mentioning 'Iron Man' and 'Captain America'.",
         "keywords": [
-            "action",
+            "Iron Man",
+            "action scenes",
             "helicopter",
             "skydiving",
-            "city escape",
             "suit",
-            "car",
-            "whoosh"
+            "sound effects",
+            "Captain America"
         ]
     },
     {
@@ -1202,7 +1612,7 @@
         "end_time": 593.134,
         "duration_sec": 2.085,
         "speakers": [
-            "yusuf"
+            "tony stark"
         ],
         "full_transcript": "to people at the airport, didn't you guys wear it? Definitely weird. If you even cared, you'd actually be here.",
         "consolidated_visual_captions": [
@@ -1212,20 +1622,25 @@
             "Music",
             "Television"
         ],
+        "consolidated_actions": [
+            "crying",
+            "laughing",
+            "smoking"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0165"
         ],
-        "title": "Airport encounter and subsequent car ride",
-        "summary": "The video segment shows Yusuf, sitting in the back of a car, expressing his disbelief towards someone's absence.  His statement implies a prior encounter at an airport, suggesting a missed meeting or a broken promise. Background music and television audio accompany the scene.",
+        "title": "Iron Man: Stark's Emotional Car Ride",
+        "summary": "The segment shows Tony Stark, in the back seat of a car, exhibiting a mix of crying and laughing while smoking a cigarette.  Background audio includes music and television sounds.  His dialogue expresses sarcasm and bitterness towards others, possibly referencing a past event.",
         "keywords": [
-            "airport",
+            "Tony Stark",
+            "Iron Man",
+            "emotional scene",
             "car ride",
-            "disbelief",
-            "missed meeting",
-            "absence",
-            "Yusuf",
-            "conversation"
+            "crying",
+            "laughing",
+            "smoking"
         ]
     },
     {
@@ -1250,6 +1665,22 @@
             "Smash, crash",
             "Speech"
         ],
+        "consolidated_actions": [
+            "bungee jumping",
+            "celebrating",
+            "cleaning toilet",
+            "crying",
+            "eating chips",
+            "giving or receiving award",
+            "grinding meat",
+            "hugging",
+            "jogging",
+            "kissing",
+            "motorcycling",
+            "playing paintball",
+            "shredding paper",
+            "skydiving"
+        ],
         "shot_count": 5,
         "shot_ids": [
             "shot_0166",
@@ -1258,16 +1689,16 @@
             "shot_0169",
             "shot_0170"
         ],
-        "title": "Action-Packed Superhero Montage with City Scenes",
-        "summary": "The video segment shows a rapid montage of action scenes.  Visuals include a person reading, a parachutist, various superhero imagery (Iron Man, Spider-Man), and city street scenes.  The audio features a mix of impactful sounds like booms, crashes, and music alongside possible speech.",
+        "title": "Iron Man and City Scenes with Skydiving",
+        "summary": "The video segment shows a variety of scenes, including a person reading, a man skydiving, and multiple shots of Iron Man and Spider-Man in a city setting.  Background audio includes music, booms, and crashes suggesting a dynamic and action-packed sequence.  Other scenes depict people walking and various implied actions.",
         "keywords": [
-            "superhero",
-            "action",
-            "city",
-            "parachute",
-            "boom",
-            "crash",
-            "music"
+            "Iron Man",
+            "Spider-Man",
+            "Skydiving",
+            "City Scene",
+            "Action Sequence",
+            "Music",
+            "Crash"
         ]
     },
     {
@@ -1288,20 +1719,25 @@
             "Shatter",
             "Speech"
         ],
+        "consolidated_actions": [
+            "bobsledding",
+            "celebrating",
+            "ski jumping"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0171"
         ],
-        "title": "Iron Man Reveals Nanotech in Trailer Segment",
-        "summary": "The segment shows Iron Man showcasing his new nanotechnology.  Tony Stark's dialogue confirms the technology's presence, while background audio of music and a shattering sound adds to the dramatic effect of the reveal.  The visuals focus on Iron Man, emphasizing the new suit and capabilities.",
+        "title": "Iron Man's Nanotech Suit: Bobsledding and Celebration",
+        "summary": "The segment shows Iron Man showcasing his nanotech suit, possibly during a celebratory bobsledding or ski jumping event.  Tony Stark's dialogue highlights the technology's novelty, while background audio includes music and sound effects that fit the action-oriented scene.",
         "keywords": [
             "Iron Man",
-            "Nanotechnology",
-            "Trailer Reveal",
+            "Nanotech Suit",
+            "Bobsledding",
+            "Celebration",
+            "Ski Jumping",
             "Tony Stark",
-            "New Suit",
-            "Visual Effects",
-            "Background Audio"
+            "Action Scene"
         ]
     },
     {
@@ -1322,22 +1758,31 @@
             "Music",
             "Smash, crash"
         ],
+        "consolidated_actions": [
+            "contact juggling",
+            "counting money",
+            "flying kite",
+            "high kick",
+            "motorcycling",
+            "playing paintball",
+            "skydiving"
+        ],
         "shot_count": 3,
         "shot_ids": [
             "shot_0172",
             "shot_0173",
             "shot_0174"
         ],
-        "title": "Iron Man Trailer: Action and Nature Scenes",
-        "summary": "The video segment shows a montage of scenes including a trailer for Iron Man, a man in formal wear, and a man with a dog walking through a forest.  The audio features a mix of music and sound effects suggesting action and impact, such as booms and crashes.",
+        "title": "Iron Man Trailer: Action Montage",
+        "summary": "This video segment is a fast-paced montage featuring various action scenes.  Visuals include a man in a suit, a forest scene with a dog, and clips that suggest contact juggling, motorcycling, and perhaps skydiving.  Background audio includes music and sound effects like booms and crashes.",
         "keywords": [
             "Iron Man",
-            "trailer",
-            "action scenes",
+            "action montage",
+            "suit",
             "forest",
-            "dog",
-            "boom",
-            "crash"
+            "motorcycling",
+            "sound effects",
+            "skydiving"
         ]
     },
     {
@@ -1357,20 +1802,25 @@
             "Music",
             "Shatter"
         ],
+        "consolidated_actions": [
+            "blowing glass",
+            "playing paintball",
+            "surfing crowd"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0175"
         ],
-        "title": "Astonishment and possible accident witnessed",
-        "summary": "A short video segment shows a man in a suit and a woman in a dress.  The only dialogue is a single, short utterance of 'Oh', suggesting surprise or shock.  Background audio includes music and the sound of shattering, hinting at a possible accident or unexpected event.",
+        "title": "Surreal Glassblowing, Paintball, and Crowd Surfing Scene",
+        "summary": "The video segment features a man in a suit and a woman in a dress. The scene is marked by unusual juxtapositions: glassblowing, paintball, and crowd surfing are shown in quick succession.  The audio includes music and the sound of shattering glass, while the only dialogue is a single, unattributed 'Oh'.",
         "keywords": [
-            "Astonishment",
-            "Accident",
-            "Man in suit",
-            "Woman in dress",
-            "Shattering sound",
-            "Music",
-            "Brief utterance"
+            "glassblowing",
+            "paintball",
+            "crowd surfing",
+            "surreal",
+            "man in suit",
+            "woman in dress",
+            "shattering glass"
         ]
     },
     {
@@ -1395,6 +1845,23 @@
             "Shatter",
             "Speech"
         ],
+        "consolidated_actions": [
+            "archery",
+            "blowing glass",
+            "bungee jumping",
+            "busking",
+            "crying",
+            "hugging",
+            "ironing",
+            "motorcycling",
+            "playing paintball",
+            "pushing car",
+            "shining shoes",
+            "skydiving",
+            "smoking",
+            "sword fighting",
+            "welding"
+        ],
         "shot_count": 6,
         "shot_ids": [
             "shot_0176",
@@ -1404,16 +1871,16 @@
             "shot_0180",
             "shot_0181"
         ],
-        "title": "Crowd, Snake Handler, and Action Movie Scenes",
-        "summary": "The video segment shows a montage of visually diverse scenes. These include a large group of people in a field, a man handling a snake, and several action movie scenes featuring Iron Man and Spider-Man. The audio consists of background music, punctuated by moments of scary music and a shattering sound, with some indistinguishable speech.",
+        "title": "Action-Packed Trailer Montage: Iron Man and More",
+        "summary": "The video segment is a fast-paced montage featuring diverse scenes, including a crowd in a field, a man handling a snake, archery, and a man with a gun.  Interspersed are repeated instances of \"Iron Man\" text and visual references, along with other unrelated scenes such as spider-man related imagery.  Background audio consists of music and other sound effects.",
         "keywords": [
-            "Crowd",
-            "Snake Handler",
             "Iron Man",
-            "Spider-Man",
-            "Action Movie",
-            "Scary Music",
-            "Shattering Sound"
+            "action montage",
+            "diverse scenes",
+            "sound effects",
+            "gun",
+            "snake",
+            "spider-man"
         ]
     },
     {
@@ -1434,20 +1901,25 @@
             "Music",
             "Rumble"
         ],
+        "consolidated_actions": [
+            "crying",
+            "eating hotdog",
+            "smoking"
+        ],
         "shot_count": 1,
         "shot_ids": [
             "shot_0182"
         ],
-        "title": "Man in Red Jacket Points at Animal",
-        "summary": "A video segment shows a man wearing a red jacket pointing towards something while background animal sounds and music are present. The only audible speech is a single, short exclamation, \"Oh!\"",
+        "title": "Man in Red Jacket Reacts with Emotion",
+        "summary": "A video segment shows a man wearing a red jacket displaying a range of actions including crying, eating a hotdog, and smoking while pointing at something.  The audio includes animal sounds, music, and a rumble, adding to the emotional intensity of the scene.  The man's exclamation of \"Oh!\" suggests a sudden emotional response to the visual event.",
         "keywords": [
-            "pointing",
             "red jacket",
-            "animal sounds",
-            "music",
-            "exclamation",
-            "man",
-            "unknown subject"
+            "emotional reaction",
+            "pointing",
+            "crying",
+            "eating hotdog",
+            "smoking",
+            "background noise"
         ]
     },
     {
@@ -1483,6 +1955,36 @@
             "Television",
             "Theme music"
         ],
+        "consolidated_actions": [
+            "air drumming",
+            "archery",
+            "belly dancing",
+            "bowling",
+            "bungee jumping",
+            "changing wheel",
+            "checking tires",
+            "contact juggling",
+            "crying",
+            "dancing ballet",
+            "extinguishing fire",
+            "flying kite",
+            "giving or receiving award",
+            "hugging",
+            "kissing",
+            "motorcycling",
+            "petting animal (not cat)",
+            "playing paintball",
+            "riding mule",
+            "robot dancing",
+            "rock climbing",
+            "scrambling eggs",
+            "scuba diving",
+            "skydiving",
+            "smoking",
+            "snorkeling",
+            "spinning poi",
+            "welding"
+        ],
         "shot_count": 13,
         "shot_ids": [
             "shot_0183",
@@ -1499,16 +2001,14 @@
             "shot_0194",
             "shot_0195"
         ],
-        "title": "Action Movie Trailer: City Showdown and Explosions",
-        "summary": "The video segment shows a montage of action scenes, including a man in a suit, possibly a superhero, facing a large city.  Explosions and other impactful sounds, like shattering glass, accompany quick cuts between scenes. The visuals also include a large bird, a car, and various other seemingly unrelated imagery, hinting at a dynamic, possibly complex narrative.",
+        "title": "Iron Man Trailer: Action and Suspense",
+        "summary": "The video segment features a montage of action scenes, including a man in a suit, potentially Iron Man, in various settings.  Background audio includes music, explosions, and other sound effects suggesting intense action and conflict.  Visuals also include a close-up of a car and a large bird, hinting at a diverse setting.",
         "keywords": [
-            "action movie",
-            "city scene",
-            "superhero",
+            "Iron Man",
+            "action scenes",
             "explosions",
-            "gunfire",
-            "trailer",
-            "montage"
+            "city setting",
+            "trailer"
         ]
     }
 ]

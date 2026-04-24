@@ -1,14 +1,13 @@
-# ui-search.yaml
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: ui-search
+  name: ui-speaker
   namespace: video-se
 spec:
   replicas: 1
-  selector: { matchLabels: { app: ui-search } }
+  selector: { matchLabels: { app: ui-speaker } }
   template:
-    metadata: { labels: { app: ui-search } }
+    metadata: { labels: { app: ui-speaker } }
     spec:
       securityContext:
         runAsNonRoot: true
@@ -16,26 +15,26 @@ spec:
         fsGroup: 10001
       containers:
       - name: ui
-        image: <REG>/video-se-ui-search:<TAG>
+        image: <REG>/video-se-ui-speaker:<TAG>
         imagePullPolicy: IfNotPresent
-        command: ["streamlit","run","app/ui/search_app.py","--server.address","0.0.0.0","--server.port","8501"]
-        ports: [{ containerPort: 8501 }]
+        command: ["streamlit","run","app/ui/speaker_id_tool.py","--server.address","0.0.0.0","--server.port","5050"]
+        ports: [{ containerPort: 5050 }]
         env:
           - { name: HOME, value: /tmp }
           - { name: STREAMLIT_BROWSER_GATHER_USAGE_STATS, value: "false" }
         envFrom:
-          - configMapRef: { name: video-se-config }   # gives API_HOST, API_PORT, VIDEO_DATA_PATH, etc.
+          - configMapRef: { name: video-se-config }
         volumeMounts:
           - { name: videos,    mountPath: /data/videos,    readOnly: true }
           - { name: processed, mountPath: /data/processed }
           - { name: tmp,       mountPath: /tmp }
         readinessProbe:
-          httpGet: { path: "/", port: 8501 }
+          httpGet: { path: "/", port: 5050 }
           initialDelaySeconds: 10
           periodSeconds: 5
           timeoutSeconds: 2
         livenessProbe:
-          tcpSocket: { port: 8501 }   # Streamlit is fine with a TCP probe
+          tcpSocket: { port: 5050 }
           initialDelaySeconds: 20
           periodSeconds: 10
         resources:
@@ -54,11 +53,11 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: ui-search
+  name: ui-speaker
   namespace: video-se
 spec:
-  selector: { app: ui-search }
+  selector: { app: ui-speaker }
   ports:
     - name: http
       port: 80
-      targetPort: 8501
+      targetPort: 5050
